@@ -1,4 +1,4 @@
-# Secrets — safeguard even though none currently exist
+# Secrets
 .env
 *.env
 secrets.toml
