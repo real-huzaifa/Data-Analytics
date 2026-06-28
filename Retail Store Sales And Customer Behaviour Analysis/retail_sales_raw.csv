@@ -1,0 +1,1731 @@
+Transaction ID,Customer ID,Product Category,Product Name,Quantity,Unit Price,Total Amount,Purchase Date,Customer City,Payment Method
+100932,C0503,Groceries,Cooking Oil 1L,2.0,1729.13,3458.26,"August 16, 2024",Quetta,Debit Card
+101309,C0339,Home&Kitchen,Frying Pan,3.0,10892.87,32678.61,2025-09-09,Peshawar,Mobile Wallet
+100397,C0535,Clothing,Sneakers,4.0,2668.91,10675.64,"December 10, 2024",hyderabad,Bank Transfer
+100538,C0224,Electronics,USB-C Cable,3.0,72429.71,217289.13,2025-12-28,islamabad,Credit Card
+100791,C0223,Home & Kitchen,Frying Pan,5.0,6636.68,33183.4,"April 15, 2025",Quetta,Credit Card
+100398,C0389,Beauty,Body Lotion,1.0,521.68,521.68,2024-11-23,Rawalpindi,Debit Card
+100175,C0242,Beauty,Lipstick,1.0,1683.36,1683.36,2025-09-20,Quetta,Cash
+100260,C0008,Clothing,Jeans,5.0,1200.56,6002.8,10/12/2024,Quetta,Mobile Wallet
+100329,C0553,Clothing,Sneakers,1.0,7996.0,7996.0,2025-06-28,,Debit Card
+100368,C0076,Electronics,Bluetooth Speaker,4.0,26787.11,107148.44,2025-12-17,Peshawar,Credit Card
+101455,C0413,Beauty,Sunscreen,5.0,2454.85,12274.25,2024-11-20,Hyderabad,Bank Transfer
+101573,C0043,Clothing,Jacket,3.0,4161.81,12485.43,2024-10-18,Lahore,
+100022,C0263,Clothing,Sneakers,2.0,6014.12,12028.24,"December 03, 2025",Sialkot,Credit Card
+100259,C0436,Sports,Dumbbell Set,1.0,13674.62,13674.62,07/06/2025,Peshawar,Credit Card
+100038,C0513,Beauty,Face Wash,1.0,4818.84,4818.84,2024-10-26,Lahore,Credit Card
+100608,C0082,Beauty,Face Wash,2.0,2742.61,5485.22,2024-10-13,Karachi,Credit Card
+100002,C0476,Home & Kitchen,Knife Set,4.0,6439.65,25758.6,2025-01-10,Islamabad,Mobile Wallet
+101315,C0490,Clothing,Hoodie,4.0,4608.05,18432.2,2024-10-08,Lahore,Credit Card
+100065,C0001,Beauty,Sunscreen,3.0,3821.84,11465.52,2024-04-14,Islamabad,Bank Transfer
+100457,C0568,Clothing,Cap,2.0,,12591.58,2025-10-23,Multan,Debit Card
+100609,C0559,Sports,Football,4.0,2077.63,9141.57,2025-12-24,Hyderabad,Bank Transfer
+101081,C0545,Home & Kitchen,Pillow,5.0,8691.47,43457.35,2025-10-07,Faisalabad,Credit Card
+101654,C0024,Groceries,Bread Loaf,2.0,1062.7,2125.4,2024-06-13,Multan,Debit Card
+100348,C0245,Groceries,Sugar 1kg,3.0,540.06,1620.18,"October 17, 2024",Lahore,Debit Card
+101303,C0279,Beauty,Lipstick,2.0,3119.01,6238.02,2025-08-08,Karachi,Mobile Wallet
+101518,C0393,Groceries,Cooking Oil 1L,1.0,1994.94,1994.94,26/02/2025,Faisalabad,Mobile Wallet
+100345,C0493,sports,Yoga Mat,3.0,3032.5,9097.5,2024-03-12,Karachi,Credit Card
+101368,C0575,Beauty,Face Wash,1.0,4235.92,4235.92,"February 12, 2025",Karachi,Cash
+100499,C0288,Sports,Gym Gloves,1.0,10027.58,10027.58,2025-08-21,Lahore,Cash
+101302,C0500,Groceries,Biscuits,2.0,2347.81,4695.62,2024-08-19,Karachi,Mobile Wallet
+101041,C0221,Clothing,Hoodie,3.0,,15135.33,2024-10-16,Quetta,Bank Transfer
+100433,C0438,Sports,Water Bottle,2.0,8224.65,16449.3,2024-06-05,Sialkot,Cash
+100864,C0561,Clothing,Socks Pack,3.0,6645.49,19936.47,2025-10-11,Islamabad,Credit Card
+100287,C0529,Sports,Yoga Mat,,4684.94,4684.94,2024-06-09,Quetta,Bank Transfer
+101627,C0600,Home & Kitchen,Dinner Set,2.0,6273.03,12546.06,2025-09-17,Islamabad,Mobile Wallet
+100744,C0423,Beauty,Lipstick,3.0,1037.03,3111.09,"March 01, 2025",Faisalabad,Cash
+100819,C0560,Groceries,Bread Loaf,3.0,1993.04,5979.12,2025-06-03,Karachi,Credit Card
+101088,C0571,Electronics,Bluetooth Speaker,1.0,16570.97,16570.97,2024-03-07,Multan,Mobile Wallet
+100861,C0442,Beauty,Body Lotion,3.0,2221.5,6664.5,2024-01-13,Faisalabad,Debit Card
+100042,C0325,Sports,Running Shoes,4.0,13345.53,53382.12,2025-06-26,Rawalpindi,Debit Card
+100613,C0200,Sports,Water Bottle,1.0,6910.95,6910.95,2025-06-26,Peshawar,Mobile Wallet
+101677,C0451,Sports,Yoga Mat,5.0,10306.67,51533.35,2025-03-14,Lahore,Bank Transfer
+100794,C0598,Clothing,Cap,3.0,3947.11,11841.33,2024-12-23,Quetta,Credit Card
+100722,C0557,Home & Kitchen,Pillow,4.0,11015.03,44060.12,2025-11-05,Hyderabad,Debit Card
+100905,C0449,Electronics,USB-C Cable,4.0,67246.86,268987.44,2024-10-25,Hyderabad,Credit card
+101599,C0221,Sports,Yoga Mat,4.0,7697.4,30789.6,2025-06-06,Multan,Bank Transfer
+101698,C0560,Clothing,Sneakers,2.0,2857.36,5714.72,2024-02-21,Multan,Mobile Wallet
+101610,C0473,Home & Kitchen,Pillow,2.0,4613.53,9227.06,2025-04-03,Sialkot ,
+100340,C0434,Groceries,Eggs Dozen,1.0,2397.85,2397.85,"April 20, 2025",Multan,Credit Card
+100130,C0429,Sports,Football,4.0,5311.01,21244.04,2024-10-03,Quetta,Debit Card
+100093,C0228,Groceries,Bread Loaf,1.0,2201.77,2201.77,"February 15, 2025",,Mobile Wallet
+100954,C0427,Home & Kitchen,Bed Sheet,3.0,6799.64,20398.92,"February 11, 2025",Karachi,Mobile Wallet
+100857,C0253,Sports,Gym Gloves,2.0,12177.93,24355.86,2025-11-25,Islamabad,Mobile Wallet
+101031,C0146,Clothing,Dress,3.0,3638.37,10915.11,2025-09-26,Islamabad,Debit Card
+101168,C0016,Home & Kitchen,Frying Pan,5.0,993.91,4969.55,2025-12-02,Multan,Bank Transfer
+101123,C0574,Groceries,Sugar 1kg,1.0,842.32,842.32,2025-06-23,Peshawar,Cash
+100476,C0005,Home & Kitchen,Dinner Set,2.0,8246.63,16493.26,"October 26, 2025",Sialkot,Mobile Wallet
+101109,C0540,Electronics,Laptop,5.0,38754.63,193773.15,"November 13, 2025",Sialkot,Mobile Wallet
+101462,C0145,Clothing,T-Shirt,3.0,7040.22,21120.66,2024-07-04,Karachi,mobile wallet
+100640,C0219,Home & Kitchen,Knife Set,5.0,11347.24,56736.2,"July 17, 2024",,Bank Transfer
+101538,C0221,Electronics,Smartphone,1.0,44950.06,49445.07,2025-10-24,Multan,Credit Card
+100965,C0503,Electronics,Bluetooth Speaker,5.0,86704.2,433521.0,2024-11-05,Sialkot,Cash
+100188,C0470,home & kitchen,Mug,3.0,3148.74,9446.22,"June 13, 2024",Islamabad,Debit Card
+100689,C0426,Home & Kitchen,Towel,2.0,7824.32,15648.64,"September 07, 2024",Faisalabad,Cash
+100515,C0437,Beauty,Hair Oil,3.0,4387.05,13161.15,2024-12-26,Karachi,Credit card
+100239,C0515,Home & Kitchen,Frying Pan,1.0,4835.78,4835.78,2024-09-14,Quetta,Bank Transfer
+100369,C0369,Electronics,Laptop,4.0,58676.3,234705.2,2025-11-18,Islamabad,Cash
+100891,C0538,Beauty,Lipstick,3.0,4451.13,13353.39,2024-11-24,Quetta,Debit Card
+100610,C0154,Clothing,Cap,3.0,2124.34,6373.02,2024-02-26,Karachi,Debit Card
+100677,C0536,Home & Kitchen,Dinner Set,2.0,9195.84,18391.68,21/01/2025,Multan,Mobile Wallet
+100993,C0221,home & kitchen,Mug,4.0,10928.72,43714.88,"October 11, 2024",Karachi,Debit Card
+100926,C0147,Sports,Dumbbell Set,4.0,13121.47,52485.88,2025-12-22,Karachi,Credit Card
+100482,C0453,Groceries,Bread Loaf,4.0,1969.93,7879.72,23/07/2025, Multan,DC
+100576,C0383,Electronics,Laptop,5.0,100618.4,503092.0,2024-09-05,Karachi,Cash
+101385,C0271,Sports,Water Bottle,1.0,8872.85,8872.85,26/04/2024,Karachi,Mobile Wallet
+100551,C0236,Sports,Gym Gloves,4.0,8700.86,34803.44,2024-10-14,Peshawar,Bank Transfer
+101680,C0343,Sports,Dumbbell Set,3.0,6180.3,18540.9,"September 16, 2024",Quetta,Cash
+100573,C0222,Sports,Running Shoes,2.0,2404.58,4809.16,2025-02-07,Quetta,Cash
+100082,C0075,Clothing,Cap,4.0,3577.98,14311.92,20/12/2025,Rawalpindi,Credit Card
+100833,C0557,Sports,Football,4.0,12057.87,48231.48,2025-08-08,Rawalpindi,Credit Card
+100563,C0330,Home & Kitchen,Mug,2.0,8057.42,16114.84,13/11/2024,Hyderabad,
+101142,C0460, Sports ,Water Bottle,5.0,14019.55,70097.75,"March 22, 2025",Multan,Bank Transfer
+101217,C0141,groceries,Sugar 1kg,1.0,818.95,818.95,2025-11-10,Rawalpindi,Debit Card
+100232,C0044,Beauty,Body Lotion,2.0,595.57,1191.14,2025-04-24,Multan,Cash
+101418,C0217,Beauty,Hair Oil,4.0,1085.09,4340.36,2024-11-17,Karachi,Debit Card
+100512,C0206,Electronics,Wireless Earbuds,4.0,56089.37,224357.48,2024-09-20,,Transfer
+100378,C0082,Sports,Running Shoes,2.0,14665.72,29331.44,2024-12-09,Sialkot,Mobile Wallet
+100460,C0299,Groceries,Sugar 1kg,3.0,2372.13,7116.39,2024-08-17,Rawalpindi,Debit Card
+100702,C0220,Electronics,Wireless Earbuds,3.0,42929.31,128787.93,2024-05-19,Quetta,Bank Transfer
+101184,C0215,Clothing,Sneakers,4.0,3094.62,12378.48,2024-07-05,Peshawar,Debit Card
+100822,C0176,Sports,Football,5.0,3315.18,16575.9,2024-07-24,Multan,Bank Transfer
+101277,C0310,Electronics,Bluetooth Speaker,5.0,118984.66,594923.3,2025-03-14,Peshawar,Cash
+101487,C0171,Electronics,Wireless Earbuds,2.0,52307.04,104614.08,"August 13, 2025",Karachi,Debit Card
+100922,C0586,Home & Kitchen,Knife Set,4.0,7941.7,31766.8,2024-07-17,Sialkot,DC
+100069,C0335, Sports ,Gym Gloves,2.0,6787.13,13574.26,"June 24, 2025",Peshawar,Debit Card
+100798,C0427,Home & Kitchen,Towel,2.0,11010.37,22020.74,12/11/2024,Rawalpindi,Cash
+101316,C0559,Sports,Football,2.0,13704.34,27408.68,2025-06-22,Peshawar,Bank Transfer
+100473,C0426,Electronics,Power Bank,5.0,63545.0,31772.5,2024-09-10,Faisalabad,Credit Card
+101033,C0040,Sports,Running Shoes,3.0,1349.01,4047.03,2025-10-21,Peshawar,Bank Transfer
+100835,C0214,Electronics,Laptop,3.0,10449.96,31349.88,2024-10-26,Quetta,Bank Transfer
+101161,C0025,Beauty,Face Wash,3.0,2639.1,7917.3,2025-03-17,Multan,Bank Transfer
+100526,C0181,Beauty,Sunscreen,1.0,708.46,708.46,15/06/2024,Multan,Mobile Wallet
+101616,C0292,Clothing,Hoodie,3.0,1552.42,4657.26,07/09/2024,Faisalabad,Credit Card
+101655,C0264,Beauty,Body Lotion,4.0,4285.74,17142.96,"November 17, 2025",Sialkot,Credit Card
+100540,C0518,BEAUTY,Lipstick,3.0,942.33,2826.99,2024-10-03,Multan,bank transfer
+101411,C0273,Home & Kitchen,Pillow,3.0,3490.32,10470.96,"July 12, 2024",Sialkot,Debit Card
+101003,C0097,Electronics,Power Bank,4.0,26835.44,107341.76,19/12/2024,Peshawar,DC
+100394,C0256,Groceries,Cooking Oil 1L,3.0,1290.19,3870.57,2024-09-22,Peshawar,Bank Transfer
+100402,C0499,Grocery ,Sugar 1kg,1.0,470.5,470.5,10/06/2024,Sialkot,Debit Card
+101542,C0382,Home & Kitchen,Knife Set,4.0,9555.54,38222.16,2024-11-20,Karachi,Debit Card
+101564,C0299,Electronics,Bluetooth Speaker,2.0,88975.74,177951.48,"January 04, 2024",Faisalabad,Debit Card
+100430,C0571,Sports,Yoga Mat,3.0,2006.92,6020.76,2025-03-09,Hyderabad,Credit Card
+100531,C0039,Clothing,Cap,1.0,4967.6,4967.6,2024-08-16,Hyderabad,Mobile Wallet
+100783,C0235,Sports,Gym Gloves,2.0,10651.49,21302.98,2025-05-08,Islamabad,Credit Card
+101495,C0490,Home & Kitchen,Pillow,2.0,2515.47,5030.94,22/07/2025,Karachi,Credit Card
+100292,C0210,Groceries,Tea Pack,2.0,1643.55,3287.1,10/06/2025,Islamabad,Credit Card
+100080,C0377,Electronics,Bluetooth Speaker,2.0,44525.25,89050.5,2024-09-27,Karachi,bank transfer
+101239,C0423,Home & Kitchen,Knife Set,5.0,5978.54,29892.7,2025-06-19,Multan,Credit Card
+101689,C0472,home & kitchen,Pillow,4.0,4457.2,17828.8,2025-09-14,Faisalabad,Debit Card
+101025,C0570,Groceries,Biscuits,1.0,689.39,68.94,2024-05-27,Islamabad,Debit Card
+100056,C0348,Sports,Yoga Mat,5.0,11218.22,56091.1,2025-11-03,Hyderabad,Mobile Wallet
+100171,C0361,Beauty,Body Lotion,3.0,2350.88,7052.64,"November 16, 2024",Karachi,
+101333,C0202,Sports,Cricket Bat,1.0,12545.57,12545.57,2024-08-10,Sialkot,Mobile Wallet
+100801,C0162,groceries,Milk 1L,3.0,2195.49,6586.47,2024-09-05,Multan,Credit Card
+101018,C0266,Groceries,Bread Loaf,1.0,1945.91,2140.5,2024-03-02,Rawalpindi,Bank Transfer
+101089,C0447,Sports,Running Shoes,5.0,5351.8,26759.0,2025-04-12,Sialkot,
+101482,C0240,Clothing,Cap,3.0,4918.37,14755.11,12/08/2024,quetta,CC
+100544,C0427,Home & Kitchen,Knife Set,1.0,9154.07,9154.07,2024-03-06,HYDERABAD,Debit Card
+100413,C0062,Clothing,Sneakers,2.0,5920.53,11841.06,2025-06-11,Karachi,Credit Card
+100503,C0316,Clothing,Socks Pack,3.0,1513.1,4539.3,2025-10-02,Multan,mobile wallet
+101065,C0259,Electronics,Wireless Earbuds,2.0,57233.4,114466.8,2025-10-15,Islamabad,mobile wallet
+101009,C0133,Groceries,Rice 5kg,5.0,0.0,7988.48,2025-07-22,,Bank Transfer
+100201,C0453,Clothing,Jeans,4.0,3847.64,15390.56,2025-02-04,Hyderabad,Debit Card
+100325,C0428,Electronics,Monitor,3.0,38978.01,116934.03,2024-11-09,Rawalpindi,Mobile Wallet
+100772,C0206,Groceries,Milk 1L,3.0,1653.62,4960.86,27/10/2025, Lahore,Mobile Wallet
+100829,C0538,Beauty,Lipstick,5.0,456.78,2283.9,2025-09-22,Lahore,Credit Card
+100036,C0350,Beauty,Perfume,5.0,1196.73,5983.65,2025-07-20,Islamabad,Mobile Wallet
+100959,C0587,Home & Kitchen,Bed Sheet,5.0,2375.69,11878.45,2024-12-23,Karachi,Cash
+100317,C0290,Sports,Water Bottle,3.0,6350.13,19050.39,2024-06-28,Islamabad,Cash
+100480,C0194,clothing,Dress,4.0,6704.77,26819.08,2024-06-13,Islamabad,Cash
+100246,C0295,Electronics,Bluetooth Speaker,5.0,55795.15,278975.75,2025-10-07,Lahore,Cash
+100320,C0053,Beauty,Body Lotion,1.0,1246.24,1246.24,19/04/2024,Islamabad,Credit card
+101201,C0013,Groceries,Tea Pack,1.0,1310.11,1310.11,2025-02-28,Islamabad,Debit Card
+101620,C0407,Home & Kitchen,Dinner Set,5.0,8511.79,42558.95,2024-01-28,Rawalpindi,Bank Transfer
+100604,C0114,Home & Kitchen,Frying Pan,3.0,2559.97,7679.91,2024-11-04,Peshawar,Bank Transfer
+100606,C0318,BEAUTY,Hair Oil,1.0,1595.19,1595.19,2025-04-25,Quetta,Credit Card
+100269,C0279,Clothing,Sneakers,3.0,7290.2,21870.6,"July 25, 2025",,Credit Card
+100933,C0115,Groceries,Sugar 1kg,2.0,897.28,1794.56,03/04/2025,Sialkot,Credit Card
+101343,C0399,Home & Kitchen,Frying Pan,1.0,11119.55,11119.55,21/02/2025,,Bank Transfer
+101580,C0344,Electronics,Bluetooth Speaker,5.0,88028.14,440140.7,2025-06-28,Islamabad,Mobile Wallet
+100618,C0192,Home & Kitchen,Dinner Set,2.0,7010.69,14021.38,"December 13, 2025",Rawalpindi,Debit Card
+100220,C0129,Beauty,Face Wash,1.0,4476.61,4476.61,09/02/2025, Lahore,Mobile Wallet
+101263,C0039,Beauty,Body Lotion,2.0,3848.86,7697.72,2024-07-02,Sialkot,Mobile Wallet
+100831,C0554,Beauty,Lipstick,2.0,1157.78,2315.56,15/11/2024,Sialkot,Debit Card
+101543,C0419,Sports,Dumbbell Set,3.0,14562.94,43688.82,2025-10-22,Multan,Debit Card
+100716,C0297,electronics,Laptop,2.0,28313.86,56627.72,19/04/2025,Islamabad,Cash
+101633,C0244,Clothing,T-Shirt,4.0,3240.33,12961.32,2024-11-16,Lahore,Credit Card
+101234,C0335,Beauty,Hair Oil,5.0,4702.14,23510.7,2025-02-13,Quetta,Bank Transfer
+100067,C0389,Groceries,Sugar 1kg,3.0,1949.01,5847.03,12/05/2025,Hyderabad,Credit Card
+101629,C0367,Home & Kitchen,Frying Pan,3.0,6590.49,19771.47,2024-02-13,Sialkot,Debit Card
+101143,C0536,groceries,Rice 5kg,3.0,2006.77,6020.31,06/09/2025,Islamabad,Cash
+101437,C0063,Groceries,Sugar 1kg,5.0,136.35,681.75,2025-09-20,,Cash
+100136,C0357,Clothing,Hoodie,5.0,5172.03,25860.15,2025-08-14,Lahore,CASH
+100821,C0321,Home & Kitchen,Bed Sheet,3.0,2585.7,7757.1,2024-10-06,Multan,Debit Card
+100730,C0229,Groceries,Milk 1L,2.0,1182.06,2364.12,2024-01-09,Islamabad,Credit Card
+100942,C0033,Electronics,Laptop,1.0,64844.71,64844.71,2024-06-27,Karachi,Mobile Wallet
+100088,C0229,home & kitchen,Bed Sheet,4.0,1078.01,4312.04,2024-11-09,Islamabad,Bank Transfer
+101600,C0047,Sports,Running Shoes,4.0,14116.42,56465.68,2024-06-20,Rawalpindi,Credit Card
+101335,C0549,Beauty,Shampoo,5.0,3569.42,17847.1,2024-04-17,Hyderabad,Debit Card
+100553,C0303,Beauty,Shampoo,3.0,1114.25,3342.75,"August 19, 2024",Quetta,Cash
+100780,C0444,Groceries,Bread Loaf,2.0,1409.58,2819.16,2025-12-22,Karachi,Mobile Wallet
+100918,C0126,Electronics,Smartwatch,1.0,117140.7,117140.7,2025-06-16,Faisalabad,Cash
+100454,C0417,Home & Kitchen,Mug,2.0,10954.09,21908.18,2024-11-20,Hyderabad,Mobile Wallet
+101441,C0466,ELECTRONICS,USB-C Cable,2.0,,1959.82,2024-02-23,Karachi,Mobile Wallet
+101282,C0416,Sports,Water Bottle,2.0,6568.19,13136.38,2024-12-01,Hyderabad,Mobile Wallet
+101046,C0387,Sports,Dumbbell Set,1.0,1075.37,1075.37,2025-11-14,Rawalpindi,CASH
+100024,C0587,Electronics,Laptop,3.0,84492.4,253477.2,"November 01, 2024",Karachi,Mobile Wallet
+101433,C0393,Home & Kitchen,Dinner Set,1.0,10422.73,10422.73,"November 23, 2025",Faisalabad,Debit Card
+100447,C0237,Electronics,Bluetooth Speaker,4.0,79907.57,319630.28,03/03/2025,Multan,Debit Card
+100983,C0429,Clothing,Cap,1.0,869.75,869.75,2025-09-26,Rawalpindi,CC
+101571,C0300,Sports,Gym Gloves,3.0,5856.8,17570.4,2025-03-28,Islamabad,Mobile Wallet
+100366,C0194,Sports,Football,1.0,7902.28,7902.28,2025-03-24, Quetta,Cash
+100012,C0407,Home & Kitchen,Water Bottle,1.0,2660.11,2660.11,2025-05-05,Peshawar,Bank Transfer
+101288,C0194,Electronics,Smartwatch,4.0,61132.56,244530.24,2024-12-14,Rawalpindi,Debit Card
+101446,C0205,Home & Kitchen,Knife Set,,3873.3,15493.2,2025-11-14,Hyderabad,Cash
+101508,C0029,Sports,Water Bottle,2.0,8429.83,16859.66,2025-07-01,Peshawar,Credit Card
+100217,C0213,Groceries,Biscuits,1.0,1375.45,1375.45,13/05/2025,Faisalabad,Debit Card
+100127,C0108,Home & Kitchen,Water Bottle,5.0,8041.37,40206.85,2025-09-10,,Cash
+100214,C0420,Electronics,Power Bank,1.0,76532.97,76532.97,20/04/2024,Multan,Debit Card
+100107,C0078,Beauty,Lipstick,4.0,4454.18,17816.72,24/04/2024,QUETTA,Cash
+100672,C0358,Electronics,Wireless Earbuds,4.0,90054.76,360219.04,2025-12-10,Peshawar,Debit Card
+100925,C0041,Beauty,Shampoo,5.0,1391.7,6958.5,2024-11-26,Sialkot,Cash
+100607,C0341,Home & Kitchen,Frying Pan,2.0,1604.41,2887.94,2024-12-11,Faisalabad,Debit Card
+101540,C0066,Groceries,Rice 5kg,4.0,690.08,2760.32,06/05/2024,Sialkot,Mobile Wallet
+100974,C0144,Groceries,Bread Loaf,,242.72,485.44,2025-10-19,Lahore,Bank Transfer
+100815,C0598,Clothing,Jeans,3.0,694.22,2082.66,2024-08-04,Hyderabad,Debit Card
+101210,C0204,Beauty,Face Wash,3.0,666.44,1999.32,06/11/2025,Islamabad,Debit Card
+100272,C0460,Sports,Gym Gloves,3.0,3504.61,10513.83,2024-10-20,Karachi,Credit Card
+101222,C0081,Groceries,Sugar 1kg,5.0,791.58,3957.9,21/10/2025,Hyderabad,Cash
+100695,C0049,Groceries,Eggs Dozen,2.0,1977.94,3955.88,2024-05-21,Multan,Credit Card
+100566,C0183,Beauty,Hair Oil,5.0,1963.64,9818.2,2025-10-18,Karachi,Bank Transfer
+100229,C0113,Groceries,Sugar 1kg,4.0,742.57,2970.28,2024-03-14,Quetta,Bank Transfer
+101337,C0409,Home & Kitchen,Knife Set,2.0,6077.88,12155.76,2025-08-11,Multan,Debit Card
+100764,C0123,Home & Kitchen,Pillow,3.0,8482.8,25448.4,2024-11-24,Quetta,Transfer
+100880,C0297,Home & Kitchen,Knife Set,5.0,7882.79,39413.95,"September 15, 2025",Hyderabad,Mobile Wallet
+100265,C0131,Home & Kitchen,Dinner Set,3.0,11763.45,35290.35,2024-03-25,Karachi,mobile wallet
+101396,C0001,Clothing,Cap,1.0,7873.1,7873.1,2024-12-21,hyderabad,Cash
+100709,C0178,Beauty,Lipstick,3.0,952.29,2856.87,2024-05-10,Peshawar,Cash
+101428,C0110,Groceries,Rice 5kg,3.0,,3890.22,2025-01-23,Islamabad,Mobile Wallet
+100293,C0387,Electronics,USB-C Cable,4.0,105033.28,420133.12,"September 06, 2025",Quetta,Debit Card
+101478,C0090,clothing,T-Shirt,5.0,4741.73,23708.65,2024-06-04,,Bank Transfer
+101609,C0359,Home & Kitchen,Frying Pan,2.0,11300.74,22601.48,09/11/2024,Lahore,Cash
+101574,C0081,Clothing,Jacket,2.0,5074.2,10148.4,"July 22, 2024",Islamabad,Bank Transfer
+100250,C0519,Home & Kitchen,Knife Set,1.0,10905.32,10905.32,"June 27, 2024",Multan,Debit Card
+100070,C0508,clothing,T-Shirt,4.0,7621.4,30485.6,2025-07-17,Rawalpindi,Bank Transfer
+101501,C0083,Sports,Football,2.0,14619.53,29239.06,2024-12-05,Faisalabad,Debit Card
+100349,C0593,Beauty,Face Wash,4.0,2462.97,9851.88,2025-04-07,Rawalpindi,Debit Card
+100494,C0021,Beauty,Sunscreen,4.0,3678.52,14714.08,2025-10-13,Faisalabad,Cash
+100896,C0006,Home & Kitchen,Knife Set,2.0,11339.57,22679.14,08/03/2024,Multan,Credit Card
+100174,C0035,Sports,Yoga Mat,5.0,2195.37,10976.85,2024-12-23,Multan,Bank Transfer
+100221,C0200,Beauty,Shampoo,2.0,4228.23,8456.46,2025-04-28,Karachi,Credit Card
+101322,C0381,Home & Kitchen,Water Bottle,4.0,7320.17,29280.68,2025-07-26,Sialkot,Debit Card
+100710,C0455,Clothing,Sneakers,2.0,2492.64,4985.28,2025-04-02,,
+101254,C0558,Electronics,Smartwatch,4.0,84809.26,339237.04,2025-08-02,Karachi,Bank Transfer
+100713,C0466,Beauty,Perfume,4.0,4224.09,16896.36,2025-03-21,Lahore,Credit Card
+100117,C0113,Beauty,Perfume,5.0,3889.28,19446.4,04/06/2024,Peshawar,Cash
+101479,C0052,Groceries,Sugar 1kg,4.0,2296.46,9185.84,"March 21, 2024",Rawalpindi,Credit Card
+101667,C0205,Groceries,Cooking Oil 1L,4.0,1158.4,4633.6,2024-04-14,Hyderabad,Debit Card
+100053,C0517,Sports,Gym Gloves,2.0,6620.94,13241.88,02/06/2025,Faisalabad,
+100971,C0566,Beauty,Lipstick,2.0,2899.01,5798.02,"June 10, 2024",Faisalabad,Cash
+100083,C0435,Sports,Water Bottle,1.0,10162.19,10162.19,2025-10-26,Faisalabad,debit card
+100936,C0490,Groceries,Bread Loaf,1.0,1032.71,1032.71,"November 20, 2025",Hyderabad,Debit Card
+101699,C0121,Home & Kitchen,Water Bottle,5.0,11463.6,57318.0,2024-11-14,Quetta,Credit Card
+100041,C0023,Home & Kitchen,Towel,5.0,1444.66,7223.3,"July 05, 2024",Sialkot,Debit Card
+100700,C0394,Groceries,Sugar 1kg,1.0,1140.07,1140.07,"August 26, 2025",Multan,Wallet
+100854,C0297,Beauty,Lipstick,5.0,2223.41,11117.05,2024-05-27,lahore,Debit Card
+101465,C0183,Home & Kitchen,Towel,4.0,3921.77,15687.08,2024-09-23,Faisalabad,Bank Transfer
+101050,C0232,Clothing,Cap,1.0,2711.98,2711.98,"January 20, 2024",Sialkot,Credit Card
+100489,C0121,Sports,Running Shoes,1.0,4847.19,4847.19,2025-04-12,Sialkot,Debit Card
+101300,C0346,Sports,Gym Gloves,1.0,12672.08,12672.08,2025-03-27,,Mobile Wallet
+100928,C0472,Electronics,Bluetooth Speaker,1.0,41334.99,41334.99,"September 20, 2025",Sialkot,Credit Card
+100135,C0062,Electronics,Laptop,1.0,72276.98,72276.98,2024-03-18,Karachi,Cash
+100060,C0041,Beauty,Face Wash,2.0,1062.39,2124.78,2024-06-28,Rawalpindi,Cash
+100356,C0099,Beauty,Shampoo,5.0,4759.73,23798.65,2025-10-21,Sialkot,Cash
+100336,C0175,Home & Kitchen,Towel,4.0,9343.18,37372.72,2024-12-21,Hyderabad,Debit Card
+100311,C0365,Sports,Dumbbell Set,3.0,6350.73,19052.19,2025-09-07,Islamabad,Credit Card
+101569,C0388,Groceries,Biscuits,5.0,329.31,1646.55,2025-09-25,Lahore,Mobile Wallet
+100921,C0300,Home & Kitchen,Frying Pan,5.0,9954.08,49770.4,2025-10-03,Sialkot,Bank Transfer
+100701,C0432,Home & Kitchen,Water Bottle,1.0,2455.71,2455.71,2024-11-28,Multan,Bank Transfer
+101319,C0101,Sports,Water Bottle,4.0,1211.45,48458.0,2025-08-15,Faisalabad,Debit Card
+101423,C0372,Sports,Dumbbell Set,3.0,1255.43,3766.29,2025-03-28,Quetta,Bank Transfer
+100779,C0221,Beauty,Shampoo,2.0,2390.89,4781.78,2025-01-27,Lahore,Credit Card
+100577,C0024,Beauty,Lipstick,3.0,3590.54,10771.62,17/11/2025,Rawalpindi,Debit Card
+100324,C0390,Groceries,Cooking Oil 1L,1.0,748.33,748.33,2025-02-09,Faisalabad,Mobile Wallet
+101110,C0226,Electronics,Monitor,2.0,48730.07,97460.14,04/08/2024,Sialkot,Bank Transfer
+101576,C0536,Clothing,Socks Pack,,6585.9,13171.8,2024-04-24,Islamabad,Debit Card
+100501,C0225,Clothing,Dress,5.0,6674.55,33372.75,2024-11-18,Karachi,Mobile Wallet
+101519,C0368,Clothing,Hoodie,,3430.63,3430.63,2025-11-24,Islamabad,Debit Card
+100352,C0546,Clothing,Sneakers,2.0,5468.26,10936.52,"December 23, 2024",Islamabad,
+101458,C0363,Groceries,Sugar 1kg,2.0,2110.67,42213.4,2025-08-22,Islamabad,Credit Card
+100558,C0025,Electronics,Bluetooth Speaker,3.0,60100.75,162272.02,2024-09-19,Multan,Cash
+100625,C0002,Groceries,Sugar 1kg,3.0,544.7,1634.1,12/07/2024,Quetta,
+101344,C0527,Beauty,Face Wash,1.0,2607.45,2607.45,2025-08-21,,debit card
+100536,C0364,Sports,Yoga Mat,3.0,9152.13,27456.39,2025-07-26,Sialkot,Cash
+100570,C0595,Electronics,Monitor,3.0,59111.58,177334.74,2024-04-20,Sialkot,
+101426,C0161,Groceries,Bread Loaf,2.0,1984.44,3968.88,2025-06-19,Lahore,bank transfer
+100514,C0587,Beauty,Sunscreen,1.0,2035.32,2035.32,"June 12, 2024",Peshawar,Cash
+100236,C0014,Electronics,Power Bank,2.0,63612.86,127225.72,17/10/2024,,Debit Card
+100304,C0383,Clothing,Jeans,5.0,6701.11,33505.55,"April 14, 2024",Faisalabad,Mobile Wallet
+101237,C0493,Beauty,Face Wash,2.0,2917.84,5835.68,2024-08-28,Lahore ,DC
+101171,C0006,Sports,Running Shoes,4.0,10567.99,42271.96,2025-01-14,Lahore,Mobile Wallet
+100505,C0336,Beauty,Hair Oil,1.0,785.22,785.22,09/11/2024,Lahore,Debit Card
+100893,C0099,Electronics,USB-C Cable,2.0,57356.93,114713.86,2025-06-26,Hyderabad,Debit Card
+100255,C0098,electronics,Smartphone,2.0,21144.28,42288.56,2024-09-10,Islamabad,Bank Transfer
+100123,C0489,Electronics,USB-C Cable,1.0,87306.24,87306.24,"December 27, 2025",Sialkot,Debit Card
+101097,C0531,Groceries,Eggs Dozen,1.0,665.47,665.47,"February 05, 2024",Sialkot,Debit Card
+100189,C0156,Sports,Running Shoes,5.0,9413.34,47066.7,2024-05-15,Islamabad,
+100500,C0302,Home & Kitchen,Knife Set,4.0,5301.59,21206.36,2025-09-16,Peshawar,Bank Transfer
+100860,C0077,Home & Kitchen,Pillow,5.0,7501.97,33758.86,09/09/2024,Sialkot,Debit Card
+101068,C0314,Electronics,Monitor,4.0,77369.73,309478.92,2024-06-21,Islamabad,Mobile Wallet
+101030,C0257,Electronics,Bluetooth Speaker,1.0,94910.61,949106.1,2024-08-05,Multan,CASH
+100539,C0330,Electronics,Smartphone,5.0,23403.35,117016.75,"September 27, 2025",Peshawar,Debit Card
+100750,C0589,Sports,Water Bottle,4.0,4235.35,16941.4,2025-03-18,Lahore,Mobile Wallet
+100773,C0354,Groceries,Sugar 1kg,4.0,378.43,1513.72,2025-06-17,Quetta,Debit Card
+100828,C0286,Home & Kitchen,Water Bottle,4.0,10754.07,43016.28,2025-05-18,Karachi,Mobile Wallet
+101355,C0333,Home & Kitchen,Knife Set,2.0,,15646.5,"September 12, 2024",Rawalpindi,Credit Card
+100098,C0001, Electronics,Smartwatch,2.0,29454.87,58909.74,2024-11-25,Multan,Cash
+100237,C0101,Beauty,Shampoo,3.0,3440.14,10320.42,2024-11-19,Sialkot,Mobile Wallet
+101085,C0175,Clothing,Sneakers,4.0,4285.55,17142.2,2024-10-25,Islamabad,Debit Card
+100746,C0537,Beauty,Face Wash,5.0,214.41,1072.05,06/12/2025,Lahore,Credit Card
+100687,C0300,Sports,Water Bottle,3.0,1589.13,4767.39,2025-05-10,Lahore,Credit Card
+100823,C0268,Sports,Water Bottle,1.0,11780.45,11780.45,2024-11-12,Sialkot,Debit Card
+100836,C0504,Beauty,Shampoo,4.0,4310.16,17240.64,10/01/2024,,Bank Transfer
+100333,C0565,Beauty,Perfume,5.0,358.58,1792.9,2024-01-10,Faisalabad,
+100605,C0176, Electronics,USB-C Cable,2.0,50365.43,100730.86,05/05/2024,Faisalabad,Credit Card
+100792,C0333,Home & Kitchen,Knife Set,1.0,8068.94,8068.94,2025-04-14,,Bank Transfer
+101386,C0201,Groceries,Sugar 1kg,4.0,2355.77,9423.08,16/06/2024,Islamabad,Credit Card
+101195,C0453,Clothing,Dress,2.0,5715.16,11430.32,2024-09-03,,Bank Transfer
+100021,C0338,Clothing,Sneakers,4.0,,21355.2,2024-12-07,Quetta,Credit Card
+100881,C0431,Home & Kitchen,Frying Pan,4.0,1787.1,7148.4,2024-05-18,Multan,Credit Card
+100061,C0558,Sports,Gym Gloves,1.0,8227.01,8227.01,2025-06-16,Islamabad,Bank Transfer
+100427,C0068,Clothing,Jeans,5.0,4725.47,23627.35,2025-11-25,Islamabad,cash
+100664,C0551,Clothing,T-Shirt,2.0,2098.57,4197.14,"May 17, 2025",Rawalpindi,Bank Transfer
+100169,C0084,Beauty,Hair Oil,4.0,2537.55,10150.2,2025-06-07,Lahore,Credit Card
+101289,C0533,Clothing,Sneakers,3.0,872.18,2616.54,2024-10-09,Islamabad,bank transfer
+101371,C0382,Groceries,Bread Loaf,1.0,402.78,402.78,2024-11-26,Rawalpindi,Credit Card
+101504,C0533,Beauty,Shampoo,1.0,287.08,287.08,2025-11-06,Peshawar,Cash
+100044,C0043,Beauty,Lipstick,,4130.1,16520.4,2025-06-10,Lahore,Bank Transfer
+100646,C0510,Groceries,Eggs Dozen,1.0,1601.87,1601.87,2024-11-03,Hyderabad,Debit Card
+101661,C0501,Sports,Running Shoes,5.0,7107.81,35539.05,"August 09, 2025",Faisalabad,Debit Card
+101286,C0478,Home & Kitchen,Frying Pan,2.0,1146.48,2292.96,2024-10-07,Quetta,Cash
+100279,C0469,Sports,Football,4.0,4565.24,18260.96,2025-09-18,Faisalabad,Bank Transfer
+100770,C0229,Sports,Cricket Bat,3.0,3919.54,11758.62,"February 24, 2024",Quetta,Debit Card
+101058,C0324,clothing,T-Shirt,5.0,3549.54,17747.7,2024-08-14,Faisalabad,Mobile Wallet
+101645,C0375,Clothing,Dress,2.0,5286.16,10572.32,23/09/2025,Quetta,Debit Card
+100363,C0185,Groceries,Cooking Oil 1L,5.0,2248.42,11242.1,2025-10-14,Multan,Mobile Wallet
+100807,C0536,home & kitchen,Water Bottle,1.0,3797.44,3797.44,2024-06-20,,Credit Card
+100635,C0410,Home & Kitchen,Towel,1.0,5203.89,5203.89,"July 05, 2025",Multan,Bank Transfer
+100707,C0536,Sports,Cricket Bat,5.0,1101.95,5509.75,2024-04-03,Rawalpindi,Cash
+100834,C0048,electronics,Monitor,4.0,85504.65,342018.6,06/03/2024,Peshawar,Bank Transfer
+101266,C0362,Clothing,Cap,3.0,2256.46,6769.38,2024-09-19,Faisalabad,Mobile Wallet
+100326,C0421,Groceries,Tea Pack,3.0,2362.02,7086.06,2024-12-12,Karachi,Debit Card
+100477,C0462,Sports,Water Bottle,2.0,9950.74,19901.48,2025-12-14,Peshawar,Mobile Wallet
+100472,C0495,beauty,Lipstick,5.0,3778.58,18892.9,09/04/2024,Lahore,Mobile Wallet
+101328,C0488,Electronics,USB-C Cable,5.0,9203.15,46015.75,"November 03, 2024",Lahore,Cash
+101150,C0584,Clothing,Jacket,5.0,4749.23,21371.54,2024-03-26,Faisalabad,Bank Transfer
+100851,C0275,Beauty,Sunscreen,4.0,,8384.32,2025-04-17,Islamabad,Credit Card
+101354,C0115,Clothing,Cap,4.0,542.91,2171.64,18/04/2025,Lahore,Debit Card
+100959,C0587,Home & Kitchen,Bed Sheet,5.0,2375.69,11878.45,2024-12-23,Karachi,Cash
+101212,C0107,Groceries,Milk 1L,,599.23,2996.15,2024-12-18,LAHORE,Credit card
+101311,C0544,Clothing,Cap,5.0,1182.59,5912.95,2025-12-15,Lahore,Debit Card
+100250,C0519,Home & Kitchen,Knife Set,1.0,10905.32,10905.32,"June 27, 2024",Multan,Debit Card
+101366,C0247,Electronics,Laptop,5.0,62253.54,311267.7,2024-11-07,Rawalpindi,Bank Transfer
+101406,C0155,ELECTRONICS,Wireless Earbuds,2.0,61092.95,122185.9,27/05/2024,Sialkot,debit card
+101494,C0435,Electronics,Laptop,2.0,111771.6,223543.2,24/10/2024,Hyderabad,Cash
+100278,C0127,Clothing,Sneakers,2.0,7079.3,14158.6,2025-09-09,Peshawar,Transfer
+101550,C0336,Sports,Running Shoes,5.0,2702.25,13511.25,"June 23, 2025",Lahore,Bank Transfer
+100464,C0010,Clothing,Jeans,2.0,537.7,1075.4,2025-12-08,Islamabad,Cash
+101238,C0231,Beauty,Hair Oil,3.0,809.05,2427.15,2025-08-15, Hyderabad,Bank Transfer
+101507,C0383,Clothing,Socks Pack,2.0,3684.83,7369.66,2024-09-08,Rawalpindi,Bank Transfer
+100996,C0061,clothing,Dress,5.0,6510.14,32550.7,2025-07-02,Quetta,Cash
+101666,C0334,Home&Kitchen,Frying Pan,3.0,3580.61,10741.83,2024-01-15,Faisalabad,Credit Card
+101476,C0108,Sports,Water Bottle,5.0,13927.73,69638.65,"October 26, 2025",Faisalabad,Mobile Wallet
+101296,C0354,Groceries,Milk 1L,5.0,428.81,2144.05,2025-10-06,Quetta,Cash
+101139,C0118,Beauty,Face Wash,5.0,3013.02,15065.1,2024-01-09,Sialkot,Credit Card
+101474,C0538,Electronics,Bluetooth Speaker,3.0,36553.88,109661.64,"July 07, 2025",,Cash
+100344,C0294,Groceries,Sugar 1kg,5.0,1361.78,6808.9,06/12/2025,Multan,Debit Card
+100557,C0035,Beauty,Lipstick,3.0,445.37,1336.11,2025-09-24,Karachi,Mobile Wallet
+100262,C0259,Groceries,Eggs Dozen,4.0,1764.08,7056.32,13/03/2025,Lahore,Cash
+101006,C0245,Home & Kitchen,Pillow,3.0,7371.25,22113.75,2024-07-26,Lahore,Debit Card
+100286,C0341,Beauty,Sunscreen,1.0,176.7,176.7,"April 28, 2024",Faisalabad,Credit Card
+101318,C0263,Groceries,Rice 5kg,2.0,1284.13,2568.26,2025-09-15,Sialkot,Credit Card
+100584,C0278,Beauty,Face Wash,1.0,1215.23,1215.23,2025-08-22,Lahore,Bank Transfer
+101379,C0109,beauty,Perfume,5.0,2912.13,14560.65,16/11/2024,Faisalabad,Mobile Wallet
+100655,C0394,Beauty,Body Lotion,2.0,4942.4,9884.8,26/05/2024,Sialkot,Cash
+101256,C0383,Beauty,Perfume,1.0,249.48,249.48,2025-10-11,Quetta,Debit Card
+100862,C0084,Groceries,Sugar 1kg,2.0,830.28,1660.56,"September 16, 2025",Karachi,
+101100,C0511,Sports,Dumbbell Set,3.0,10550.35,31651.05,2025-07-18,Lahore,Bank Transfer
+100247,C0569,Electronics,Monitor,1.0,87946.73,87946.73,"March 28, 2025",Rawalpindi,Credit Card
+100309,C0582,Sports,Yoga Mat,1.0,14183.01,14183.01,2025-12-12,Peshawar,Debit Card
+100673,C0479,Grocery ,Cooking Oil 1L,4.0,1344.44,5377.76,09/12/2024,Islamabad,Mobile Wallet
+100508,C0128,Home & Kitchen,Water Bottle,5.0,588.8,2944.0,2024-02-18,Sialkot,Wallet
+101407,C0030,Home & Kitchen,Dinner Set,3.0,8712.5,26137.5,"June 03, 2025",Hyderabad ,Bank Transfer
+101117,C0161,Groceries,Sugar 1kg,1.0,904.19,904.19,2024-06-05,Multan,Credit Card
+101624,C0355,Groceries,Bread Loaf,4.0,1451.9,5807.6,23/09/2025,Lahore,Credit Card
+101327,C0178,Beauty,Perfume,4.0,307.43,1229.72,2024-03-04,Islamabad,Credit Card
+101374,C0419,Groceries,Cooking Oil 1L,4.0,806.55,3226.2,2025-01-07,QUETTA,Credit Card
+100164,C0332,Grocery ,Milk 1L,5.0,1726.15,8630.75,2024-06-07,Karachi,Bank Transfer
+100195,C0455,Groceries,Rice 5kg,1.0,604.51,604.51,"March 03, 2024",Sialkot,Credit Card
+100599,C0567,Beauty,Body Lotion,3.0,1415.46,4246.38,"June 13, 2024",Hyderabad,Bank Transfer
+101251,C0409,Home & Kitchen,Knife Set,3.0,5473.2,16419.6,2025-04-16,Quetta,Credit Card
+101419,C0579,Home & Kitchen,Dinner Set,3.0,9493.87,28481.61,2024-02-07,Karachi,Cash
+101151,C0550,Electronics,Power Bank,1.0,35898.62,35898.62,2024-01-04,Faisalabad,Credit Card
+100571,C0215,Beauty,Sunscreen,2.0,4375.88,8751.76,2024-10-24,Multan,Bank Transfer
+101439,C0243, Electronics,Laptop,3.0,7992.29,23976.87,"June 05, 2025",Multan,
+101443,C0586,Beauty,Face Wash,3.0,2093.19,6279.57,2024-11-07,Rawalpindi,Credit Card
+100046,C0277,Home & Kitchen,Knife Set,5.0,8451.82,422591.0,2024-12-25,Hyderabad,Mobile Wallet
+100972,C0160,Sports,Cricket Bat,5.0,14183.78,70918.9,2024-07-16,Rawalpindi,Debit Card
+101306,C0099,Beauty,Face Wash,-1.0,4715.1,14145.3,"November 18, 2024",Islamabad,mobile wallet
+100026,C0504,Beauty,Shampoo,4.0,1003.24,4012.96,2024-04-20,Quetta,Cash
+101397,C0036,Electronics,Monitor,3.0,34044.47,102133.41,"November 27, 2025",Peshawar,Mobile Wallet
+101245,C0220,Clothing,Cap,5.0,5767.54,28837.7,2025-12-22, Islamabad,Cash
+101005,C0398,Groceries,Bread Loaf,1.0,1890.73,1890.73,2025-04-12,Hyderabad,Cash
+101585,C0215,Clothing,Jeans,1.0,4690.43,4690.43,24/10/2024,Quetta,Bank Transfer
+100647,C0336,Electronics,Smartwatch,1.0,48159.98,48159.98,28/03/2024,,
+100687,C0300,Sports,Water Bottle,3.0,1589.13,4767.39,2025-05-10,Lahore,Credit Card
+100271,C0516,Sports,Football,1.0,9967.12,9967.12,2024-11-03,Sialkot,credit card
+100163,C0059,Home & Kitchen,Knife Set,3.0,544.08,1795.46,2025-04-09,Islamabad,Mobile Wallet
+100288,C0333,Clothing,Jacket,1.0,4305.59,4305.59,2025-01-14,Karachi,Mobile Wallet
+100980,C0173,Clothing,Jeans,1.0,2874.52,2874.52,"August 20, 2025",Multan,Cash
+100095,C0346,Clothing,Socks Pack,2.0,6700.99,13401.98,"June 23, 2024",Sialkot,Bank Transfer
+101188,C0186,Groceries,Rice 5kg,2.0,204.23,408.46,"October 10, 2025",Faisalabad,Cash
+101469,C0257,Groceries,Bread Loaf,4.0,1065.74,4262.96,2024-11-25,Hyderabad,Debit Card
+101347,C0017,Sports,Cricket Bat,2.0,12285.38,24570.76,"July 24, 2024",Sialkot,Mobile Wallet
+100355,C0193,Groceries,Bread Loaf,2.0,2437.98,4875.96,2025-11-05,Karachi,Debit Card
+101258,C0438,Home & Kitchen,Frying Pan,4.0,1694.97,6779.88,"October 07, 2024",Quetta,Bank Transfer
+101651,C0008,Beauty,Shampoo,5.0,2054.84,10274.2,2024-04-08,Sialkot,Cash
+100077,C0485,Home & Kitchen,Water Bottle,3.0,10446.42,34473.19,23/06/2024,Sialkot,Credit Card
+101197,C0494,Electronics,Bluetooth Speaker,5.0,71395.38,356976.9,2025-08-12,Sialkot,Bank Transfer
+100844,C0540,Groceries,Sugar 1kg,5.0,382.39,1911.95,2024-05-17,Peshawar,Bank Transfer
+100484,C0401,Beauty,Face Wash,3.0,2929.25,8787.75,11/08/2025,,Mobile Wallet
+100039,C0247,Beauty,Sunscreen,5.0,3245.61,16228.05,2025-10-22,Islamabad,Mobile Wallet
+100043,C0380,Electronics,Power Bank,3.0,70914.41,212743.23,2025-11-03,Karachi,
+101203,C0495,Groceries,Sugar 1kg,3.0,1113.11,33393.3,2025-12-19,Karachi,Bank Transfer
+101278,C0036,Sports,Dumbbell Set,4.0,5022.31,20089.24,2025-06-23,Karachi,Mobile Wallet
+100289,C0301,Clothing,Sneakers,5.0,7116.94,35584.7,2025-10-16,Sialkot,Mobile Wallet
+100771,C0380,Clothing,Hoodie,1.0,1668.89,1668.89,"December 11, 2024",Peshawar,bank transfer
+101121,C0274, Sports ,Running Shoes,1.0,9657.74,9657.74,2024-03-22,Lahore,Mobile Wallet
+101177,C0239,Sports,Gym Gloves,5.0,6715.98,30221.91,24/06/2025,Faisalabad,Bank Transfer
+100243,C0075,Sports,Cricket Bat,3.0,7644.03,22932.09,2025-10-28,Peshawar,Credit Card
+101431,C0024,Groceries,Bread Loaf,2.0,1030.96,2061.92,"December 20, 2025",Quetta,Debit Card
+100909,C0539,Electronics,Smartwatch,1.0,29059.32,29059.32,2024-06-19,Multan,DC
+100962,C0420,Clothing,Dress,2.0,3330.41,6660.82,2025-03-02,Hyderabad,Mobile Wallet
+100556,C0075,Electronics,Smartphone,3.0,2266.03,6798.09,13/05/2025,Lahore ,Cash
+101092,C0374,Groceries,Bread Loaf,4.0,1929.66,7718.64,2024-04-18,Quetta,Wallet
+100074,C0249,Home & Kitchen,Knife Set,1.0,10762.34,10762.34,"August 09, 2025",Hyderabad,
+100678,C0479,Clothing,Jacket,1.0,6501.03,6501.03,2025-05-03,Quetta,Mobile Wallet
+101625,C0021,Electronics,Smartwatch,2.0,4148.09,8296.18,2024-11-12,Sialkot,Debit Card
+100456,C0042,Sports,Football,3.0,9281.46,27844.38,2024-03-08,Islamabad,Cash
+100938,C0411,Groceries,Biscuits,1.0,1681.97,1681.97,2024-09-01,Rawalpindi,Debit Card
+101548,C0204,Electronics,Power Bank,4.0,75755.07,303020.28,2025-08-07,Faisalabad,Debit Card
+101696,C0463,Clothing,Socks Pack,3.0,6988.77,20966.31,2024-07-02,Peshawar,Credit Card
+100660,C0384,Home&Kitchen,Water Bottle,2.0,1970.93,3941.86,2025-05-19,Karachi,Credit Card
+100977,C0135,Electronics,Smartwatch,4.0,45895.93,183583.72,2024-04-09,Lahore,Cash
+100659,C0372,Electronics,USB-C Cable,-3.0,41294.24,206471.2,2024-12-14,Rawalpindi,Credit Card
+100458,C0371,Sports,Running Shoes,3.0,11341.62,34024.86,2025-08-03,Quetta,
+101259,C0277,Home & Kitchen,Water Bottle,4.0,7611.59,30446.36,2025-11-20,Lahore,Bank Transfer
+101181,C0091,Beauty,Face Wash,,2717.76,10871.04,2025-05-07,Multan,Bank Transfer
+100073,C0513,Clothing,Socks Pack,4.0,1767.01,7068.04,"June 06, 2024",faisalabad,Credit Card
+100151,C0163, Electronics,Bluetooth Speaker,1.0,118101.35,118101.35,02/05/2025,Karachi,Credit Card
+101496,C0117,Sports,Yoga Mat,3.0,3342.11,10026.33,2025-05-21,Sialkot,Bank Transfer
+101207,C0075,groceries,Eggs Dozen,1.0,2066.9,2066.9,2024-08-04,Islamabad,Mobile Wallet
+101615,C0026,Home & Kitchen,Mug,1.0,2345.62,2345.62,2025-08-14,Quetta,
+101190,C0286,Groceries,Cooking Oil 1L,2.0,389.4,778.8,2024-06-14,Sialkot,Bank Transfer
+101128,C0162,Beauty,Shampoo,1.0,2337.78,2337.78,2025-02-04,Quetta,Mobile Wallet
+100319,C0567,Beauty,Body Lotion,2.0,1173.9,2347.8,2025-05-14,Multan,bank transfer
+100641,C0409,Clothing,Dress,4.0,3063.99,12255.96,10/11/2025,Sialkot,
+101122,C0264,Electronics,Laptop,5.0,59544.63,297723.15,2025-08-02,Sialkot,Cash
+100470,C0311,Groceries,Rice 5kg,3.0,2361.24,7083.72,2024-11-13,Faisalabad ,Cash
+100148,C0430,Clothing,T-Shirt,3.0,2927.08,8781.24,2024-04-02,Lahore,Bank Transfer
+100455,C0140,Electronics,Smartwatch,4.0,119573.2,478292.8,2024-01-09,Karachi,Bank Transfer
+101537,C0299,Home & Kitchen,Pillow,4.0,6914.04,27656.16,2025-04-18,Lahore,Credit Card
+101376,C0307,BEAUTY,Body Lotion,5.0,4003.58,20017.9,2024-07-15,Quetta,Mobile Wallet
+100561,C0516,Sports,Football,4.0,3524.32,14097.28,2024-01-15,Quetta,Credit Card
+101275,C0028,Groceries,Cooking Oil 1L,4.0,951.98,3807.92,2025-09-26,Sialkot,Cash
+101133,C0402,Sports,Cricket Bat,2.0,8462.45,16924.9,2025-07-27,Quetta,
+100360,C0581,Home & Kitchen,Bed Sheet,1.0,6333.22,6333.22,2024-08-23,Faisalabad,Credit Card
+100735,C0233,Home & Kitchen,Bed Sheet,3.0,7753.9,23261.7,18/03/2024,Sialkot,Bank Transfer
+100899,C0217,Clothing,Cap,1.0,3258.88,3258.88,26/09/2025,Lahore,Mobile Wallet
+100316,C0535,Home & Kitchen,Towel,1.0,9767.44,9767.44,2025-11-08,,Debit Card
+100873,C0364,Home & Kitchen,Bed Sheet,2.0,8100.49,16200.98,"April 13, 2025",,Mobile Wallet
+100907,C0178,ELECTRONICS,Wireless Earbuds,4.0,6309.41,25237.64,2025-04-18,Faisalabad,Debit Card
+100869,C0569,Groceries,Tea Pack,3.0,1694.23,5082.69,2025-10-01,Karachi,Bank Transfer
+100898,C0124,beauty,Shampoo,1.0,2799.99,2799.99,"December 16, 2024",Sialkot,Credit Card
+100852,C0568,Sports,Gym Gloves,1.0,7819.26,7819.26,26/12/2025,Multan,Credit Card
+101534,C0074,Home & Kitchen,Pillow,1.0,11514.64,11514.64,2025-10-25,Hyderabad,Bank Transfer
+100592,C0459,Sports,Gym Gloves,4.0,1296.81,5187.24,2024-06-22,Rawalpindi,Bank Transfer
+101223,C0046,Electronics,Smartphone,1.0,6649.57,6649.57,2024-12-07,Multan,Bank Transfer
+101024,C0244,Clothing,Cap,4.0,3430.65,13722.6,2025-11-26,Rawalpindi,Credit Card
+101290,C0584,Beauty,Sunscreen,5.0,4361.37,21806.85,2025-07-21,RAWALPINDI,Debit Card
+100694,C0581,Clothing,Cap,2.0,3217.2,6434.4,2025-02-10,Hyderabad,Debit Card
+100635,C0410,Home & Kitchen,Towel,1.0,5203.89,5203.89,"July 05, 2025",Multan,Bank Transfer
+100177,C0375,Sports,Cricket Bat,5.0,2235.83,11179.15,2025-03-28,Quetta,Debit Card
+100778,C0394,Clothing,Dress,4.0,1367.04,5468.16,"August 21, 2025",Islamabad,Cash
+100353,C0359,Electronics,Bluetooth Speaker,3.0,58563.6,175690.8,2025-06-03,SIALKOT,Credit Card
+100736,C0034,Clothing,T-Shirt,2.0,1734.25,3468.5,2025-11-26,Islamabad,Cash
+100913,C0336,Clothing,Dress,5.0,7554.8,37774.0,16/09/2024,Faisalabad,Debit Card
+100784,C0273,sports,Water Bottle,5.0,8657.81,43289.05,2024-06-15,Karachi,Mobile Wallet
+100371,C0525,Electronics,Wireless Earbuds,5.0,65577.05,327885.25,2025-08-06,Islamabad,Cash
+100346,C0252,Clothing,Socks Pack,4.0,4454.24,17816.96,2024-09-04,Quetta,Cash
+101077,C0534,Beauty,Sunscreen,1.0,4937.99,4937.99,2025-05-04,Multan,Bank Transfer
+100872,C0300,Electronics,Smartphone,1.0,115211.67,115211.67,2024-10-15,Rawalpindi,Credit Card
+101363,C0265,Clothing,Jeans,5.0,7025.41,35127.05,08/11/2024,Rawalpindi,Credit Card
+100128,C0039,Groceries,Cooking Oil 1L,5.0,131.47,657.35,2025-08-03,Rawalpindi,Bank Transfer
+101670,C0177,Electronics,USB-C Cable,2.0,54134.45,108268.9,"May 09, 2024",Multan,Debit Card
+100481,C0458,Electronics,USB-C Cable,4.0,27622.85,110491.4,2025-12-25,Multan,Debit Card
+101596,C0380,Groceries,Tea Pack,4.0,1810.55,7242.2,01/07/2024,Islamabad,Mobile Wallet
+100952,C0293,Beauty,Shampoo,,1685.5,1685.5,2025-01-10,Quetta,Cash
+101257,C0041,Sports,Water Bottle,2.0,9831.08,19662.16,2025-04-04,Rawalpindi,Mobile Wallet
+101691,C0407,Sports,Running Shoes,2.0,627.87,1255.74,"July 02, 2025",Hyderabad,Bank Transfer
+100354,C0114,Grocery ,Bread Loaf,4.0,687.42,2749.68,"August 01, 2024",Karachi,DC
+100826,C0372,Groceries,Sugar 1kg,2.0,1739.42,3478.84,2024-07-18,Hyderabad,Debit Card
+101456,C0257,Sports,Gym Gloves,3.0,5106.07,15318.21,2024-09-20,Quetta,Credit Card
+100877,C0183,Electronics,Monitor,4.0,3298.14,13192.56,2025-07-15,Islamabad,DC
+100331,C0162,Electronics,Wireless Earbuds,1.0,104566.94,104566.94,2025-11-13,Hyderabad,Mobile Wallet
+100194,C0561,Groceries,Rice 5kg,4.0,311.2,1244.8,2024-03-05,Islamabad,Mobile Wallet
+101008,C0061,Groceries,Tea Pack,3.0,,4805.85,2024-12-13,Rawalpindi,Cash
+100442,C0490,sports,Dumbbell Set,4.0,445.86,1783.44,2024-07-23,Hyderabad,Debit Card
+101636,C0156,Groceries,Milk 1L,3.0,838.61,2515.83,"December 16, 2025",Faisalabad,Debit Card
+100086,C0550,Home & Kitchen,Knife Set,2.0,4071.54,8143.08,"February 09, 2024",Peshawar,Cash
+101002,C0042,Groceries,Cooking Oil 1L,1.0,1739.82,1739.82,2025-04-15,Hyderabad,Cash
+100535,C0487,Sports,Running Shoes,5.0,588.45,2942.25,2024-05-15,Faisalabad,Wallet
+101647,C0516,Clothing,Hoodie,5.0,4345.42,21727.1,2025-10-21,Karachi,Debit Card
+100748,C0387, Clothing,Jacket,5.0,4387.74,21938.7,2024-09-25,Faisalabad,Mobile Wallet
+101218,C0165,Clothing,T-Shirt,2.0,1348.29,2696.58,2025-04-10,Peshawar,Mobile Wallet
+100063,C0461,Sports,Football,1.0,7413.4,7413.4,2025-06-25,Karachi,Debit Card
+101178,C0295,Sports,Cricket Bat,5.0,9847.22,49236.1,11/09/2024,Multan,Bank Transfer
+101026,C0029,Home & Kitchen,Pillow,1.0,5917.48,5917.48,2024-10-14,Sialkot,Bank Transfer
+100216,C0591,Beauty,Hair Oil,2.0,4824.54,9649.08,2024-03-06,Faisalabad,Debit Card
+101298,C0191,Electronics,Smartphone,2.0,98008.67,196017.34,2024-05-06,Faisalabad,Bank Transfer
+100104,C0222,Groceries,Rice 5kg,2.0,1956.78,3913.56,18/08/2024,Multan,Cash
+100662,C0509,Home & Kitchen,Water Bottle,3.0,,31425.81,"April 09, 2024",Lahore,Cash
+100572,C0284,Sports,Football,3.0,1185.08,3555.24,"August 02, 2024",Islamabad,Cash
+101572,C0584,Groceries,Sugar 1kg,1.0,1434.92,1434.92,2025-10-13,Sialkot,Mobile Wallet
+100334,C0387,Sports,Running Shoes,2.0,5934.77,11869.54,2024-01-10,Multan,Credit Card
+100754,C0017,beauty,Face Wash,1.0,2528.02,2528.02,2024-11-01,Islamabad,Cash
+101247,C0077,Clothing,Jacket,,1374.52,687.26,2025-01-04,Rawalpindi,Cash
+100411,C0335,Home & Kitchen,Pillow,5.0,7885.32,39426.6,22/07/2025,Rawalpindi,Bank Transfer
+101459,C0298,Clothing,T-Shirt,3.0,5800.13,17400.39,2024-01-05,Lahore,Cash
+101242,C0083,Groceries,Bread Loaf,3.0,2292.96,6878.88,2025-07-09, Rawalpindi,Credit Card
+100564,C0164,Sports,Football,3.0,2409.39,7228.17,"April 13, 2024",Quetta,Bank Transfer
+100782,C0281,Electronics,Monitor,2.0,89734.74,179469.48,20/12/2024,Islamabad,Mobile Wallet
+101023,C0293,Electronics,Smartphone,2.0,81765.01,163530.02,2024-06-05,Faisalabad,Bank Transfer
+101095,C0027,Clothing,Dress,1.0,2967.54,2967.54,2024-09-24,Multan,Debit Card
+100595,C0538,Electronics,Laptop,5.0,57968.39,289841.95,2024-11-22,Karachi,Mobile Wallet
+101413,C0215,Beauty,Perfume,5.0,1661.51,8307.55,2025-09-20,Sialkot,Cash
+100461,C0083,Beauty,Perfume,1.0,3438.85,3438.85,2025-10-14,Sialkot,Mobile Wallet
+100202,C0515,Sports,Water Bottle,4.0,6975.42,27901.68,2025-06-20,Peshawar,Wallet
+101116,C0460,Beauty,Shampoo,4.0,1963.55,7854.2,2025-12-15,karachi,Credit Card
+100424,C0480,Electronics,Smartwatch,3.0,85260.29,255780.87,"December 27, 2024",Sialkot,Cash
+101527,C0024,Home & Kitchen,Frying Pan,2.0,2503.66,5007.32,25/11/2024,Faisalabad,Cash
+100192,C0010,Groceries,Tea Pack,5.0,2382.4,11912.0,2024-11-09,Quetta,Debit Card
+101274,C0355,Clothing,T-Shirt,,5611.45,5611.45,2025-10-20,Faisalabad,Credit Card
+100066,C0551,Beauty,Perfume,1.0,1258.92,1258.92,2024-10-08,Sialkot,Debit Card
+100519,C0439,Beauty,Perfume,3.0,3891.83,11675.49,2025-11-15,Sialkot,Debit Card
+100537,C0172,Home & Kitchen,Bed Sheet,1.0,7179.61,7179.61,2024-08-02,Multan,Debit Card
+100384,C0137,Groceries,Sugar 1kg,4.0,1725.87,6903.48,"September 07, 2024",Rawalpindi,Cash
+101663,C0091,Sports,Football,5.0,13581.27,67906.35,13/07/2024,Quetta,Debit Card
+101317,C0028,Clothing,Jacket,5.0,7478.58,37392.9,2025-06-24,Rawalpindi,Mobile Wallet
+101415,C0230,Beauty,Body Lotion,1.0,2968.37,2968.37,2024-06-04,Quetta,Credit Card
+100425,C0499,Beauty,Lipstick,5.0,1321.26,6606.3,"May 11, 2025",Multan,Cash
+100569,C0519,Home & Kitchen,Mug,3.0,9089.96,27269.88,2024-11-06,Islamabad,Credit Card
+100998,C0499,Clothing,Sneakers,1.0,895.67,895.67,2024-05-15,Karachi,Bank Transfer
+101283,C0111,Beauty,Face Wash,2.0,3603.51,7207.02,2024-06-19,Hyderabad,DC
+100434,C0340,Home & Kitchen,Towel,4.0,7250.77,29003.08,"January 17, 2024",Rawalpindi,Cash
+101591,C0573,Home & Kitchen,Frying Pan,3.0,6471.92,19415.76,18/02/2025,Quetta,Bank Transfer
+101091,C0468,Groceries,Bread Loaf,2.0,2414.39,4828.78,16/10/2024,Lahore,CC
+101035,C0373,Beauty,Shampoo,4.0,2942.56,11770.24,2024-03-26,Karachi,Mobile Wallet
+100339,C0412,Sports,Dumbbell Set,3.0,4822.57,14467.71,02/10/2025,,Mobile Wallet
+100497,C0587,Electronics,Power Bank,4.0,81261.42,325045.68,2024-02-23,Faisalabad,Debit Card
+100612,C0046,Clothing,T-Shirt,3.0,6863.54,20590.62,2025-12-22,Rawalpindi,Bank Transfer
+101279,C0317,Home & Kitchen,Dinner Set,3.0,3236.54,9709.62,2024-11-06,Hyderabad,
+101403,C0361, Sports ,Running Shoes,5.0,12115.8,60579.0,2025-07-08,Lahore,Cash
+100025,C0338,Sports,Cricket Bat,1.0,8878.02,8878.02,2024-09-14,Lahore,cash
+100719,C0157,Sports,Football,2.0,454.06,908.12,24/10/2024,Rawalpindi,Debit Card
+100245,C0581,Sports,Football,3.0,13972.41,41917.23,14/12/2024,Faisalabad,mobile wallet
+101241,C0295,Electronics,Wireless Earbuds,1.0,18968.41,18968.41,2024-12-08,Peshawar,Mobile Wallet
+100184,C0305,ELECTRONICS,Power Bank,5.0,73765.07,368825.35,2025-06-01,Karachi,Cash
+100253,C0289,ELECTRONICS,Wireless Earbuds,4.0,19422.75,77691.0,22/06/2024,Karachi,Bank Transfer
+100225,C0337,Sports,Water Bottle,2.0,11559.84,23119.68,2024-01-28,Quetta,Credit Card
+100612,C0046,Clothing,T-Shirt,3.0,6863.54,20590.62,2025-12-22,Rawalpindi,Bank Transfer
+100906,C0145,Groceries,Cooking Oil 1L,3.0,2247.82,6743.46,2024-07-02,Rawalpindi,Bank Transfer
+101453,C0323,Groceries,Bread Loaf,4.0,691.64,2766.56,"March 28, 2025",Rawalpindi,Debit Card
+101299,C0531,Electronics,Monitor,3.0,109507.3,328521.9,2024-06-01,,Debit Card
+100388,C0047,Home & Kitchen,Water Bottle,1.0,1369.28,1369.28,2024-11-20,Karachi,Credit Card
+100386,C0367,Groceries,Cooking Oil 1L,2.0,1877.64,3755.28,2025-02-25,Rawalpindi,Bank Transfer
+100181,C0585,Sports,Cricket Bat,1.0,2725.6,2725.6,"November 13, 2025",Faisalabad,Bank Transfer
+100691,C0064,Beauty,Hair Oil,3.0,3249.67,9749.01,2024-07-24,Rawalpindi,Cash
+100679,C0241,Electronics,Monitor,5.0,12341.27,61706.35,2025-06-08,Islamabad,Credit Card
+101552,C0085,Home & Kitchen,Water Bottle,2.0,7943.28,15886.56,2024-08-04,Faisalabad,Bank Transfer
+101514,C0324,Beauty,Shampoo,5.0,1002.68,5013.4,2024-04-28,Multan,Bank Transfer
+100092,C0254,Home & Kitchen,Water Bottle,1.0,2074.6,2074.6,2025-10-01,Rawalpindi,Debit Card
+101164,C0336,Clothing,Jacket,1.0,7898.36,7898.36,"September 07, 2024",Islamabad,Bank Transfer
+101338,C0573,Groceries,Sugar 1kg,3.0,642.08,1926.24,2024-10-09,Faisalabad,Cash
+100419,C0384,Groceries,Cooking Oil 1L,2.0,1006.37,2012.74,2025-07-17,Multan,Credit card
+101167,C0345,Sports,Water Bottle,5.0,3791.19,18955.95,2025-01-12,Multan,Credit Card
+100294,C0357,Electronics,Wireless Earbuds,3.0,51511.06,154533.18,"July 15, 2024",Faisalabad,Credit Card
+100841,C0446,Home&Kitchen,Water Bottle,2.0,10611.18,21222.36,"May 04, 2025",Multan,Mobile Wallet
+101087,C0235,Sports,Gym Gloves,5.0,686.31,3431.55,"November 20, 2024",Multan,Bank Transfer
+101614,C0265,Clothing,Dress,2.0,,6485.74,2025-09-23,Quetta,Bank Transfer
+100277,C0334,Sports,Football,4.0,581.1,2324.4,03/05/2025,Hyderabad,Mobile Wallet
+100550,C0168,Clothing,Sneakers,1.0,6998.17,6998.17,2025-12-03,Multan,Bank Transfer
+100737,C0372,Groceries,Biscuits,1.0,2149.5,2149.5,2024-10-09,Faisalabad,Cash
+100291,C0378,Groceries,Bread Loaf,4.0,372.88,1491.52,12/08/2025,Islamabad,Credit Card
+101119,C0196,Clothing,Jacket,4.0,7036.59,28146.36,25/05/2025,Quetta,bank transfer
+101641,C0265,Groceries,Sugar 1kg,4.0,2249.55,8998.2,2025-01-20,Quetta,Cash
+100663,C0283,Clothing,Dress,2.0,1184.94,2369.88,2025-12-17,Lahore,Mobile Wallet
+101568,C0043,clothing,Hoodie,5.0,7070.25,35351.25,2024-09-20,Karachi,Bank Transfer
+100031,C0288,Clothing,Dress,2.0,3295.15,6590.3,2025-12-08,Multan,
+101063,C0149,Electronics,Power Bank,4.0,48090.7,192362.8,18/04/2024,Multan,Cash
+100172,C0121,Home & Kitchen,Towel,1.0,7520.6,7520.6,2024-04-28,Faisalabad,Bank Transfer
+100552,C0352,Groceries,Biscuits,,388.72,388.72,2024-04-23,Lahore,Credit Card
+101451,C0508,Clothing,T-Shirt,2.0,7883.51,15767.02,2024-06-02,Rawalpindi,Debit Card
+100671,C0404,Electronics,Power Bank,3.0,39538.15,118614.45,"March 16, 2024",Multan,Mobile Wallet
+100720,C0320,Groceries,Rice 5kg,3.0,311.25,933.75,2024-09-10,Multan,Bank Transfer
+100005,C0390,Beauty,Body Lotion,1.0,990.82,990.82,2025-04-02,Multan,Debit Card
+100632,C0402,Electronics,Bluetooth Speaker,1.0,31230.5,31230.5,2025-06-19,Quetta,Bank Transfer
+100298,C0419,Beauty,Shampoo,4.0,1827.51,7310.04,2025-05-18,Karachi,Credit Card
+101301,C0069,Clothing,Jacket,1.0,7689.24,7689.24,2025-04-23,,Cash
+101607,C0488,Home & Kitchen,Bed Sheet,2.0,3731.21,7462.42,2024-03-27,,Mobile Wallet
+101481,C0460,Groceries,Milk 1L,5.0,2128.16,10640.8,"February 02, 2025",Faisalabad,Bank Transfer
+100725,C0352,Groceries,Bread Loaf,4.0,427.56,1710.24,"March 02, 2025",Lahore,Bank Transfer
+100923,C0067,Electronics,Laptop,2.0,23233.53,46467.06,2024-04-03,Faisalabad,Cash
+100806,C0295,Clothing,Jeans,3.0,3198.42,9595.26,2024-12-16,Karachi,Credit Card
+100597,C0485,Home & Kitchen,Dinner Set,3.0,6671.3,20013.9,2024-10-17,Multan,CC
+101447,C0337,Electronics,Wireless Earbuds,2.0,108800.5,217601.0,"June 27, 2024",Islamabad,Debit Card
+100144,C0365,Sports,Dumbbell Set,1.0,14725.32,14725.32,2024-02-24,Islamabad,Cash
+100883,C0067, Electronics,Smartphone,5.0,64073.62,320368.1,2025-06-23,Lahore,Cash
+101021,C0583,Groceries,Milk 1L,3.0,384.44,1153.32,2024-08-21,Hyderabad,Bank Transfer
+100296,C0156,Beauty,Hair Oil,4.0,3976.58,15906.32,2024-04-03,,Cash
+101595,C0593,Electronics,Smartphone,2.0,10018.51,20037.02,2025-02-19,karachi,
+101227,C0474,Groceries,Sugar 1kg,5.0,964.39,4821.95,2025-04-13,Rawalpindi,Bank Transfer
+100729,C0328,Electronics,USB-C Cable,4.0,115229.87,460919.48,2025-10-11,Islamabad,Cash
+100711,C0112,Groceries,Bread Loaf,4.0,2368.63,9474.52,03/08/2024,Multan,
+101138,C0229,Beauty,Sunscreen,5.0,1439.59,7197.95,2025-01-17,Rawalpindi,Cash
+100549,C0289,Electronics,Laptop,3.0,89152.42,267457.26,"May 28, 2025",Islamabad,Mobile Wallet
+100901,C0568,Clothing,Jeans,3.0,7470.56,22411.68,2025-05-04,Sialkot,Bank Transfer
+101472,C0507,Electronics,Power Bank,4.0,59637.25,238549.0,14/01/2024,Hyderabad,Credit Card
+101179,C0519,Beauty,Lipstick,4.0,3719.68,14878.72,2025-08-15,Lahore,Credit Card
+100976,C0381,Groceries,Biscuits,1.0,1067.08,1067.08,2024-11-16,quetta,Mobile Wallet
+101305,C0009,Groceries,Rice 5kg,1.0,871.29,871.29,2024-11-05,Multan,Mobile Wallet
+100327,C0023,Groceries,Bread Loaf,3.0,1018.11,3054.33,2025-11-15,Faisalabad,Bank Transfer
+101107,C0141,Sports,Dumbbell Set,1.0,9077.24,9077.24,2025-03-12,Rawalpindi,Debit Card
+101216,C0201,Sports,Cricket Bat,1.0,13915.97,13915.97,2024-05-01,Quetta,Mobile Wallet
+100027,C0038,Electronics,Monitor,4.0,68844.57,275378.28,2025-08-22,Multan,Bank Transfer
+101417,C0452,Groceries,Rice 5kg,4.0,2359.41,9437.64,2024-10-08,Rawalpindi,
+101438,C0241,Beauty,Sunscreen,1.0,4513.83,4513.83,11/11/2025,Multan,bank transfer
+101401,C0566,Beauty,Lipstick,5.0,4287.75,23582.63,2024-01-17,Karachi,Debit Card
+101400,C0565,Groceries,Cooking Oil 1L,2.0,2372.43,4744.86,2025-01-19,Faisalabad,Debit Card
+100155,C0495,Clothing,Dress,5.0,3914.15,1957.08,2024-02-14,Multan,Cash
+100752,C0079,Home & Kitchen,Mug,2.0,5302.24,10604.48,14/10/2025,Karachi,Credit Card
+100405,C0093,Grocery ,Rice 5kg,2.0,572.87,1145.74,02/06/2025,Karachi,Bank Transfer
+101500,C0587,Groceries,Bread Loaf,3.0,915.92,27477.6,2025-07-20,Multan,
+100910,C0237,Beauty,Face Wash,4.0,1296.23,5184.92,2024-08-09,Islamabad,Bank Transfer
+100057,C0149,ELECTRONICS,Wireless Earbuds,5.0,104429.0,522145.0,2024-12-13,Multan,Bank Transfer
+100121,C0044,Groceries,Bread Loaf,3.0,85.66,256.98,2025-05-19,Karachi,Bank Transfer
+100611,C0177,Beauty,Lipstick,2.0,1855.5,3711.0,12/08/2024,Quetta,Cash
+101329,C0082,Electronics,Smartwatch,1.0,17645.86,17645.86,2024-12-14,Sialkot,Credit Card
+101244,C0328,Beauty,Hair Oil,2.0,1412.03,2824.06,"October 28, 2025",Peshawar,Debit Card
+100488,C0099,Sports,Gym Gloves,1.0,12152.47,12152.47,2025-09-02,Faisalabad,Bank Transfer
+101652,C0571,Beauty,Lipstick,1.0,1582.12,1423.91,02/07/2025,Faisalabad,Mobile Wallet
+101621,C0368,Clothing,Sneakers,5.0,6573.49,32867.45,2024-12-08,Quetta,Bank Transfer
+100616,C0578,Groceries,Eggs Dozen,2.0,1376.24,2752.48,16/09/2025,Sialkot,Credit Card
+100222,C0101,Home & Kitchen,Mug,3.0,6365.37,19096.11,23/02/2025,Quetta,bank transfer
+100941,C0278,Home & Kitchen,Water Bottle,3.0,6010.82,18032.46,2025-10-21,Hyderabad,
+101674,C0403,Groceries,Sugar 1kg,5.0,2360.68,11803.4,2025-08-26,Islamabad,Mobile Wallet
+101022,C0086,Beauty,Hair Oil,5.0,2297.41,11487.05,2025-10-04,Lahore,Cash
+101229,C0307,Electronics,Smartphone,5.0,99964.32,499821.6,"October 14, 2024",Faisalabad,Debit Card
+100626,C0477,Clothing,Sneakers,2.0,4394.85,87897.0,2024-11-04,Sialkot,Mobile Wallet
+101424,C0015,Electronics,USB-C Cable,5.0,94351.39,471756.95,2025-11-28,Faisalabad,Cash
+101111,C0250,Groceries,Cooking Oil 1L,4.0,2144.68,8578.72,2025-04-11,Faisalabad,
+101353,C0117,Home & Kitchen,Pillow,4.0,6088.66,24354.64,2024-06-08,Faisalabad,Bank Transfer
+101250,C0014,Beauty,Perfume,3.0,2592.35,7777.05,2024-12-06, Rawalpindi,Cash
+100016,C0113,Electronics,Laptop,3.0,33425.36,100276.08,"May 09, 2025",Karachi,Debit Card
+100937,C0087,Beauty,Hair Oil,1.0,2376.0,2376.0,2025-04-03,Islamabad,Debit Card
+101230,C0056,Electronics,Monitor,2.0,47890.35,95780.7,20/12/2025,Peshawar,Credit Card
+100795,C0136,Home & Kitchen,Bed Sheet,1.0,7714.92,7714.92,27/12/2024,Peshawar,Mobile Wallet
+101323,C0202,Groceries,Cooking Oil 1L,2.0,1847.19,3694.38,2024-10-07,Quetta,Credit Card
+100631,C0057,Groceries,Sugar 1kg,2.0,2083.7,3750.66,2025-02-11,Rawalpindi,Bank Transfer
+100422,C0120,Beauty,Body Lotion,5.0,1430.42,7152.1,"November 05, 2024",Lahore,Credit Card
+101280,C0497,Clothing,Sneakers,5.0,532.58,2662.9,09/05/2025,Faisalabad,Credit Card
+100984,C0481,Home & Kitchen,Mug,4.0,2387.87,9551.48,2024-05-03,Rawalpindi,Mobile Wallet
+101007,C0403,Sports,Dumbbell Set,4.0,663.68,2654.72,28/05/2025,Multan,Credit Card
+101341,C0439,Home & Kitchen,Water Bottle,1.0,4058.52,4058.52,2025-02-22, Islamabad,Bank Transfer
+100670,C0158,Electronics,Smartwatch,3.0,16243.99,48731.97,2024-12-28,Rawalpindi,Mobile Wallet
+100315,C0549,Groceries,Biscuits,3.0,2487.05,7461.15,2025-10-01,Quetta,Bank Transfer
+100825,C0203,Electronics,Smartphone,,54801.77,164405.31,2025-09-24,Rawalpindi,Mobile Wallet
+100949,C0229,Beauty,Sunscreen,2.0,423.22,846.44,2024-07-02,Multan,Credit Card
+100767,C0521,Home & Kitchen,Pillow,2.0,3823.75,7647.5,2025-10-28,Hyderabad,Cash
+100365,C0153,Electronics,Laptop,1.0,75969.43,75969.43,2025-06-15,Faisalabad,Bank Transfer
+100800,C0133,Sports,Gym Gloves,1.0,,14142.67,2025-08-27,Peshawar,Credit Card
+101412,C0287,Sports,Dumbbell Set,1.0,10980.68,10980.68,2024-07-04,Lahore,Cash
+101264,C0361,Electronics,USB-C Cable,4.0,107090.04,428360.16,25/03/2024,Lahore,Bank Transfer
+100377,C0569, Sports ,Running Shoes,5.0,1880.04,9400.2,2025-05-09,Quetta,Debit Card
+100372,C0151,Home & Kitchen,Towel,2.0,1841.07,3682.14,2025-11-12,Lahore,Cash
+101656,C0018,Electronics,USB-C Cable,5.0,116436.18,582180.9,2024-12-02,Sialkot,Debit Card
+100968,C0364,Groceries,Milk 1L,1.0,2340.16,2340.16,"January 23, 2025",Peshawar,Credit Card
+100908,C0080,Electronics,Monitor,4.0,32785.52,131142.08,22/02/2025,Lahore,Credit Card
+101349,C0493,Home & Kitchen,Knife Set,5.0,10949.59,54747.95,2025-04-03,Islamabad,Debit Card
+100739,C0174,Beauty,Sunscreen,3.0,2123.46,6370.38,2025-08-26,Islamabad,Mobile Wallet
+101159,C0171,Home & Kitchen,Towel,1.0,6635.62,6635.62,16/07/2024,Rawalpindi,Credit Card
+100079,C0369,Electronics,Bluetooth Speaker,4.0,58330.48,233321.92,2025-08-08,Islamabad,Debit Card
+100989,C0259,Sports,Water Bottle,3.0,9220.31,27660.93,"December 19, 2025",Sialkot,cash
+101510,C0081,Beauty,Sunscreen,1.0,3445.61,3445.61,2025-03-21,Peshawar,Bank Transfer
+100786,C0369,Electronics,Bluetooth Speaker,1.0,66171.34,66171.34,2024-07-09,Hyderabad,Cash
+101321,C0167,Electronics,Monitor,2.0,31870.74,57367.33,"April 09, 2024",Sialkot,
+100426,C0114,Sports,Gym Gloves,5.0,1571.24,7856.2,2024-04-14,Karachi,Mobile Wallet
+100013,C0557,Clothing,Socks Pack,3.0,2215.99,6647.97,2025-10-10,Hyderabad,Bank Transfer
+101613,C0497,Groceries,Tea Pack,2.0,696.52,1393.04,2024-05-07,Hyderabad,Credit Card
+100449,C0596,Beauty,Body Lotion,4.0,1787.6,7150.4,"October 21, 2024",Peshawar,Mobile Wallet
+100865,C0463,Sports,Dumbbell Set,2.0,14022.93,28045.86,2024-05-14,Peshawar,Mobile Wallet
+101185,C0517,Groceries,Eggs Dozen,1.0,2389.76,23897.6,2025-12-02,Karachi,Debit Card
+100124,C0137,Electronics,USB-C Cable,2.0,67363.08,134726.16,2024-05-07,Islamabad,Debit Card
+101681,C0078,Groceries,Eggs Dozen,4.0,1049.01,4196.04,2024-03-02,Lahore,Debit Card
+101642,C0266,Clothing,Dress,4.0,1881.47,7525.88,2025-09-19,Lahore,Credit Card
+100814,C0340,Clothing,Hoodie,4.0,1583.27,6333.08,"October 05, 2024",Karachi,Mobile Wallet
+100615,C0514,Electronics,Bluetooth Speaker,,46587.1,153737.43,2025-12-11,Karachi,Mobile Wallet
+100982,C0235,Home & Kitchen,Frying Pan,1.0,11907.48,11907.48,2024-11-16,Quetta,Cash
+101131,C0205,Home & Kitchen,Mug,1.0,10702.83,10702.83,"November 06, 2025",SIALKOT,Cash
+100975,C0235,Home & Kitchen,Frying Pan,1.0,3847.67,3847.67,2025-04-19,Faisalabad,Debit Card
+100212,C0345,Clothing,Hoodie,3.0,5019.15,1505.74,2025-06-02,Lahore,Cash
+101039,C0227,Home & Kitchen,Mug,2.0,4943.61,9887.22,2024-09-10,Peshawar,Cash
+100731,C0282,Groceries,Biscuits,5.0,590.05,2950.25,2024-07-17, Faisalabad,Bank Transfer
+101598,C0496,Electronics,Smartphone,4.0,94677.68,378710.72,2025-08-10,Sialkot,Credit Card
+100191,C0385,Electronics,Smartphone,4.0,23449.57,93798.28,2024-07-22,Quetta,Bank Transfer
+101432,C0208,Electronics,Power Bank,2.0,13583.25,27166.5,2024-07-18,FAISALABAD,cash
+100636,C0108,Clothing,Socks Pack,3.0,2152.39,6457.17,2025-02-02,Lahore ,Bank Transfer
+100409,C0139,Home & Kitchen,Bed Sheet,5.0,3640.45,18202.25,2025-03-13,Faisalabad,Credit Card
+100393,C0252,Beauty,Face Wash,4.0,1354.66,5418.64,2024-11-18,Faisalabad,Mobile Wallet
+100751,C0516, Electronics,USB-C Cable,1.0,33988.44,33988.44,18/10/2025,Sialkot,Bank Transfer
+100897,C0591,Home & Kitchen,Bed Sheet,1.0,6919.24,6919.24,"February 15, 2024",Sialkot,Mobile Wallet
+101314,C0201,Home & Kitchen,Mug,4.0,1932.46,7729.84,"September 25, 2024",,Bank Transfer
+100096,C0324,Sports,Yoga Mat,4.0,9327.23,37308.92,16/09/2024,Faisalabad,Bank Transfer
+100863,C0224,Sports,Water Bottle,3.0,3738.59,11215.77,17/12/2025,Quetta,Mobile Wallet
+100763,C0364,Home & Kitchen,Mug,5.0,3630.69,18153.45,11/04/2025,Lahore,Mobile Wallet
+101042,C0391,Beauty,Hair Oil,5.0,4667.94,23339.7,20/11/2024,Faisalabad,Bank Transfer
+101687,C0196,Home & Kitchen,Mug,1.0,5188.75,5188.75,16/03/2024,Rawalpindi,Bank Transfer
+100726,C0162,Sports,Running Shoes,4.0,6909.94,27639.76,2025-09-25,Faisalabad,Cash
+100170,C0424,Clothing,T-Shirt,2.0,7770.59,15541.18,"November 01, 2024",Quetta,Mobile Wallet
+101093,C0583,Sports,Water Bottle,2.0,11610.77,23221.54,2024-03-16,Karachi,Credit Card
+100183,C0455,Beauty,Shampoo,5.0,1688.4,8442.0,2024-11-22,Hyderabad,Bank Transfer
+101499,C0566,Home & Kitchen,Knife Set,1.0,9179.5,9179.5,2025-07-20,Rawalpindi,Credit Card
+100097,C0296,Groceries,Rice 5kg,2.0,1474.62,3244.16,2024-02-14,Hyderabad,Cash
+101421,C0077,Beauty,Perfume,4.0,4931.91,19727.64,12/06/2024,Karachi,Mobile Wallet
+100856,C0020,Beauty,Shampoo,2.0,874.59,1749.18,2025-09-18,Lahore,Credit Card
+101291,C0241,Grocery ,Milk 1L,1.0,1302.9,1302.9,2025-12-19,Lahore,Cash
+100728,C0491,Groceries,Cooking Oil 1L,4.0,453.69,1814.76,2024-02-22,QUETTA,Debit Card
+100267,C0457,Sports,Dumbbell Set,1.0,11489.9,11489.9,2025-07-12,Faisalabad,DC
+100102,C0063,Electronics,USB-C Cable,1.0,117101.65,117101.65,2024-03-28,,Credit Card
+100665,C0307,Home & Kitchen,Dinner Set,4.0,1811.92,7247.68,"November 04, 2024",,Bank Transfer
+101346,C0261,Groceries,Tea Pack,2.0,209.78,419.56,"July 11, 2025",Faisalabad,Credit Card
+101678,C0156,Electronics,Power Bank,1.0,97637.73,97637.73,2024-01-28,Quetta,Debit Card
+100788,C0180,Groceries,Sugar 1kg,1.0,1882.3,1882.3,2024-03-12,Multan,Cash
+101312,C0046,Sports,Dumbbell Set,4.0,4733.28,18933.12,2025-12-24,Multan,Wallet
+100431,C0406,Sports,Yoga Mat,1.0,8498.44,7648.6,2025-09-15,Multan,Debit Card
+100633,C0164,Sports,Cricket Bat,4.0,3777.82,15111.28,26/12/2025,,Bank Transfer
+101049,C0503,Groceries,Milk 1L,5.0,2120.96,10604.8,2025-12-17,Faisalabad,Bank Transfer
+101567,C0308,Electronics,Power Bank,3.0,35942.06,107826.18,2025-11-10,Lahore,Cash
+101348,C0058,Electronics,Smartphone,5.0,6084.17,30420.85,2025-09-18,Lahore,Credit Card
+100757,C0288,Sports,Cricket Bat,5.0,4758.0,23790.0,2024-12-17,Hyderabad,cash
+100235,C0066,Groceries,Milk 1L,5.0,832.45,4162.25,2025-10-27,Hyderabad,Bank Transfer
+101120,C0464,Groceries,Eggs Dozen,3.0,1798.71,5396.13,2024-11-13,Multan,Credit Card
+100964,C0529,Groceries,Sugar 1kg,5.0,1433.93,7169.65,2025-06-25,Lahore,Cash
+101304,C0567,Clothing,Hoodie,4.0,6043.44,24173.76,2025-10-14,FAISALABAD,Credit Card
+100776,C0455,Home & Kitchen,Bed Sheet,3.0,7837.29,23511.87,2024-06-23,Lahore,Debit Card
+101589,C0074,home & kitchen,Pillow,3.0,7982.48,23947.44,"October 28, 2025",Karachi,Cash
+100154,C0501,Sports,Gym Gloves,1.0,7430.23,7430.23,2024-09-09,Faisalabad,
+101189,C0068,Electronics,Laptop,2.0,17372.03,34744.06,2024-07-27,Multan,Bank Transfer
+100724,C0311,Groceries,Sugar 1kg,4.0,1093.81,4375.24,12/06/2024,Peshawar,Credit Card
+101449,C0332, Electronics,Wireless Earbuds,4.0,40468.17,1618726.8,2024-10-05,Quetta,Debit Card
+101516,C0224,Electronics,Laptop,1.0,116454.08,116454.08,21/09/2024,Karachi,Mobile Wallet
+100176,C0495,Clothing,Hoodie,2.0,7638.59,15277.18,2025-12-24,Lahore,Mobile Wallet
+101582,C0376,beauty,Face Wash,2.0,1112.27,2224.54,2025-12-21,Sialkot,Bank Transfer
+100915,C0461,Electronics,Power Bank,5.0,65562.4,327812.0,2025-04-21,Lahore,Debit Card
+101545,C0399,Clothing,Hoodie,1.0,3120.86,3120.86,2024-07-08,Lahore,Debit Card
+100654,C0507,Home & Kitchen,Pillow,4.0,11687.15,46748.6,2024-04-04,Lahore,Debit Card
+100790,C0375,Groceries,Sugar 1kg,1.0,2423.57,2423.57,23/07/2025,Rawalpindi,Credit Card
+101204,C0238,Home & Kitchen,Pillow,3.0,8161.14,24483.42,2024-06-14,,Bank Transfer
+100614,C0199,Sports,Cricket Bat,1.0,3121.73,3121.73,14/04/2024,Karachi,Debit Card
+101087,C0235,Sports,Gym Gloves,5.0,686.31,3431.55,"November 20, 2024",Multan,Bank Transfer
+100674,C0179,Clothing,Cap,2.0,4220.32,8440.64,26/02/2025,Lahore,Mobile Wallet
+100785,C0197,Sports,Running Shoes,4.0,4451.83,17807.32,2025-04-26,Sialkot,Cash
+100451,C0315,Electronics,Monitor,2.0,59106.46,118212.92,2025-12-08,Sialkot,Cash
+101370,C0321,Groceries,Eggs Dozen,,707.33,3536.65,2024-10-09,Multan,Credit Card
+100820,C0363,Beauty,Shampoo,3.0,4730.65,14191.95,2024-08-10,Multan,Mobile Wallet
+101637,C0195,Groceries,Cooking Oil 1L,4.0,2251.23,9905.41,2024-06-24,Sialkot,Mobile Wallet
+101592,C0031,Beauty,Face Wash,4.0,2093.39,8373.56,21/06/2025,Peshawar,Cash
+100532,C0090,Sports,Water Bottle,2.0,4999.15,9998.3,2025-09-18,Faisalabad,Bank Transfer
+101388,C0047,Groceries,Cooking Oil 1L,4.0,2099.19,8396.76,2024-09-06,Rawalpindi,bank transfer
+100190,C0263,Home & Kitchen,Dinner Set,1.0,8678.96,8678.96,2025-12-11,Sialkot,Bank Transfer
+101422,C0333,Home & Kitchen,Towel,1.0,7637.52,7637.52,21/05/2025,Peshawar,DC
+101217,C0141,groceries,Sugar 1kg,1.0,818.95,818.95,2025-11-10,Rawalpindi,Debit Card
+100437,C0098,Home & Kitchen,Frying Pan,2.0,8130.91,16261.82,2024-12-11,Lahore,Mobile Wallet
+100562,C0069,Beauty,Shampoo,1.0,1573.64,1573.64,2024-01-20,Peshawar,Bank Transfer
+100658,C0378,Groceries,Rice 5kg,1.0,350.88,350.88,2025-08-04,Sialkot,Credit Card
+100403,C0247,Home & Kitchen,Bed Sheet,1.0,2901.63,2901.63,2024-04-07,,Cash
+101092,C0374,Groceries,Bread Loaf,4.0,1929.66,7718.64,2024-04-18,Quetta,Wallet
+100028,C0481,Clothing,Hoodie,3.0,7295.74,2188.72,2025-11-28,Faisalabad,Mobile Wallet
+101536,C0107,Clothing,Jeans,4.0,4553.97,18215.88,2025-03-19,Peshawar,Bank Transfer
+100396,C0303,Beauty,Sunscreen,4.0,3964.63,15858.52,2025-09-13,Rawalpindi,Cash
+100755,C0344,Sports,Dumbbell Set,2.0,9226.78,18453.56,2024-05-10,Faisalabad ,Cash
+100921,C0300,Home & Kitchen,Frying Pan,5.0,9954.08,49770.4,2025-10-03,Sialkot,Bank Transfer
+100300,C0234,Clothing,Jacket,2.0,1518.42,3036.84,2024-01-27,Islamabad,Debit Card
+100591,C0369,Clothing,Hoodie,3.0,3029.98,908.99,2024-01-17,Quetta,CASH
+101531,C0219,Home & Kitchen,Mug,1.0,2032.9,20329.0,2024-06-08,Faisalabad,Bank Transfer
+100775,C0367,Groceries,Cooking Oil 1L,1.0,938.93,938.93,2025-08-03,Sialkot,Debit Card
+101172,C0168,Beauty,Body Lotion,2.0,3066.39,6132.78,2024-03-25,Multan,Cash
+100629,C0070,Clothing,Jeans,3.0,973.3,2919.9,2025-02-24,Faisalabad,Credit Card
+101205,C0178,Sports,Yoga Mat,,3581.41,3581.41,"April 13, 2024",Faisalabad,Transfer
+100911,C0112,Beauty,Hair Oil,4.0,4964.94,19859.76,"May 11, 2025",Rawalpindi,Mobile Wallet
+101457,C0455,Beauty,Hair Oil,1.0,4478.83,4478.83,2025-08-04,Hyderabad,Credit Card
+101074,C0243,Groceries,Biscuits,2.0,2387.04,4774.08,2024-07-27,Quetta,Debit Card
+100469,C0192,Home & Kitchen,Mug,3.0,477.57,1432.71,2025-12-22,Islamabad,Debit Card
+101685,C0268, Sports ,Yoga Mat,3.0,4915.03,14745.09,2025-08-27,Karachi,Mobile Wallet
+101134,C0446,Groceries,Cooking Oil 1L,2.0,1522.19,3044.38,03/08/2025,Hyderabad,Bank Transfer
+101086,C0579,Home & Kitchen,Water Bottle,1.0,2604.12,2604.12,"March 10, 2025",Rawalpindi,Credit Card
+100568,C0318,Sports,Cricket Bat,3.0,11280.14,33840.42,"June 15, 2024",Quetta,Credit Card
+101153,C0484,Beauty,Body Lotion,5.0,3392.17,16960.85,2025-11-16,Karachi,Mobile Wallet
+100985,C0464,Beauty,Body Lotion,1.0,3044.11,3044.11,2025-03-06, Quetta,Debit Card
+101233,C0030,Home & Kitchen,Pillow,2.0,6942.99,13885.98,"January 15, 2024",Hyderabad,Bank Transfer
+100669,C0511,Electronics,Bluetooth Speaker,2.0,30431.49,60862.98,2024-06-06,Hyderabad,Cash
+100179,C0588,Groceries,Milk 1L,2.0,1733.46,3466.92,2025-04-15,Quetta,Credit Card
+100548,C0428,Clothing,Jacket,5.0,7943.86,3971.93,2025-10-13,Quetta,
+100072,C0061,Sports,Cricket Bat,1.0,3055.45,30554.5,2024-12-18,Sialkot,Cash
+100590,C0431,Sports,Football,3.0,12919.95,38759.85,2025-05-09,Sialkot,Cash
+101072,C0001,BEAUTY,Sunscreen,1.0,2801.13,2801.13,2024-08-05,Sialkot,Wallet
+100187,C0407,Home & Kitchen,Mug,2.0,4914.07,9828.14,2025-10-21,Peshawar,Bank Transfer
+101145,C0472,Clothing,T-Shirt,3.0,1402.55,4207.65,16/03/2025,Quetta,Mobile Wallet
+100105,C0162,Home & Kitchen,Frying Pan,3.0,4212.04,1263.61,2024-06-14,Karachi,Mobile Wallet
+100742,C0356,Electronics,Wireless Earbuds,2.0,48942.26,97884.52,2025-03-12,Karachi,Cash
+100376,C0591,Clothing,Jeans,4.0,2040.51,8162.04,07/12/2025,Peshawar,Cash
+101098,C0265,Sports,Football,2.0,9928.16,19856.32,2024-12-23,Quetta,Mobile Wallet
+100793,C0299,Beauty,Body Lotion,2.0,4746.68,9493.36,2025-11-28,Hyderabad,Cash
+101206,C0050,Clothing,Sneakers,1.0,1051.86,1051.86,10/10/2025, Faisalabad,Bank Transfer
+100547,C0370,Beauty,Sunscreen,2.0,620.28,1240.56,2025-11-23,Lahore,Credit Card
+100467,C0446,Sports,Dumbbell Set,1.0,5394.77,5394.77,2025-11-21,Karachi,Mobile Wallet
+100920,C0090,Clothing,Sneakers,3.0,4348.78,13046.34,2024-12-17,Rawalpindi,Bank Transfer
+100892,C0349,Home & Kitchen,Pillow,1.0,6166.87,6166.87,2024-12-27,Rawalpindi,Debit Card
+101549,C0426,Sports,Gym Gloves,3.0,3682.64,11047.92,2024-12-19,Quetta,Cash
+101360,C0540,Beauty,Lipstick,2.0,,7518.46,2025-06-26,,Credit Card
+101668,C0238,Electronics,Bluetooth Speaker,4.0,24050.92,96203.68,2024-10-03,Quetta,Cash
+100361,C0085,Electronics,Bluetooth Speaker,5.0,50863.05,254315.25,07/10/2024,Rawalpindi,CASH
+100810,C0196,Beauty,Hair Oil,2.0,4249.85,8499.7,02/04/2025,Lahore,bank transfer
+100765,C0483,Clothing,Socks Pack,2.0,6174.04,12348.08,2024-01-09,Islamabad,Bank Transfer
+100040,C0094,Groceries,Biscuits,1.0,463.92,463.92,2024-06-15,Rawalpindi,Bank Transfer
+101586,C0293,sports,Dumbbell Set,5.0,7427.13,37135.65,2025-05-04,Islamabad,Mobile Wallet
+100081,C0137,Sports,Running Shoes,4.0,2631.74,10526.96,2024-11-24,Peshawar,Cash
+101017,C0018,Sports,Running Shoes,3.0,4627.91,13883.73,2024-10-01,Faisalabad,Bank Transfer
+101182,C0058,Groceries,Eggs Dozen,,1204.12,4816.48,2025-02-25,Rawalpindi,Transfer
+100602,C0090,Electronics,Wireless Earbuds,4.0,68080.86,272323.44,2024-09-07,Lahore,Mobile Wallet
+100789,C0103,Home&Kitchen,Pillow,5.0,1155.1,5775.5,2025-12-27,Peshawar,Cash
+100268,C0190,Sports,Dumbbell Set,2.0,13245.4,26490.8,26/04/2024,Karachi,Bank Transfer
+101324,C0199,Sports,Gym Gloves,1.0,7141.96,7141.96,"April 20, 2024",Quetta,Mobile Wallet
+100328,C0533,clothing,Socks Pack,4.0,1871.05,7484.2,2025-03-25,,Cash
+101584,C0397,Groceries,Sugar 1kg,5.0,2444.17,12220.85,2024-09-13,Peshawar,Mobile Wallet
+101015,C0268,Clothing,Socks Pack,1.0,923.01,923.01,10/01/2024,Karachi,Credit Card
+101498,C0136,Groceries,Rice 5kg,5.0,1877.41,9387.05,2024-02-14,Lahore,Cash
+100351,C0155,Beauty,Face Wash,2.0,1710.1,3420.2,2025-08-22,Hyderabad,Transfer
+100802,C0558,Clothing,Hoodie,2.0,5029.4,10058.8,"December 23, 2024",Quetta,Credit Card
+100101,C0156,Home & Kitchen,Dinner Set,1.0,696.39,696.39,22/06/2025,Lahore,Bank Transfer
+101513,C0345,Electronics,Smartwatch,1.0,41328.86,41328.86,17/07/2024,Hyderabad,Mobile Wallet
+100453,C0567,Groceries,Bread Loaf,2.0,1793.65,3587.3,2024-03-21,Karachi,Cash
+101208,C0255,Sports,Running Shoes,2.0,11295.32,22590.64,2025-10-09,Islamabad,Mobile Wallet
+100014,C0348,Sports,Cricket Bat,4.0,12133.61,48534.44,2025-06-26,Hyderabad,Credit Card
+100033,C0036,Groceries,Tea Pack,2.0,1095.87,2191.74,2025-11-26,Rawalpindi,Credit Card
+101583,C0595,Home & Kitchen,Mug,5.0,3229.36,16146.8,14/06/2025,Lahore,Mobile Wallet
+100530,C0156,Clothing,Sneakers,3.0,4552.09,13656.27,2025-10-25,Islamabad,Cash
+101522,C0431,Groceries,Milk 1L,5.0,311.52,1557.6,2025-12-15,Multan,Mobile Wallet
+100492,C0520,Home & Kitchen,Water Bottle,1.0,10038.65,10038.65,2024-04-04,Faisalabad,Debit Card
+101357,C0309,Beauty,Body Lotion,4.0,421.99,1687.96,13/11/2024,Hyderabad,Cash
+101213,C0508,Beauty,Lipstick,2.0,3454.37,6908.74,2025-08-21,Rawalpindi,Credit Card
+100523,C0007,Electronics,Bluetooth Speaker,1.0,84699.73,84699.73,2025-12-17,Sialkot,Cash
+101057,C0025,Groceries,Biscuits,3.0,1768.3,5304.9,2025-11-08,,Bank Transfer
+101473,C0483,Electronics,Power Bank,2.0,,73596.7,"June 15, 2025",Hyderabad,Credit Card
+100620,C0378,Clothing,Socks Pack,3.0,1161.01,3483.03,2024-10-03,Faisalabad,Bank Transfer
+101539,C0533,Groceries,Bread Loaf,2.0,1426.53,2853.06,"November 07, 2025",Rawalpindi,Bank Transfer
+101639,C0302,Electronics,Bluetooth Speaker,4.0,47016.66,169259.98,2024-12-19,Karachi,Debit Card
+100973,C0382,Home & Kitchen,Dinner Set,1.0,10555.76,10555.76,17/04/2025,Hyderabad,Cash
+100207,C0462,home & kitchen,Mug,2.0,4946.99,9893.98,2025-09-10,Multan,Cash
+100258,C0447,Home & Kitchen,Dinner Set,1.0,3093.92,3093.92,2025-08-17,Lahore,Credit Card
+101313,C0465,Electronics,Power Bank,1.0,118909.96,118909.96,2025-01-05,Faisalabad,Cash
+101634,C0218,Clothing,Jacket,,1894.26,9471.3,2025-08-01,Peshawar,Cash
+100143,C0295,Beauty,Hair Oil,2.0,4557.2,9114.4,12/11/2025,Lahore,Bank Transfer
+100762,C0100,Sports,Running Shoes,3.0,2007.08,6021.24,2025-12-16,Peshawar,Cash
+100318,C0322,Sports,Yoga Mat,2.0,1522.19,3044.38,"November 28, 2025",Lahore,Debit Card
+100513,C0326,Clothing,T-Shirt,5.0,4657.68,23288.4,"December 09, 2025",Hyderabad,Debit Card
+100302,C0500,Sports,Cricket Bat,1.0,14924.93,14924.93,2024-12-15,Karachi,bank transfer
+101660,C0097,Sports,Cricket Bat,4.0,5576.35,22305.4,05/03/2024,Karachi,Bank Transfer
+101174,C0030,Groceries,Bread Loaf,4.0,1164.71,4658.84,2025-07-09,Islamabad,Bank Transfer
+101070,C0275,Groceries,Eggs Dozen,5.0,2098.55,10492.75,2024-06-08,Multan,Debit Card
+101565,C0196,Electronics,Bluetooth Speaker,5.0,35191.88,175959.4,2024-10-02,Quetta,Bank Transfer
+101331,C0441,Home & Kitchen,Mug,5.0,4560.59,22802.95,2024-09-18,Islamabad,Bank Transfer
+101630,C0509,Groceries,Eggs Dozen,2.0,1503.72,3007.44,19/08/2024,Quetta,Credit Card
+100675,C0074,Sports,Water Bottle,2.0,12719.67,25439.34,2025-05-22,Islamabad,Cash
+101055,C0236,Electronics,Bluetooth Speaker,3.0,106262.92,318788.76,2025-10-05,Hyderabad,Bank Transfer
+100375,C0019,Home & Kitchen,Dinner Set,3.0,7384.41,22153.23,2024-06-09,Multan,Transfer
+100515,C0437,Beauty,Hair Oil,3.0,4387.05,13161.15,2024-12-26,Karachi,Credit card
+100263,C0260,Sports,Football,5.0,9132.44,45662.2,2025-10-05,Multan,Cash
+101106,C0293,Beauty,Perfume,3.0,2302.35,6907.05,2025-02-27,Hyderabad,credit card
+100824,C0128,Clothing,Sneakers,1.0,1537.98,1537.98,24/12/2025,Peshawar,Bank Transfer
+101544,C0061,Sports,Football,4.0,2395.75,9583.0,2024-10-27,Lahore,Credit Card
+100988,C0133,Sports,Dumbbell Set,4.0,963.44,3853.76,2024-05-04,Peshawar,Bank Transfer
+100642,C0099,Electronics,Power Bank,5.0,61385.78,306928.9,"December 24, 2024",Faisalabad,Debit Card
+101587,C0110,Beauty,Hair Oil,1.0,4812.94,4812.94,2024-04-23,Rawalpindi,Mobile Wallet
+100162,C0309,Home & Kitchen,Water Bottle,3.0,5907.56,17722.68,2025-04-04, Peshawar,Cash
+100023,C0160,Home & Kitchen,Pillow,1.0,3351.7,3351.7,2025-02-05,Peshawar,Credit Card
+100656,C0030,Home & Kitchen,Towel,,887.05,887.05,2024-10-21,Faisalabad,Credit Card
+100627,C0478,Beauty,Hair Oil,2.0,4301.61,8603.22,18/05/2025,Peshawar,Mobile Wallet
+100871,C0052,Groceries,Cooking Oil 1L,3.0,1796.09,5388.27,"November 28, 2024",Karachi,Mobile Wallet
+100374,C0097,Electronics,Wireless Earbuds,5.0,3845.79,19228.95,2024-05-17,Faisalabad,Credit Card
+101577,C0235,Electronics,Laptop,3.0,111804.97,335414.91,2025-04-03,Quetta,Bank Transfer
+100274,C0270,Beauty,Hair Oil,3.0,1994.94,5984.82,"July 24, 2024",,Credit Card
+101001,C0354,ELECTRONICS,Smartphone,1.0,58513.39,58513.39,23/11/2024,Lahore,Credit Card
+101173,C0543,Home & Kitchen,Water Bottle,1.0,3298.18,3298.18,"November 01, 2024",Lahore,Debit Card
+100200,C0172,Clothing,Hoodie,2.0,2231.22,4462.44,23/05/2025,Lahore,Credit Card
+100685,C0214,Electronics,Bluetooth Speaker,5.0,104322.7,521613.5,06/05/2025,Rawalpindi,Credit Card
+100020,C0403,Home & Kitchen,Bed Sheet,5.0,2482.27,12411.35,2024-11-04,Sialkot,Cash
+101393,C0301,Sports,Running Shoes,2.0,9692.47,19384.94,"May 27, 2025",Islamabad,Cash
+101682,C0172,Electronics,Power Bank,1.0,113384.66,113384.66,2024-03-06,Islamabad,Mobile Wallet
+101043,C0547,Groceries,Tea Pack,3.0,83.83,251.49,2025-07-15,Peshawar,Cash
+101339,C0406,Electronics,Bluetooth Speaker,2.0,24747.4,49494.8,2024-06-14,Sialkot,Bank Transfer
+100087,C0459, Sports ,Gym Gloves,4.0,13971.13,55884.52,2024-12-24,Hyderabad,Debit Card
+101028,C0525,Electronics,USB-C Cable,2.0,105016.34,210032.68,26/11/2024,Faisalabad,Debit Card
+101228,C0077,home & kitchen,Dinner Set,3.0,11889.22,35667.66,"October 16, 2025",Sialkot,Bank Transfer
+100357,C0084,Clothing,Socks Pack,2.0,3147.88,6295.76,04/12/2024,Lahore,Mobile Wallet
+100745,C0002,home & kitchen,Pillow,1.0,821.68,821.68,2025-01-03,Peshawar,Bank Transfer
+100306,C0165,Home & Kitchen,Bed Sheet,3.0,9453.94,28361.82,2025-11-25,Peshawar,Bank Transfer
+100483,C0424,Beauty,Hair Oil,5.0,671.93,3359.65,"December 18, 2024",,Credit Card
+101683,C0132,Sports,Gym Gloves,1.0,13236.1,13236.1,2025-02-03,Sialkot,Cash
+101090,C0419,Home&Kitchen,Knife Set,5.0,2213.59,11067.95,21/08/2024,Faisalabad,Cash
+101101,C0334,Clothing,Jeans,3.0,1343.78,4031.34,13/11/2025,Karachi,Bank Transfer
+100699,C0448,Beauty,Body Lotion,5.0,1083.59,5417.95,2025-04-21,Quetta,Mobile Wallet
+101397,C0036,Electronics,Monitor,3.0,34044.47,102133.41,"November 27, 2025",Peshawar,Mobile Wallet
+100847,C0460,Beauty,Shampoo,2.0,1292.49,2584.98,2025-11-23,Sialkot,Debit Card
+101187,C0114,Home & Kitchen,Knife Set,2.0,7563.74,15127.48,2024-11-15,Karachi,Cash
+100111,C0059,Clothing,Sneakers,4.0,7809.1,31236.4,2025-03-24,Peshawar,Credit Card
+100198,C0070,Sports,Cricket Bat,1.0,1650.61,1650.61,"September 01, 2024",Hyderabad,Mobile Wallet
+101471,C0399,Clothing,T-Shirt,4.0,2989.3,11957.2,2025-11-01,Karachi,Debit Card
+100559,C0402,Electronics,Wireless Earbuds,1.0,40299.38,40299.38,23/05/2024,Lahore,Credit Card
+101356,C0055,Groceries,Milk 1L,1.0,2314.17,2314.17,20/08/2025,Islamabad,Cash
+101619,C0250,Beauty,Body Lotion,2.0,4898.8,9797.6,2025-09-20,Islamabad,Debit Card
+100049,C0076,Sports,Running Shoes,1.0,13474.64,13474.64,2025-01-19,Hyderabad,Mobile Wallet
+101053,C0391,Beauty,Sunscreen,1.0,4357.26,4357.26,2025-12-21,Karachi,Credit Card
+101416,C0341,Electronics,Wireless Earbuds,3.0,11912.16,35736.48,"December 26, 2024",Islamabad,Bank Transfer
+100759,C0543,Beauty,Hair Oil,5.0,4597.82,22989.1,22/11/2024,Quetta,Cash
+101562,C0444,Home & Kitchen,Knife Set,1.0,11840.45,11840.45,2024-03-09,Multan,DC
+100390,C0443,Groceries,Sugar 1kg,2.0,2382.61,4765.22,2024-11-04,Quetta,Cash
+100995,C0021,Beauty,Perfume,2.0,1223.0,2446.0,2024-11-12,Sialkot,Debit Card
+101526,C0353,Sports,Running Shoes,1.0,1116.25,1116.25,2025-12-12,Peshawar,CASH
+101154,C0322,Electronics,USB-C Cable,3.0,32150.01,96450.03,2025-08-26,Multan,Credit Card
+101688,C0015,Groceries,Milk 1L,5.0,1563.11,7815.55,"October 06, 2024",Rawalpindi,Debit Card
+100645,C0281,Beauty,Lipstick,2.0,1324.95,2649.9,18/05/2025,Peshawar,Mobile Wallet
+101011,C0187,Beauty,Face Wash,3.0,705.03,2115.09,2024-12-25,Islamabad,
+100113,C0146,Sports,Cricket Bat,5.0,2331.23,11656.15,2024-03-11,,Debit Card
+101084,C0535,Electronics,USB-C Cable,2.0,58459.41,116918.82,2024-02-21,Lahore,Bank Transfer
+101170,C0566,Grocery ,Eggs Dozen,2.0,2085.37,4170.74,2024-12-25,Karachi,
+100337,C0012,Beauty,Hair Oil,5.0,2262.21,11311.05,2025-06-07,Faisalabad,Mobile Wallet
+100940,C0010,Sports,Cricket Bat,3.0,950.38,2851.14,2025-12-01,Rawalpindi,Cash
+101320,C0321,Home & Kitchen,Pillow,3.0,8415.33,252459.9,2025-10-11,Lahore,Bank Transfer
+100950,C0123,sports,Cricket Bat,4.0,7459.42,29837.68,2024-09-21,Multan,Cash
+101414,C0143,Home & Kitchen,Water Bottle,1.0,6682.21,6682.21,2024-12-09,Faisalabad,Debit Card
+101597,C0537,Groceries,Bread Loaf,2.0,2224.84,4449.68,2025-11-05,Quetta,Debit Card
+101662,C0218,Clothing,Sneakers,2.0,5860.08,11720.16,"November 02, 2024",Hyderabad,DC
+100084,C0090,Sports,Cricket Bat,1.0,6611.37,6611.37,2025-10-01,Multan,Bank Transfer
+100282,C0132,Groceries,Eggs Dozen,5.0,1152.98,5764.9,2025-09-19,Peshawar,Mobile Wallet
+101425,C0157,Home & Kitchen,Bed Sheet,3.0,8204.52,24613.56,2025-06-26,Peshawar,Credit Card
+100943,C0339,Sports,Football,3.0,12663.97,37991.91,01/11/2025,Multan,Bank Transfer
+100131,C0585,Home & Kitchen,Knife Set,1.0,3033.21,3033.21,2025-05-15,Karachi,
+100967,C0381,Home&Kitchen,Mug,3.0,11353.58,34060.74,2025-11-21,Karachi,Mobile Wallet
+100903,C0060,Groceries,Eggs Dozen,2.0,378.35,756.7,2025-07-21,Karachi,Credit Card
+100768,C0555,Clothing,Socks Pack,2.0,5371.57,10743.14,17/01/2025,Lahore,Cash
+101554,C0405,Beauty,Sunscreen,5.0,1635.95,8179.75,2025-09-08,Islamabad,Bank Transfer
+101334,C0597,BEAUTY,Shampoo,2.0,3799.49,7598.98,2025-03-21,Karachi,Bank Transfer
+100341,C0301,Electronics,Laptop,2.0,87486.82,174973.64,27/12/2025,Islamabad,Cash
+100888,C0225,Electronics,Laptop,5.0,75692.63,378463.15,"February 19, 2024",Faisalabad,Debit Card
+101112,C0343,Electronics,Bluetooth Speaker,1.0,96730.76,96730.76,2025-10-11,Karachi,Mobile Wallet
+101027,C0353,Electronics,Power Bank,3.0,89450.82,268352.46,13/01/2024,Lahore,Bank Transfer
+101650,C0477,Sports,Gym Gloves,3.0,10320.81,30962.43,2025-08-13,Sialkot,Bank Transfer
+100620,C0378,Clothing,Socks Pack,3.0,1161.01,3483.03,2024-10-03,Faisalabad,Bank Transfer
+101073,C0253,Beauty,Lipstick,2.0,3874.64,8524.21,2025-04-02,Rawalpindi,Mobile Wallet
+101225,C0530,Beauty,Hair Oil,5.0,1775.2,8876.0,2025-05-26,Hyderabad,Cash
+101226,C0344,Sports,Water Bottle,5.0,9146.85,45734.25,11/07/2024,Lahore,
+101281,C0566,Beauty,Lipstick,4.0,2221.47,88858.8,"February 13, 2025",Faisalabad,Credit Card
+101395,C0454,Clothing,Socks Pack,3.0,6299.78,18899.34,2024-12-14,Multan,Credit Card
+101399,C0096,Home&Kitchen,Bed Sheet,2.0,9256.92,18513.84,2024-05-20,Multan,Bank Transfer
+100078,C0580,Electronics,USB-C Cable,4.0,12070.71,48282.84,2024-04-25,Sialkot,Cash
+100027,C0038,Electronics,Monitor,4.0,68844.57,275378.28,2025-08-22,Multan,Bank Transfer
+100004,C0367,Home & Kitchen,Dinner Set,1.0,9758.25,9758.25,2024-01-28,Peshawar,Mobile Wallet
+100062,C0242,Sports,Yoga Mat,5.0,6482.93,32414.65,2024-09-24,Faisalabad,credit card
+101558,C0137,Beauty,Sunscreen,3.0,2776.96,8330.88,2024-02-16,Rawalpindi,
+100997,C0082,home & kitchen,Knife Set,1.0,4725.02,4725.02,2025-02-14,Quetta,Debit Card
+100867,C0343,Clothing,Jeans,1.0,4315.19,4315.19,2025-12-02,Faisalabad,Bank Transfer
+100410,C0185,Groceries,Milk 1L,2.0,759.73,1519.46,2025-02-12,Quetta,Mobile Wallet
+100219,C0436,Groceries,Sugar 1kg,4.0,443.12,1772.48,"April 03, 2025",Multan,Debit Card
+101071,C0394,Sports,Running Shoes,5.0,908.07,4540.35,03/05/2025,Sialkot,Cash
+100152,C0309,Home & Kitchen,Knife Set,3.0,10412.99,31238.97,17/12/2024, Quetta,Cash
+100837,C0545,Home & Kitchen,Water Bottle,2.0,11342.16,22684.32,2024-11-16,Sialkot,Cash
+100307,C0117,Home&Kitchen,Water Bottle,4.0,5863.89,23455.56,27/12/2024,Lahore,Cash
+101541,C0229,Beauty,Shampoo,1.0,3139.03,3139.03,2025-01-12,Peshawar,Debit Card
+101152,C0114,Groceries,Rice 5kg,4.0,1852.17,7408.68,2024-11-04,Lahore,Credit Card
+101129,C0581,Clothing,Cap,2.0,5871.23,11742.46,2025-12-06,Hyderabad,Bank Transfer
+100533,C0598,Electronics,USB-C Cable,2.0,105203.33,210406.66,2025-03-08,Islamabad,Bank Transfer
+100203,C0286,Clothing,Dress,4.0,650.2,2600.8,2025-12-25,Faisalabad,Mobile Wallet
+100870,C0329,Clothing,T-Shirt,3.0,3403.87,10211.61,2024-11-20,Sialkot,Credit Card
+100301,C0170,Sports,Dumbbell Set,5.0,2547.1,12735.5,2025-05-05,Faisalabad,Cash
+100516,C0475,Groceries,Bread Loaf,5.0,2160.13,10800.65,2024-10-28,Rawalpindi,Bank Transfer
+100295,C0429,Electronics,USB-C Cable,4.0,98281.7,393126.8,"June 04, 2025",Peshawar,Credit Card
+101231,C0015,Sports,Dumbbell Set,2.0,7284.49,14568.98,2024-12-17,Lahore,Bank Transfer
+100382,C0413,Electronics,Monitor,1.0,73785.88,73785.88,02/08/2024,Rawalpindi,Credit Card
+101480,C0110,Clothing,Socks Pack,5.0,2954.85,14774.25,11/03/2025,Islamabad,Bank Transfer
+100129,C0239,Sports,Football,5.0,,31340.95,2025-07-12,Hyderabad,Debit Card
+100797,C0585,Beauty,Shampoo,4.0,3778.31,15113.24,15/04/2024,Peshawar,Debit Card
+101679,C0466,Home & Kitchen,Frying Pan,5.0,4470.09,22350.45,07/08/2024,Peshawar,Mobile Wallet
+100100,C0179,Groceries,Milk 1L,2.0,2313.56,4627.12,2025-07-11,Multan,Credit Card
+101466,C0519,Beauty,Body Lotion,2.0,1797.62,3595.24,"November 18, 2024",Faisalabad,Credit card
+101373,C0428,Electronics,Bluetooth Speaker,2.0,41167.11,82334.22,2024-08-04,Islamabad,Debit Card
+101420,C0032,Beauty,Body Lotion,3.0,2160.91,5834.46,2025-06-10,Peshawar,Credit Card
+101618,C0444,home & kitchen,Towel,1.0,8190.96,8190.96,2025-08-26,Lahore,Mobile Wallet
+100071,C0111,Groceries,Sugar 1kg,5.0,1272.14,6360.7,2025-04-11,Hyderabad,Cash
+101557,C0288,Electronics,USB-C Cable,1.0,17007.33,17007.33,2024-08-08,Hyderabad,Cash
+100692,C0046,Electronics,Smartwatch,3.0,84057.65,252172.95,2024-04-06,Lahore,Cash
+100400,C0457,Sports,Running Shoes,1.0,10283.34,10283.34,2024-06-25,Faisalabad,Bank Transfer
+101183,C0304,Beauty,Lipstick,-2.0,1244.62,1244.62,09/07/2025,Islamabad,Bank Transfer
+100696,C0255,Clothing,Jeans,2.0,5463.58,10927.16,"October 06, 2025",Sialkot,Bank Transfer
+101675,C0389,Sports,Running Shoes,1.0,6565.99,6565.99,07/06/2024,Karachi,Debit Card
+100261,C0238,Home & Kitchen,Frying Pan,5.0,7057.84,35289.2,15/05/2025,Quetta,Debit Card
+100502,C0296,Beauty,Face Wash,2.0,3988.6,7977.2,2024-11-26,Lahore,Cash
+100813,C0153,clothing,Sneakers,1.0,1913.75,1913.75,"August 07, 2024",Karachi,Credit Card
+101193,C0551,Beauty,Perfume,3.0,2329.99,6989.97,2025-12-06,Faisalabad,Cash
+100714,C0285,Groceries,Sugar 1kg,4.0,635.13,2540.52,"October 07, 2025",Multan,Debit Card
+101141,C0586,Home & Kitchen,Knife Set,3.0,9774.53,29323.59,16/11/2025,Peshawar,Mobile Wallet
+101657,C0475,Sports,Dumbbell Set,3.0,6911.09,20733.27,10/11/2025,Faisalabad,Debit Card
+100582,C0130,Beauty,Face Wash,1.0,3296.42,3296.42,2024-03-23,Rawalpindi,Bank Transfer
+100697,C0525,Sports,Gym Gloves,1.0,9970.45,9970.45,15/01/2024,Quetta,Cash
+100601,C0314,clothing,Cap,1.0,5249.47,5249.47,"December 03, 2025",Lahore,Cash
+101463,C0285,Sports,Gym Gloves,5.0,10141.39,50706.95,2024-12-19,Quetta,Mobile Wallet
+100370,C0315,Home & Kitchen,Bed Sheet,2.0,433.59,867.18,2025-09-23,Islamabad,Credit Card
+100134,C0054,Groceries,Rice 5kg,1.0,613.58,613.58,2025-12-05,Peshawar,Credit Card
+100168,C0526,Electronics,Laptop,4.0,93456.02,373824.08,12/12/2024,Lahore ,Transfer
+101653,C0096,Electronics,USB-C Cable,4.0,17085.74,68342.96,2025-04-11,Lahore,Cash
+100733,C0106,Groceries,Biscuits,2.0,1255.84,2511.68,06/12/2025,,Debit Card
+100951,C0254,Beauty,Lipstick,4.0,4068.5,16274.0,2025-10-09,Peshawar,Bank Transfer
+101578,C0335,Electronics,Smartphone,2.0,44998.38,89996.76,2024-08-07,Hyderabad,Credit Card
+100916,C0195,Home & Kitchen,Towel,2.0,1464.11,2928.22,24/05/2024,Rawalpindi,Bank Transfer
+101560,C0486,Groceries,Cooking Oil 1L,4.0,156.13,624.52,2024-09-03,Rawalpindi,
+100560,C0551,Beauty,Sunscreen,2.0,3001.76,6003.52,2025-02-11,Sialkot,Debit Card
+100055,C0173,Home & Kitchen,Dinner Set,2.0,8549.49,17098.98,2024-12-03,Lahore,Mobile Wallet
+101380,C0073,Beauty,Body Lotion,5.0,1936.11,9680.55,2024-09-21,Karachi,
+101261,C0177,Electronics,Laptop,2.0,67093.41,134186.82,27/07/2024,Rawalpindi,Credit Card
+100904,C0158,Electronics,Smartwatch,5.0,7478.99,37394.95,"March 09, 2025",Hyderabad,Credit Card
+100116,C0363,Electronics,Smartphone,2.0,49419.21,98838.42,2024-07-22,Karachi,Cash
+101144,C0011,Sports,Water Bottle,2.0,2261.5,4523.0,2025-09-24,Multan,Mobile Wallet
+100210,C0537,Home & Kitchen,Bed Sheet,1.0,,11447.73,21/09/2024,Rawalpindi,Bank Transfer
+101010,C0266,Electronics,Bluetooth Speaker,2.0,65369.23,130738.46,2024-11-19,Multan,Credit Card
+100387,C0041,Clothing,T-Shirt,3.0,3787.89,11363.67,"September 25, 2025",Sialkot,Debit Card
+100817,C0473,Electronics,Bluetooth Speaker,4.0,117010.23,468040.92,2025-06-03,Islamabad,Credit Card
+100774,C0053,Electronics,Bluetooth Speaker,4.0,96116.74,384466.96,2024-11-14,Lahore,Mobile Wallet
+100816,C0468,Sports,Running Shoes,4.0,3173.02,12692.08,23/02/2025,Karachi,Mobile Wallet
+100421,C0540,Beauty,Body Lotion,4.0,4134.99,16539.96,2025-11-01,Quetta,Credit Card
+101561,C0436,Home & Kitchen,Knife Set,3.0,4811.76,14435.28,"September 14, 2025",Islamabad,Credit Card
+100958,C0365,Sports,Water Bottle,5.0,8895.23,44476.15,"March 02, 2025", Islamabad,Debit Card
+100667,C0365,Home & Kitchen,Frying Pan,4.0,9446.82,37787.28,2025-11-19,Rawalpindi,Credit Card
+100919,C0023,Clothing,T-Shirt,3.0,7212.75,21638.25,"April 12, 2024",Multan,Bank Transfer
+101194,C0379,Electronics,Bluetooth Speaker,3.0,47367.48,142102.44,2024-11-17,Rawalpindi,bank transfer
+100661,C0055,Beauty,Lipstick,3.0,4129.87,12389.61,2024-02-13,Rawalpindi,Mobile Wallet
+100108,C0007,Home & Kitchen,Pillow,5.0,8116.6,40583.0,2024-06-18,Sialkot,Credit Card
+101342,C0592,Beauty,Perfume,4.0,3382.38,13529.52,"January 26, 2025",Sialkot,Credit Card
+101602,C0102,Groceries,Biscuits,4.0,770.42,2773.51,25/10/2025,Hyderabad,Cash
+100037,C0058,Beauty,Face Wash,3.0,2654.06,7962.18,2024-11-28,Peshawar,Debit Card
+100878,C0447,Grocery ,Milk 1L,1.0,2317.28,2317.28,2024-01-14,Faisalabad,Debit Card
+101485,C0125,sports,Running Shoes,3.0,6664.83,19994.49,04/03/2025,Lahore,Bank Transfer
+100011,C0393,Beauty,Body Lotion,1.0,3609.24,3609.24,2024-10-14,Sialkot,Debit Card
+100330,C0397,Sports,Dumbbell Set,4.0,5799.27,23197.08,2024-11-05,Rawalpindi,Debit Card
+101658,C0401,Grocery ,Tea Pack,1.0,879.47,879.47,"December 09, 2025",Lahore,Credit Card
+100914,C0063,Electronics,Power Bank,1.0,81936.4,81936.4,26/12/2024,Quetta,Mobile Wallet
+100703,C0537,Beauty,Face Wash,4.0,1148.53,4594.12,"May 02, 2025",Hyderabad,Bank Transfer
+100305,C0111,Clothing,Cap,1.0,4586.21,4586.21,"September 03, 2024",Lahore,Cash
+101080,C0424,Electronics,Smartwatch,5.0,90162.54,450812.7,2025-10-11,Faisalabad,Debit Card
+100592,C0459,Sports,Gym Gloves,4.0,1296.81,5187.24,2024-06-22,Rawalpindi,Bank Transfer
+101383,C0047,Groceries,Rice 5kg,1.0,919.16,919.16,"January 12, 2025",Lahore,Cash
+101094,C0536,Home & Kitchen,Pillow,4.0,7158.33,28633.32,2024-05-07,Multan,Debit Card
+100809,C0353,Home & Kitchen,Pillow,3.0,11007.12,33021.36,16/10/2024,Lahore,Cash
+100653,C0402,Home & Kitchen,Towel,1.0,6297.6,6297.6,"July 13, 2025",Rawalpindi,Mobile Wallet
+101038,C0435,Beauty,Perfume,1.0,3853.51,3853.51,2025-11-22,Karachi,Bank Transfer
+100652,C0246,Home & Kitchen,Frying Pan,5.0,1600.47,8002.35,2025-06-26,Faisalabad,Mobile Wallet
+100436,C0276,Groceries,Rice 5kg,1.0,1586.77,1586.77,2025-07-14,Peshawar,Bank Transfer
+101486,C0399,Sports,Gym Gloves,2.0,467.81,935.62,"December 22, 2024",Sialkot,Cash
+101294,C0043, Sports ,Dumbbell Set,5.0,9174.98,45874.9,2025-11-20,Peshawar,Debit Card
+100884,C0381,Beauty,Perfume,4.0,,15880.92,2024-11-10,Peshawar,Bank Transfer
+101276,C0337,Home & Kitchen,Frying Pan,1.0,10013.14,10013.14,2025-11-26,Sialkot,Mobile Wallet
+100416,C0576,Electronics,USB-C Cable,5.0,107013.53,588574.42,"March 03, 2024",Sialkot,mobile wallet
+100961,C0485,Beauty,Face Wash,4.0,1161.96,4647.84,2024-08-12,Quetta,Debit Card
+101032,C0487,Home & Kitchen,Mug,1.0,4762.56,4762.56,2025-10-27,Hyderabad,Credit Card
+100778,C0394,Clothing,Dress,4.0,1367.04,5468.16,"August 21, 2025",Islamabad,Cash
+101163,C0210,Beauty,Perfume,2.0,516.44,1032.88,2025-08-27,Rawalpindi,Credit Card
+100407,C0387,Electronics,USB-C Cable,1.0,51183.69,51183.69,27/09/2025,Faisalabad,Cash
+100587,C0440,Sports,Water Bottle,2.0,3797.83,7595.66,2024-03-13,Lahore,Bank Transfer
+101271,C0428,Beauty,Perfume,2.0,3899.49,7798.98,2024-06-07,Sialkot,
+100796,C0145,Groceries,Bread Loaf,3.0,1735.79,5207.37,"November 16, 2025",Islamabad,Bank Transfer
+101375,C0023,Beauty,Body Lotion,5.0,2283.87,11419.35,"December 28, 2025",Quetta,Credit Card
+101016,C0210,Beauty,Sunscreen,2.0,2672.78,5345.56,2024-01-18,Sialkot,Credit Card
+100149,C0130,Home & Kitchen,Frying Pan,1.0,1495.67,1495.67,2025-03-11,Rawalpindi,Cash
+101215,C0544,Clothing,Dress,1.0,4265.99,4265.99,2025-02-02,Hyderabad,Mobile Wallet
+101429,C0031,Beauty,Body Lotion,2.0,4688.61,9377.22,2024-10-16,Lahore,Debit Card
+100299,C0434,Sports,Running Shoes,4.0,8153.85,32615.4,2025-09-04,Faisalabad,Cash
+101118,C0350,Electronics,Laptop,5.0,7694.75,38473.75,2025-02-06,Islamabad,Debit Card
+100887,C0351,Clothing,T-Shirt,1.0,1980.87,1980.87,2025-03-01,Rawalpindi,Debit Card
+101461,C0014,Home & Kitchen,Frying Pan,4.0,8950.33,35801.32,2025-07-04,Islamabad,Cash
+100240,C0060,Groceries,Tea Pack,2.0,1781.12,3562.24,28/09/2025,Islamabad,Credit Card
+100199,C0230,Beauty,Shampoo,4.0,4184.54,16738.16,2024-11-21,Quetta,Debit Card
+100045,C0418,Clothing,Jeans,1.0,5622.55,5622.55,2024-09-10,Islamabad,Credit Card
+101232,C0354,Beauty,Shampoo,5.0,3083.96,15419.8,2024-09-16,Karachi,Credit Card
+101147,C0347,Beauty,Hair Oil,4.0,4587.2,18348.8,2024-03-14,Quetta,Mobile Wallet
+100137,C0332,Electronics,Monitor,4.0,32973.61,131894.44,2024-07-02,Sialkot,Credit card
+101692,C0086,Beauty,Sunscreen,1.0,945.59,945.59,2024-02-12,Sialkot,Debit Card
+101059,C0232,Groceries,Eggs Dozen,4.0,1681.3,6725.2,2025-10-11,Peshawar,Mobile Wallet
+101475,C0588,Groceries,Bread Loaf,4.0,1728.44,6913.76,2025-06-19,Rawalpindi,Bank Transfer
+101198,C0021,Groceries,Tea Pack,4.0,2366.77,9467.08,2025-12-06,Hyderabad,Debit Card
+101448,C0358,Electronics,Bluetooth Speaker,2.0,20962.57,41925.14,2025-04-21,Sialkot,Mobile Wallet
+101235,C0179,Home & Kitchen,Dinner Set,2.0,10989.93,21979.86,2025-07-26,Sialkot,Mobile Wallet
+100381,C0134,Electronics,Smartwatch,3.0,83952.0,251856.0,2025-09-21,Sialkot,Credit Card
+100205,C0180,Groceries,Bread Loaf,,951.53,4757.65,01/06/2024,Peshawar,Debit Card
+101468,C0367,Home & Kitchen,Mug,1.0,,9824.6,2024-12-16,Sialkot,Mobile Wallet
+101434,C0374,Beauty,Perfume,5.0,743.1,3715.5,26/06/2024,Multan,Mobile Wallet
+100638,C0169,Electronics,Monitor,,20530.35,102651.75,2025-09-13,Faisalabad,Debit Card
+100448,C0387, Sports ,Running Shoes,1.0,8818.56,8818.56,2024-11-10,,Cash
+100510,C0452,Beauty,Perfume,3.0,3130.26,9390.78,"April 16, 2025",Faisalabad,Cash
+100423,C0258,Sports,Dumbbell Set,5.0,7907.34,39536.7,2025-07-18,Quetta,Cash
+100006,C0270,home & kitchen,Dinner Set,2.0,666.37,1332.74,2025-11-04,Quetta,Mobile Wallet
+100158,C0166, Electronics,Bluetooth Speaker,5.0,11277.26,56386.3,"February 02, 2024",Peshawar,Debit Card
+100032,C0176,Clothing,Jeans,1.0,7080.3,7080.3,2024-11-22,Peshawar,Bank Transfer
+101192,C0008,Electronics,Bluetooth Speaker,4.0,99597.69,398390.76,2024-07-26,Karachi,Bank Transfer
+100156,C0553,Beauty,Shampoo,1.0,4321.59,4321.59,2024-01-24,Karachi,mobile wallet
+100521,C0267,Electronics,Laptop,3.0,97476.04,292428.12,2025-03-07,Peshawar,Bank Transfer
+100490,C0262,Sports,Dumbbell Set,1.0,975.12,975.12,2025-01-27,Hyderabad,Mobile Wallet
+101004,C0344,Home & Kitchen,Dinner Set,4.0,10393.3,41573.2,2025-09-11,Islamabad,Mobile Wallet
+100593,C0122,Clothing,T-Shirt,1.0,4527.81,4527.81,2024-12-23,Karachi,Credit Card
+101694,C0569,Beauty,Face Wash,5.0,1019.86,5099.3,2024-07-15,Karachi,Mobile Wallet
+100622,C0364,Sports,Yoga Mat,3.0,10137.14,30411.42,"May 10, 2024",Peshawar,Debit Card
+100994,C0505,Electronics,USB-C Cable,4.0,44601.47,178405.88,2025-04-27,Rawalpindi,Credit Card
+101477,C0511,Groceries,Sugar 1kg,5.0,2071.73,10358.65,2025-02-13,Karachi,Debit Card
+100406,C0305,BEAUTY,Sunscreen,2.0,2279.61,4559.22,2024-08-26,,Debit Card
+100939,C0344,Sports,Dumbbell Set,1.0,9610.43,9610.43,11/05/2024,Quetta,Credit Card
+100545,C0092,Sports,Running Shoes,4.0,1730.65,6922.6,25/02/2024,Islamabad,Cash
+101551,C0119,Home&Kitchen,Frying Pan,3.0,938.11,2814.33,2024-12-13,faisalabad,Credit Card
+101351,C0246,Groceries,Bread Loaf,5.0,273.34,1366.7,"March 19, 2025",Quetta ,Mobile Wallet
+101211,C0393,Sports,Football,1.0,1420.42,1420.42,"August 23, 2025",Peshawar,Credit Card
+101243,C0246,Clothing,Hoodie,3.0,5967.75,17903.25,2025-01-24,Quetta,Bank Transfer
+100681,C0013,Clothing,Jacket,4.0,6620.69,26482.76,2025-10-07,Hyderabad,Credit Card
+100895,C0261,Clothing,Dress,2.0,5269.55,10539.1,2025-02-19,Peshawar,
+100153,C0378,Sports,Yoga Mat,3.0,11510.95,34532.85,2024-11-24,Islamabad,Mobile Wallet
+100122,C0339,Electronics,Smartphone,1.0,83331.39,83331.39,2025-03-24,Quetta,Bank Transfer
+100120,C0039,Electronics,Monitor,1.0,87790.37,87790.37,2025-10-25,Islamabad,Cash
+101402,C0561,Home & Kitchen,Dinner Set,2.0,2612.75,5225.5,"October 14, 2025",Quetta,Mobile Wallet
+100846,C0020,Groceries,Biscuits,3.0,887.56,2662.68,2024-03-17,Hyderabad,Debit Card
+100600,C0334,Beauty,Face Wash,1.0,3853.05,3853.05,16/08/2025,,Cash
+100463,C0375,Home & Kitchen,Dinner Set,1.0,1023.16,1023.16,2025-04-24, Hyderabad,Debit Card
+101165,C0248,Groceries,Cooking Oil 1L,5.0,1408.93,7044.65,2025-09-25, Multan,Credit Card
+101158,C0070,Clothing,Socks Pack,5.0,1533.22,7666.1,"April 21, 2025",Lahore,Cash
+101547,C0567,Beauty,Face Wash,4.0,4051.32,16205.28,2024-10-24,Rawalpindi,Debit Card
+100586,C0439,Beauty,Face Wash,3.0,504.07,1512.21,2025-09-09,Rawalpindi,Mobile Wallet
+100946,C0268,Home & Kitchen,Water Bottle,1.0,4050.27,4050.27,2025-12-13,Hyderabad,Cash
+101353,C0117,Home & Kitchen,Pillow,4.0,6088.66,24354.64,2024-06-08,Faisalabad,Bank Transfer
+101308,C0203,BEAUTY,Shampoo,2.0,165.4,330.8,06/08/2024,Rawalpindi,Credit Card
+101336,C0143,Groceries,Milk 1L,5.0,2499.12,12495.6,16/07/2024,Rawalpindi,Transfer
+100522,C0600,Home & Kitchen,Frying Pan,,8495.05,33980.2,2025-06-14,Hyderabad,
+100197,C0554,Electronics,Wireless Earbuds,4.0,3374.8,13499.2,2025-11-06,Peshawar,Bank Transfer
+100150,C0084,Clothing,Jacket,4.0,7631.48,30525.92,2025-01-15,Multan,Cash
+100528,C0188,Electronics,USB-C Cable,2.0,63743.12,127486.24,2024-06-01,Lahore,Mobile Wallet
+100690,C0351,Sports,Running Shoes,2.0,14167.55,28335.1,"December 16, 2024",Islamabad,Credit Card
+100180,C0069, Sports ,Cricket Bat,3.0,10277.1,30831.3,16/12/2025,Hyderabad,debit card
+100992,C0482,Electronics,Smartwatch,4.0,28568.46,114273.84,2025-09-02,Islamabad,Cash
+101273,C0386,Groceries,Bread Loaf,,692.05,3460.25,2025-11-09,Peshawar,CASH
+100832,C0308, Clothing,T-Shirt,2.0,3166.47,6332.94,2024-06-24, Hyderabad,Debit Card
+101267,C0303,Electronics,Monitor,5.0,94943.39,474716.95,"September 06, 2025",Quetta,Debit Card
+100650,C0380,Sports,Gym Gloves,3.0,7816.05,23448.15,17/08/2025,Sialkot,Credit Card
+100257,C0079,Home&Kitchen,Knife Set,4.0,4163.52,16654.08,21/08/2024,MULTAN,Mobile Wallet
+101220,C0056,Home & Kitchen,Bed Sheet,4.0,5865.74,23462.96,"June 02, 2024",Peshawar,
+101045,C0005,Sports,Cricket Bat,3.0,3729.7,11189.1,2024-11-27,Karachi,Bank Transfer
+101364,C0211,Electronics,USB-C Cable,3.0,44094.24,132282.72,2024-10-06,Hyderabad,Mobile Wallet
+101488,C0506,Groceries,Biscuits,3.0,589.85,1769.55,2024-04-13,Lahore,DC
+100474,C0166,Sports,Water Bottle,1.0,13479.91,14827.9,2024-05-17,Karachi,Bank Transfer
+100118,C0148,Sports,Yoga Mat,5.0,6191.08,30955.4,15/07/2024,Islamabad,Cash
+100178,C0175,Beauty,Shampoo,5.0,3694.52,18472.6,2025-07-22,Lahore,Credit Card
+100686,C0239,Home & Kitchen,Frying Pan,5.0,10061.6,50308.0,2024-10-18,Faisalabad,Debit Card
+100297,C0440,Groceries,Milk 1L,4.0,1534.6,6138.4,2025-06-02,Faisalabad,Mobile Wallet
+101389,C0086,Clothing,Socks Pack,2.0,4160.45,8320.9,2024-04-01,LAHORE,Bank Transfer
+100761,C0182,Home&Kitchen,Knife Set,,1788.53,8942.65,2025-10-08,Sialkot,Cash
+101617,C0271,sports,Yoga Mat,4.0,4607.98,18431.92,2025-10-21,Multan,Cash
+100109,C0523,Beauty,Lipstick,3.0,745.47,2236.41,2024-09-02,Sialkot,Debit Card
+101605,C0487,Beauty,Sunscreen,2.0,1117.39,2234.78,2024-04-03, Karachi,Credit Card
+100542,C0226, Clothing,Dress,5.0,2013.81,10069.05,2025-02-07,Hyderabad,Credit Card
+100935,C0417,Groceries,Tea Pack,5.0,738.82,3694.1,2024-02-11,Faisalabad,Mobile Wallet
+100649,C0215,Electronics,Smartwatch,4.0,80271.6,321086.4,2024-10-07,LAHORE,Credit Card
+100712,C0534,Electronics,USB-C Cable,2.0,13902.26,27804.52,2024-08-19,Quetta,Cash
+101533,C0561,Sports,Football,2.0,9523.78,19047.56,2025-08-06,Karachi,Credit Card
+101044,C0131,Home & Kitchen,Knife Set,4.0,861.11,3444.44,2024-05-09,Faisalabad,Mobile Wallet
+101034,C0459,Sports,Running Shoes,2.0,6704.35,13408.7,24/06/2024,Karachi,Debit Card
+100732,C0144,Home & Kitchen,Frying Pan,1.0,6632.49,6632.49,"July 26, 2024",Peshawar,Credit Card
+100917,C0178,Clothing,Cap,5.0,1169.17,5845.85,2025-08-23,Lahore,Cash
+101125,C0268,Clothing,Socks Pack,3.0,3671.51,11014.53,2025-06-16,Peshawar,Credit Card
+101382,C0030,Groceries,Cooking Oil 1L,2.0,2257.96,4515.92,2024-11-28,Faisalabad ,Credit Card
+100139,C0040,Groceries,Sugar 1kg,5.0,2408.34,12041.7,2025-12-18,Islamabad,Debit Card
+100223,C0148,Electronics,USB-C Cable,5.0,86384.32,431921.6,2024-11-17,Faisalabad,debit card
+100075,C0303,Beauty,Shampoo,1.0,1492.86,1492.86,2025-02-20,Quetta,Debit Card
+100882,C0031,Sports,Cricket Bat,4.0,3340.43,13361.72,"December 15, 2024",Peshawar,Debit Card
+101367,C0252,Groceries,Bread Loaf,2.0,2386.3,4772.6,2025-01-17,Islamabad,Bank Transfer
+100643,C0042,Sports,Yoga Mat,2.0,11370.78,20467.4,11/07/2025,Multan,Mobile Wallet
+100588,C0182,Electronics,Bluetooth Speaker,5.0,82851.9,414259.5,2025-08-23,Islamabad,Debit Card
+101239,C0423,Home & Kitchen,Knife Set,5.0,5978.54,29892.7,2025-06-19,Multan,Credit Card
+100708,C0115, Electronics,Laptop,1.0,29096.18,29096.18,2025-06-26,Rawalpindi,Cash
+101148,C0212,Home & Kitchen,Mug,4.0,3207.87,12831.48,26/04/2025,Multan,Cash
+100623,C0516,Electronics,Smartphone,1.0,87541.05,87541.05,2025-11-01,Sialkot,Transfer
+100723,C0253,Electronics,Smartwatch,2.0,63325.41,126650.82,2025-05-25,Hyderabad,Debit Card
+101502,C0123,Sports,Cricket Bat,2.0,5039.3,10078.6,2024-02-11,Sialkot,Bank Transfer
+101292,C0532,Groceries,Tea Pack,3.0,1454.18,4362.54,2024-09-15,Karachi,Mobile Wallet
+101409,C0235,Home & Kitchen,Mug,2.0,1593.33,3186.66,"October 15, 2024",Multan,Cash
+101325,C0342,Clothing,Cap,1.0,5106.22,5106.22,2024-01-08,Karachi,Credit Card
+100395,C0121,Clothing,Hoodie,4.0,712.33,2849.32,2025-02-14,Karachi,Bank Transfer
+100839,C0162,Groceries,Sugar 1kg,4.0,1334.33,5337.32,2025-07-23,Hyderabad,Mobile Wallet
+101079,C0598,Clothing,Cap,4.0,4921.03,19684.12,"June 09, 2024",Multan,Credit Card
+101491,C0484,Groceries,Biscuits,3.0,945.67,2837.01,11/07/2025,Karachi,Cash
+101606,C0577,Electronics,Smartwatch,4.0,104375.59,417502.36,2025-09-22,Faisalabad ,Credit Card
+100165,C0152,Groceries,Bread Loaf,5.0,2127.91,10639.55,"June 20, 2024",Lahore,Credit Card
+101503,C0405,Electronics,Smartphone,5.0,102490.03,5124501.5,2024-09-26,Karachi,Cash
+100115,C0455,Sports,Running Shoes,3.0,4249.78,12749.34,2025-09-25,Sialkot,Bank Transfer
+100682,C0173,Beauty,Sunscreen,2.0,3106.96,6213.92,16/03/2025,Islamabad,Cash
+100310,C0465,Home & Kitchen,Dinner Set,3.0,6412.6,19237.8,2024-08-18,Islamabad,Bank Transfer
+101327,C0178,Beauty,Perfume,4.0,307.43,1229.72,2024-03-04,Islamabad,Credit Card
+100475,C0415,Sports,Dumbbell Set,5.0,3630.08,18150.4,2025-08-13,Faisalabad,Cash
+100420,C0378,Clothing,Hoodie,5.0,6111.75,30558.75,"May 28, 2024",Rawalpindi,Debit Card
+100554,C0109,Groceries,Tea Pack,4.0,1968.11,7872.44,2024-10-21,Hyderabad,Bank Transfer
+101372,C0357,Beauty,Face Wash,1.0,3630.58,3630.58,2025-05-15,Lahore,Debit Card
+100218,C0308,Beauty,Sunscreen,1.0,356.77,356.77,21/02/2025,Peshawar,Bank Transfer
+100211,C0447,Home & Kitchen,Pillow,4.0,11600.12,46400.48,"May 18, 2025",Multan,Bank Transfer
+100634,C0251,Electronics,Power Bank,2.0,102009.51,204019.02,2024-07-23,Multan,credit card
+100054,C0070,Beauty,Shampoo,1.0,4419.75,441.98,04/12/2025,Islamabad,Bank Transfer
+101078,C0342,Groceries,Rice 5kg,1.0,1115.81,1115.81,"May 10, 2024", Karachi,Debit Card
+101330,C0552,Groceries,Bread Loaf,2.0,2492.37,4984.74,2024-10-28,Karachi,Credit Card
+100648,C0170,Grocery ,Cooking Oil 1L,2.0,973.84,1947.68,2025-02-24,Multan,Debit Card
+101693,C0295,Home & Kitchen,Water Bottle,3.0,954.68,2864.04,2025-05-02,Lahore,Bank Transfer
+101295,C0162,Home & Kitchen,Water Bottle,3.0,3770.46,11311.38,2025-02-11,Multan,CASH
+101384,C0110,Beauty,Lipstick,2.0,3820.89,7641.78,16/09/2025,Islamabad,Debit Card
+100718,C0100,Groceries,Biscuits,1.0,2356.62,2356.62,2024-12-17,Lahore,Credit Card
+101405,C0112,Electronics,Smartphone,3.0,38677.63,116032.89,"February 14, 2025",Rawalpindi,Bank Transfer
+100147,C0381,Groceries,Cooking Oil 1L,5.0,2476.16,12380.8,2025-07-20,Peshawar,Bank Transfer
+100953,C0488,Groceries,Biscuits,2.0,1320.5,2641.0,2025-10-13,Islamabad,
+100254,C0494,Beauty,Face Wash,3.0,2109.29,6327.87,2025-02-17,Multan,Debit Card
+100106,C0443,Groceries,Tea Pack,1.0,1674.6,1674.6,2024-08-23,Quetta,Credit Card
+100565,C0572,Home & Kitchen,Water Bottle,1.0,3097.08,3097.08,2024-10-24, Peshawar,Bank Transfer
+100392,C0568,Electronics,USB-C Cable,4.0,33359.14,133436.56,2025-12-18,Faisalabad,Debit Card
+101201,C0013,Groceries,Tea Pack,1.0,1310.11,1310.11,2025-02-28,Islamabad,Debit Card
+100230,C0397,Clothing,Jeans,1.0,6619.6,6619.6,2025-04-21,Faisalabad,Mobile Wallet
+100146,C0022,Home & Kitchen,Knife Set,1.0,11383.39,11383.39,2025-11-22,Sialkot,Cash
+101659,C0505,Groceries,Eggs Dozen,4.0,2471.12,9884.48,2024-06-26,Lahore,Credit Card
+101019,C0268,beauty,Perfume,4.0,3698.28,14793.12,2025-02-15,Faisalabad,
+100167,C0237,Sports,Gym Gloves,3.0,4441.69,13325.07,2024-05-03,Lahore,Bank Transfer
+100956,C0485,Clothing,Jacket,4.0,6835.94,27343.76,2025-05-05,Peshawar,Mobile Wallet
+100052,C0492,Clothing,Cap,3.0,4594.37,13783.11,2024-02-10,Karachi,Bank Transfer
+100598,C0045,Home & Kitchen,Frying Pan,5.0,2122.55,10612.75,2025-06-06,Karachi,Debit Card
+100808,C0012,Groceries,Rice 5kg,1.0,2410.36,2410.36,2025-12-09,Islamabad,Mobile Wallet
+101532,C0190,Beauty,Lipstick,1.0,1944.52,1944.52,2025-03-26,Rawalpindi,Cash
+100399,C0109,Electronics,Smartphone,1.0,33672.6,33672.6,2025-05-06,Islamabad,Credit Card
+101332,C0312,Clothing,Sneakers,5.0,2185.63,10928.15,2025-06-01,Quetta,Cash
+100651,C0114,Beauty,Body Lotion,4.0,2301.28,92051.2,"July 17, 2025",Hyderabad,Debit Card
+101186,C0159,Home & Kitchen,Dinner Set,2.0,6233.58,12467.16,2025-09-08,Faisalabad,Cash
+100858,C0139,Clothing,Jacket,1.0,6239.53,6239.53,09/05/2025,Rawalpindi,Cash
+100468,C0070,Sports,Running Shoes,2.0,7595.17,15190.34,2025-03-25,Karachi,Cash
+101358,C0235,groceries,Milk 1L,3.0,901.58,2704.74,2024-11-26,Hyderabad,Mobile Wallet
+101515,C0516,Electronics,Smartphone,2.0,119056.56,238113.12,2024-12-16,Quetta,Credit Card
+100347,C0311,Groceries,Sugar 1kg,3.0,1458.29,4374.87,2025-07-23,Multan,Debit Card
+100280,C0324,Home & Kitchen,Water Bottle,1.0,7308.05,7308.05,2025-10-09,Islamabad,Credit Card
+100990,C0127,Beauty,Shampoo,5.0,4620.37,23101.85,2024-01-22,Faisalabad,Bank Transfer
+101398,C0247,Clothing,Socks Pack,5.0,2033.5,10167.5,2025-02-16,Peshawar,Cash
+100715,C0514,Beauty,Shampoo,3.0,4471.22,13413.66,05/11/2025,Rawalpindi,Cash
+100009,C0135,Clothing,Jacket,5.0,6284.53,31422.65,2025-12-28,Hyderabad,Mobile Wallet
+100740,C0215,Grocery ,Rice 5kg,2.0,127.56,255.12,2025-02-19,Lahore,Cash
+100270,C0066,Beauty,Perfume,3.0,2435.74,7307.22,2024-09-16,Islamabad,Mobile Wallet
+101460,C0276,Groceries,Sugar 1kg,5.0,388.36,1941.8,2025-11-13,Hyderabad,Bank Transfer
+100285,C0291,Home & Kitchen,Knife Set,5.0,11666.93,58334.65,2025-07-14,Rawalpindi,Credit Card
+100541,C0451,Beauty,Lipstick,2.0,4435.29,8870.58,2025-03-21,Quetta,Bank Transfer
+100741,C0393,Grocery ,Bread Loaf,1.0,466.39,466.39,2024-01-22,Multan,Bank Transfer
+100444,C0201,Electronics,Monitor,4.0,106908.04,427632.16,2025-01-13,Multan,
+101593,C0287,Sports,Dumbbell Set,1.0,13277.02,13277.02,2025-03-11,FAISALABAD,Credit Card
+100830,C0295,Electronics,Laptop,3.0,103931.75,311795.25,2025-08-22,Sialkot,Mobile Wallet
+100103,C0429,Electronics,Monitor,3.0,9448.56,28345.68,2025-04-17,Quetta,Cash
+101555,C0539,Home & Kitchen,Mug,2.0,3838.87,7677.74,2025-10-11,Islamabad,Debit Card
+100099,C0575,Beauty,Body Lotion,1.0,415.59,415.59,2025-04-26,Rawalpindi,Credit Card
+100781,C0569,Beauty,Lipstick,1.0,2618.09,2618.09,"October 08, 2024",Sialkot,Debit Card
+100803,C0158,Beauty,Lipstick,4.0,1267.42,506.97,12/06/2024,Karachi,Cash
+100855,C0270,Home & Kitchen,Water Bottle,1.0,9276.63,9276.63,"February 10, 2025",Multan,Mobile Wallet
+101362,C0095,sports,Yoga Mat,1.0,4091.01,4091.01,2024-08-26,Quetta,Mobile Wallet
+100495,C0030,Home & Kitchen,Water Bottle,4.0,2046.22,8184.88,2024-06-18,islamabad,Debit Card
+100432,C0059, Electronics,Bluetooth Speaker,2.0,113926.21,227852.42,2025-01-23,Quetta,Mobile Wallet
+100142,C0426,Sports,Cricket Bat,3.0,2715.63,8146.89,"December 23, 2024",Sialkot,Cash
+100827,C0467,Home & Kitchen,Knife Set,2.0,6397.73,12795.46,2025-10-24,,Bank Transfer
+100166,C0335,Clothing,Dress,2.0,4910.44,9820.88,2024-10-02,Lahore,Mobile Wallet
+100161,C0014,Clothing,Sneakers,2.0,4647.51,9295.02,2024-11-09,Lahore,Mobile Wallet
+101160,C0257,Electronics,Bluetooth Speaker,3.0,48453.91,145361.73,23/02/2024,Sialkot,Mobile Wallet
+101040,C0022,Groceries,Bread Loaf,3.0,493.04,1479.12,"February 28, 2025",Hyderabad,Mobile Wallet
+101137,C0379,Sports,Dumbbell Set,1.0,5269.28,5269.28,2025-12-17,Quetta,Credit Card
+100007,C0217,Electronics,Smartwatch,5.0,40051.64,200258.2,2025-05-26,Hyderabad,Bank Transfer
+101219,C0246,Electronics,Laptop,2.0,60952.97,121905.94,"June 10, 2025",Islamabad,Bank Transfer
+101377,C0119,Sports,Running Shoes,4.0,11077.64,44310.56,2025-05-06,Hyderabad,Cash
+100173,C0251,Home & Kitchen,Water Bottle,4.0,9446.95,37787.8,2025-07-06,Rawalpindi,Debit Card
+100446,C0310,Beauty,Shampoo,3.0,4116.6,12349.8,2025-10-14,Rawalpindi,Mobile Wallet
+101612,C0598,Beauty,Hair Oil,2.0,4086.67,8173.34,"December 18, 2025",Lahore,Debit Card
+101535,C0547,Home & Kitchen,Mug,5.0,8923.93,44619.65,2024-08-17,Peshawar,Credit card
+100866,C0564,Groceries,Sugar 1kg,1.0,1476.49,1476.49,"August 25, 2024",Multan,Credit Card
+100579,C0001,Electronics,Smartphone,5.0,93397.38,466986.9,17/03/2024,Lahore,Mobile Wallet
+101695,C0261,Electronics,Smartwatch,2.0,119377.53,238755.06,17/07/2024,Faisalabad,Mobile Wallet
+100204,C0509,Sports,Water Bottle,1.0,1701.22,1701.22,2025-09-20,Rawalpindi,Credit Card
+100902,C0431,Beauty,Shampoo,1.0,1393.02,1393.02,2024-09-24,Sialkot ,Bank Transfer
+100580,C0550,Sports,Football,2.0,2905.31,5810.62,2025-07-25,Quetta,Cash
+101594,C0366,Home & Kitchen,Pillow,2.0,7607.65,15215.3,"April 02, 2025",HYDERABAD,Mobile Wallet
+101136,C0201,Home & Kitchen,Bed Sheet,5.0,7976.5,39882.5,2024-05-02,Multan,debit card
+101509,C0589,Home & Kitchen,Frying Pan,1.0,5375.28,5375.28,"April 17, 2025",Rawalpindi,Bank Transfer
+100485,C0515,Electronics,Wireless Earbuds,3.0,26490.02,79470.06,2024-12-16,Hyderabad,mobile wallet
+101000,C0175,Sports,Cricket Bat,4.0,9784.5,39138.0,2024-11-04,Faisalabad,Bank Transfer
+100644,C0377,Beauty,Shampoo,1.0,0.0,1193.5,2025-10-10,Multan,Bank Transfer
+101643,C0346,Groceries,Milk 1L,2.0,847.32,1694.64,2024-09-06,Rawalpindi,Bank Transfer
+101671,C0324,Beauty,Body Lotion,2.0,3588.43,7176.86,2025-04-27,LAHORE,Bank Transfer
+100859,C0047,Beauty,Body Lotion,4.0,1991.06,7964.24,2025-06-08,Faisalabad,Mobile Wallet
+101381,C0006,Groceries,Sugar 1kg,2.0,2140.1,42802.0,2024-05-06,Rawalpindi,Bank Transfer
+100003,C0274,Home & Kitchen,Towel,5.0,5761.13,28805.65,2024-09-07, Rawalpindi,Credit Card
+101483,C0179,Beauty,Face Wash,2.0,1343.58,2687.16,"May 04, 2024",Karachi,mobile wallet
+100358,C0505,Beauty,Sunscreen,3.0,1388.25,4164.75,2024-09-14,Rawalpindi,Debit Card
+100428,C0540,Groceries,Cooking Oil 1L,1.0,415.01,456.51,2025-04-24,,Cash
+100276,C0437,Home & Kitchen,Mug,3.0,6532.31,19596.93,2024-11-06,Rawalpindi,Credit Card
+100266,C0372,Electronics,Power Bank,5.0,106995.58,534977.9,2024-12-09,Multan,Debit Card
+100749,C0332,Beauty,Hair Oil,2.0,4352.29,8704.58,20/09/2025,Sialkot,Credit Card
+101253,C0098,Groceries,Tea Pack,1.0,1824.38,1824.38,23/05/2025,Quetta,Bank Transfer
+101505,C0131,Electronics,Power Bank,2.0,3118.7,6237.4,"November 18, 2025",Rawalpindi,Bank Transfer
+100030,C0116,Home & Kitchen,Frying Pan,5.0,11450.94,57254.7,2025-07-03,Faisalabad,Credit Card
+100445,C0345,Home & Kitchen,Mug,2.0,1669.04,3338.08,27/03/2025,Quetta,Bank Transfer
+100760,C0502,Beauty,Face Wash,4.0,0.0,5790.04,13/02/2024,Hyderabad,Cash
+100373,C0210,Electronics,Bluetooth Speaker,3.0,9900.65,29701.95,2025-11-19,Rawalpindi,Mobile Wallet
+101340,C0422,Sports,Dumbbell Set,2.0,14158.22,283164.4,2024-02-16,ISLAMABAD,Debit Card
+101365,C0062,Electronics,Smartphone,3.0,61456.92,184370.76,2025-12-03,Islamabad,Debit Card
+101140,C0089,Groceries,Rice 5kg,3.0,1824.56,5473.68,2024-04-01,Rawalpindi,Mobile Wallet
+101246,C0321,Beauty,Shampoo,5.0,3884.46,19422.3,12/02/2025,Islamabad,Debit Card
+100617,C0183,beauty,Body Lotion,4.0,2030.32,8121.28,"October 14, 2025",Quetta,Debit Card
+100073,C0513,Clothing,Socks Pack,4.0,1767.01,7068.04,"June 06, 2024",faisalabad,Credit Card
+101224,C0244,Sports,Yoga Mat,,8583.87,42919.35,"March 25, 2024",Sialkot,Credit Card
+101622,C0544,Clothing,Socks Pack,2.0,2036.16,4072.32,2025-11-17,Sialkot,Credit Card
+100342,C0049,Beauty,Sunscreen,4.0,2707.24,10828.96,11/06/2025,Rawalpindi,Mobile Wallet
+101566,C0160,Sports,Football,5.0,3918.01,19590.05,08/03/2024,,Bank Transfer
+100216,C0591,Beauty,Hair Oil,2.0,4824.54,9649.08,2024-03-06,Faisalabad,Debit Card
+101521,C0218,Electronics,Laptop,5.0,49397.09,246985.45,2024-12-03,Karachi,
+100944,C0095,Clothing,Jeans,5.0,7980.67,39903.35,18/05/2024,Karachi,Debit Card
+100391,C0073,Groceries,Sugar 1kg,3.0,1877.77,5633.31,2024-08-10,Multan,Cash
+100228,C0488,groceries,Milk 1L,1.0,185.84,185.84,2024-12-25,Sialkot,Credit Card
+101497,C0197,Sports,Running Shoes,3.0,4386.22,13158.66,2025-03-18,Hyderabad,Cash
+100517,C0171,Home & Kitchen,Frying Pan,3.0,9707.92,29123.76,2025-07-13,,Mobile Wallet
+100479,C0128,Beauty,Shampoo,2.0,4511.41,9022.82,2024-02-13,Faisalabad,Mobile Wallet
+100799,C0096,Groceries,Sugar 1kg,1.0,1499.93,1499.93,2025-03-08,Sialkot,Mobile Wallet
+100034,C0051,Sports,Water Bottle,4.0,13394.08,53576.32,2024-08-22,Hyderabad,Debit Card
+101268,C0541, Sports ,Running Shoes,5.0,14656.75,73283.75,2024-09-01,Lahore,Debit Card
+100008,C0063,BEAUTY,Shampoo,1.0,225.84,225.84,2024-11-24,Islamabad,Credit Card
+100231,C0466,Clothing,Dress,3.0,4587.7,13763.1,2025-05-13,,Bank Transfer
+100440,C0101,sports,Cricket Bat,4.0,12468.63,49874.52,"June 04, 2025",Sialkot,Mobile Wallet
+100525,C0273,Sports,Running Shoes,4.0,5353.86,21415.44,2024-03-28,Islamabad,Mobile Wallet
+100624,C0012,Groceries,Cooking Oil 1L,1.0,1802.5,1802.5,2025-12-02,,Debit Card
+101644,C0418,Home & Kitchen,Dinner Set,5.0,9685.09,48425.45,2024-06-22,Lahore,Cash
+100094,C0292,Beauty,Sunscreen,4.0,2508.83,10035.32,2025-10-19,Sialkot,Cash
+100543,C0306,Beauty,Perfume,3.0,371.09,1113.27,17/09/2024,,Credit Card
+101430,C0532,Electronics,Smartphone,3.0,91142.6,273427.8,"November 17, 2025",Multan,Bank Transfer
+100970,C0059,Electronics,USB-C Cable,4.0,8197.11,32788.44,2024-07-05,Lahore ,Credit Card
+101445,C0314,Electronics,Smartphone,1.0,55527.04,55527.04,2025-05-21,Hyderabad,Bank Transfer
+100209,C0110,Groceries,Rice 5kg,5.0,1471.9,7359.5,14/11/2025,Multan,Bank Transfer
+101199,C0470,Home & Kitchen,Bed Sheet,1.0,4502.19,4502.19,2024-10-27,Islamabad,Cash
+100281,C0588,Groceries,Biscuits,5.0,2393.1,11965.5,2024-10-22,Hyderabad,Cash
+101130,C0062,home & kitchen,Mug,4.0,8540.93,34163.72,2024-08-01,Islamabad,
+100389,C0314,Sports,Running Shoes,,1526.32,3052.64,03/02/2024,,Cash
+100948,C0023,Home & Kitchen,Water Bottle,2.0,7357.7,14715.4,2025-11-03,Peshawar,Debit Card
+100251,C0313, Clothing,Sneakers,5.0,1459.91,7299.55,2024-01-14,Faisalabad,Debit Card
+101520,C0185,Clothing,Sneakers,4.0,5342.83,213713.2,2025-05-10,Multan,Cash
+101157,C0207,Sports,Football,3.0,14669.59,44008.77,2024-04-08,Karachi,Cash
+100890,C0186,Beauty,Body Lotion,3.0,2276.76,68302.8,2024-09-14,Quetta,Bank Transfer
+101530,C0404,Clothing,Hoodie,1.0,6302.27,6302.27,11/07/2025,Rawalpindi,Credit Card
+100520,C0369,Clothing,Jacket,3.0,811.84,2435.52,"May 20, 2024",Sialkot,Mobile Wallet
+101036,C0128,Groceries,Eggs Dozen,3.0,1135.85,3407.55,"November 17, 2024",Multan,cash
+101490,C0027,Electronics,Smartwatch,4.0,5074.12,20296.48,2025-08-16,Islamabad,Debit Card
+100668,C0146,Beauty,Shampoo,2.0,3790.4,7580.8,2024-05-07,Lahore,Cash
+101556,C0286,Sports,Running Shoes,1.0,6402.95,6402.95,2024-12-20,Sialkot,Bank Transfer
+100876,C0257,Clothing,Cap,2.0,2545.95,5091.9,2024-11-14,Sialkot,Debit Card
+101464,C0424,Clothing,Sneakers,4.0,7752.14,31008.56,2024-03-02,Hyderabad,
+101524,C0074,Sports,Water Bottle,5.0,4982.64,249132.0,2024-07-23,Faisalabad,Debit Card
+101013,C0403,groceries,Rice 5kg,1.0,1097.93,1097.93,2024-12-22,Islamabad,Bank Transfer
+101546,C0026,Groceries,Eggs Dozen,,1187.96,3563.88,2024-04-03,Hyderabad,Bank Transfer
+100753,C0158,Electronics,Bluetooth Speaker,1.0,112435.32,112435.32,2024-06-20,Islamabad,Bank Transfer
+101262,C0461,Groceries,Biscuits,1.0,2194.29,2194.29,2024-08-09,,Cash
+100213,C0329,Groceries,Bread Loaf,1.0,1579.18,1579.18,2024-07-21,Islamabad,Mobile Wallet
+101240,C0029,Clothing,Hoodie,1.0,4686.74,5155.41,2025-09-15,Multan,Mobile Wallet
+100957,C0053,Home & Kitchen,Bed Sheet,4.0,6783.92,27135.68,2024-07-09,,Mobile Wallet
+101553,C0350,Home & Kitchen,Pillow,3.0,10703.95,32111.85,"July 06, 2025",Sialkot,Bank Transfer
+100567,C0099,Groceries,Rice 5kg,4.0,1844.93,7379.72,26/04/2025,Lahore,Cash
+100068,C0306,Beauty,Sunscreen,3.0,3250.9,9752.7,2024-04-28,Lahore,Debit Card
+100085,C0010,Sports,Dumbbell Set,5.0,14007.41,77040.76,2024-08-18,Faisalabad,Debit Card
+101506,C0560,Sports,Running Shoes,2.0,6920.35,13840.7,2025-06-24,Hyderabad,Debit Card
+100912,C0486,Sports,Water Bottle,1.0,5507.13,5507.13,2024-08-09,Multan,Bank Transfer
+100466,C0246,Groceries,Eggs Dozen,4.0,1913.06,7652.24,2025-05-01,Hyderabad,Debit Card
+100879,C0192,Beauty,Shampoo,1.0,432.64,432.64,2025-08-23,Rawalpindi,Bank Transfer
+100429,C0014,Beauty,Lipstick,2.0,2298.84,4597.68,2025-09-20,,Cash
+100417,C0054,Groceries,Bread Loaf,2.0,1390.78,2781.56,2024-05-11,Quetta,Cash
+100412,C0059,Clothing,Jeans,3.0,2908.72,872.62,2025-02-08,Peshawar,Mobile Wallet
+100196,C0554,Sports,Running Shoes,1.0,9079.35,9079.35,2024-12-21,Multan,Bank Transfer
+101588,C0151,Electronics,USB-C Cable,2.0,24690.28,4938.06,2025-03-04,Islamabad,Bank Transfer
+100284,C0283,Electronics,Monitor,1.0,76641.33,76641.33,2024-01-06,Quetta,Cash
+101135,C0353,Beauty,Face Wash,1.0,2789.27,278.93,2025-03-20,Rawalpindi,Bank Transfer
+101169,C0571,Beauty,Body Lotion,1.0,3138.05,3138.05,2024-12-28,Faisalabad,Mobile Wallet
+100666,C0279,Groceries,Cooking Oil 1L,4.0,2476.49,9905.96,2025-03-11,Karachi,
+100684,C0464,Beauty,Body Lotion,1.0,1587.76,1587.76,2025-03-02,Hyderabad,Mobile Wallet
+100380,C0230,Home & Kitchen,Towel,2.0,7984.05,15968.1,2024-09-15,Rawalpindi,Cash
+101012,C0582,Beauty,Perfume,3.0,650.26,1950.78,"March 04, 2025",Faisalabad,Cash
+101512,C0038,Electronics,Smartphone,2.0,53980.15,107960.3,"January 25, 2025",Hyderabad,Debit Card
+100290,C0324,Groceries,Bread Loaf,3.0,83.79,251.37,2025-01-15,Karachi,Mobile Wallet
+100359,C0536,Clothing,Socks Pack,3.0,3950.02,11850.06,"November 02, 2024",Quetta,Debit Card
+100364,C0202,Sports,Running Shoes,1.0,8320.08,8320.08,2024-06-10,Lahore,Credit Card
+100524,C0313,Home & Kitchen,Dinner Set,5.0,6740.52,33702.6,2025-03-15,Sialkot,Credit Card
+100574,C0312,Home & Kitchen,Towel,3.0,3961.16,11883.48,"November 08, 2025",Multan,Mobile Wallet
+100693,C0281,Home & Kitchen,Bed Sheet,3.0,8267.15,24801.45,2024-09-28,Multan,Mobile Wallet
+100704,C0006,Clothing,T-Shirt,2.0,1080.59,2161.18,2024-03-03,Sialkot,Bank Transfer
+100112,C0201,Groceries,Milk 1L,1.0,,1320.15,2025-08-07,Multan,Cash
+101126,C0389,Electronics,Bluetooth Speaker,5.0,41549.44,207747.2,26/05/2025,Hyderabad,Bank Transfer
+100414,C0136,Home & Kitchen,Mug,5.0,9712.59,48562.95,2024-02-04,Hyderabad,Debit Card
+100589,C0506,Groceries,Cooking Oil 1L,2.0,,342.46,2025-12-22,Karachi,
+101214,C0105,Beauty,Perfume,4.0,350.06,1400.24,20/12/2025,Rawalpindi,Bank Transfer
+101640,C0391,Beauty,Lipstick,5.0,2265.9,11329.5,2025-03-27,Rawalpindi,Cash
+100486,C0083,Home & Kitchen,Mug,2.0,5677.91,11355.82,"March 23, 2025",Faisalabad,Mobile Wallet
+101076,C0485, Clothing,Cap,2.0,1777.75,3555.5,2024-09-19,,mobile wallet
+101052,C0372,Clothing,Sneakers,,1525.52,7627.6,2025-01-04,Quetta,Credit Card
+101089,C0447,Sports,Running Shoes,5.0,5351.8,26759.0,2025-04-12,Sialkot,
+100874,C0126,Beauty,Body Lotion,4.0,3368.58,13474.32,"September 09, 2025",Lahore,Credit Card
+101517,C0093,Home & Kitchen,Frying Pan,5.0,11786.21,58931.05,2024-04-20,KARACHI,Credit Card
+101345,C0135,Electronics,Monitor,3.0,104432.44,313297.32,2024-08-16,Lahore,Debit Card
+100843,C0354,home & kitchen,Water Bottle,1.0,4980.35,4980.35,01/12/2025,Peshawar,Bank Transfer
+100966,C0228,Beauty,Body Lotion,5.0,3785.56,18927.8,2024-08-08,Hyderabad,Mobile Wallet
+100594,C0477,Sports,Water Bottle,3.0,10881.82,32645.46,2024-05-18,Multan,Bank Transfer
+100927,C0307,Electronics,Laptop,1.0,,45143.01,"June 23, 2025",Multan,Credit Card
+100308,C0184,Sports,Running Shoes,5.0,7093.61,35468.05,2025-10-05,Rawalpindi,Credit Card
+101410,C0298,Clothing,Cap,1.0,1155.87,1155.87,2025-06-18,Faisalabad,Debit Card
+101378,C0289,Beauty,Lipstick,4.0,3225.27,12901.08,2025-05-16,Rawalpindi,Cash
+100058,C0233,Clothing,Sneakers,3.0,1053.47,3160.41,2024-10-15,Karachi,Credit Card
+100159,C0317,Sports,Yoga Mat,2.0,12088.57,24177.14,"January 08, 2025",Islamabad,Cash
+101590,C0030, Electronics,Power Bank,1.0,19231.95,19231.95,18/12/2024,Karachi,Cash
+100186,C0304,Groceries,Sugar 1kg,5.0,2292.45,11462.25,2024-06-02,Faisalabad,Mobile Wallet
+100244,C0254,Groceries,Biscuits,,571.11,2284.44,2024-06-13,Multan,Bank Transfer
+101391,C0178,Groceries,Tea Pack,5.0,186.41,932.05,21/04/2024,Quetta,Cash
+101646,C0516,BEAUTY,Face Wash,1.0,2656.48,2656.48,2025-11-14,Lahore,Bank Transfer
+100157,C0002,Electronics,Smartwatch,4.0,18385.72,73542.88,2025-10-18,Karachi,Credit Card
+100126,C0364,Home & Kitchen,Pillow,3.0,,17785.26,2024-10-23,Peshawar,Credit Card
+100322,C0012,Home & Kitchen,Dinner Set,4.0,9923.66,39694.64,2025-03-18,Peshawar,Debit Card
+101083,C0586,Electronics,Power Bank,2.0,26828.22,53656.44,2024-05-08,Quetta,Mobile Wallet
+100804,C0177,groceries,Milk 1L,2.0,2043.75,4087.5,"November 27, 2024",Rawalpindi,Debit Card
+101236,C0297,Groceries,Eggs Dozen,3.0,1151.7,3455.1,"October 05, 2025",Rawalpindi,Cash
+100777,C0590,Clothing,Jeans,3.0,4252.18,12756.54,2024-09-10,Hyderabad,Cash
+101127,C0277,Sports,Running Shoes,3.0,12115.91,32712.96,2024-09-18,,Debit Card
+101435,C0058,Clothing,Socks Pack,1.0,3077.8,3077.8,2024-07-21,Peshawar,Credit Card
+101444,C0501,Home & Kitchen,Knife Set,2.0,9833.07,19666.14,2025-06-16,Lahore,Bank Transfer
+100845,C0317,Clothing,T-Shirt,5.0,4451.13,22255.65,2025-08-03,,Credit Card
+100587,C0440,Sports,Water Bottle,2.0,3797.83,7595.66,2024-03-13,Lahore,Bank Transfer
+101252,C0283,Groceries,Eggs Dozen,1.0,1912.66,1912.66,28/09/2024,Rawalpindi,Credit Card
+100273,C0407,Clothing,Sneakers,2.0,5487.39,10974.78,2025-09-27,LAHORE,Mobile Wallet
+100875,C0389,Clothing,Sneakers,1.0,6387.55,6387.55,2024-03-05,Hyderabad,Cash
+100182,C0454,Electronics,Laptop,5.0,105604.09,528020.45,2025-10-19,Lahore,Debit Card
+101454,C0262,Home & Kitchen,Knife Set,5.0,11695.04,58475.2,2025-04-10,Lahore,Mobile Wallet
+101075,C0175,Clothing,Hoodie,2.0,1787.76,3575.52,2025-11-10,Rawalpindi,Debit Card
+101221,C0503,Electronics,Bluetooth Speaker,5.0,119468.7,597343.5,2024-01-16,Hyderabad,Cash
+100462,C0447,Clothing,Hoodie,3.0,1092.05,3276.15,2024-11-16,Quetta,Debit Card
+100089,C0089,Beauty,Sunscreen,2.0,1293.1,2586.2,2024-12-10,Lahore,Cash
+101248,C0310,Beauty,Body Lotion,4.0,2137.76,8551.04,"July 16, 2024",Lahore,Cash
+101581,C0285,Home & Kitchen,Frying Pan,2.0,3918.73,7837.46,"November 03, 2025",Multan,Cash
+100050,C0099,Sports,Gym Gloves,3.0,14278.86,42836.58,2024-07-05,Hyderabad,Mobile Wallet
+100853,C0144,Clothing,Cap,1.0,1082.84,1082.84,2025-04-25,Hyderabad,Mobile Wallet
+100415,C0044,Groceries,Bread Loaf,2.0,1341.0,2682.0,"October 19, 2024",Peshawar,Mobile Wallet
+100676,C0138,Beauty,Perfume,1.0,2495.22,2495.22,04/09/2025,Peshawar,Credit Card
+101390,C0396,Sports,Dumbbell Set,5.0,,20691.25,2024-01-21, Rawalpindi,Debit Card
+100534,C0155,Groceries,Tea Pack,1.0,2489.44,2489.44,2024-12-12,Peshawar,Credit Card
+100234,C0104,Groceries,Cooking Oil 1L,1.0,102.58,102.58,2025-10-04,Islamabad,Debit Card
+100680,C0474,Electronics,Smartphone,4.0,2664.56,10658.24,"April 27, 2024",Multan,Cash
+100581,C0445,Sports,Yoga Mat,1.0,1471.12,1471.12,2024-09-21,Faisalabad,CASH
+100401,C0485,Sports,Cricket Bat,5.0,3752.13,16884.59,2024-03-02,Multan,Mobile Wallet
+100698,C0217,Beauty,Face Wash,2.0,3403.21,6806.42,2024-04-14, Quetta,Credit Card
+100438,C0485,Groceries,Cooking Oil 1L,2.0,1229.38,2458.76,2024-05-20,Rawalpindi,Cash
+100527,C0169,Groceries,Sugar 1kg,1.0,1182.03,1182.03,2025-12-18,Sialkot,Debit Card
+101664,C0505,Sports,Water Bottle,5.0,11628.77,58143.85,2025-06-27,Multan,Bank Transfer
+101392,C0442,Electronics,Bluetooth Speaker,2.0,49071.06,98142.12,2025-07-23,Quetta,Cash
+100717,C0389,BEAUTY,Face Wash,4.0,2006.74,8026.96,2024-07-12,Karachi,Debit Card
+101175,C0230,Home & Kitchen,Water Bottle,5.0,6292.39,31461.95,23/10/2025,Faisalabad,Cash
+100132,C0440,Home & Kitchen,Pillow,5.0,11490.06,57450.3,2024-11-06,Quetta,Cash
+100738,C0524,Clothing,T-Shirt,5.0,5881.71,29408.55,"December 18, 2024",Hyderabad,debit card
+100029,C0373,Beauty,Lipstick,1.0,2924.22,2924.22,2025-01-14,Multan,Cash
+100639,C0577,groceries,Biscuits,4.0,2279.36,9117.44,2024-10-16,Rawalpindi,Cash
+100238,C0405,Beauty,Perfume,3.0,3652.04,10956.12,2025-03-22,Sialkot,
+101359,C0228,Home & Kitchen,Frying Pan,4.0,10536.72,42146.88,2024-12-10,Lahore,debit card
+100323,C0241,Groceries,Biscuits,3.0,1603.53,4810.59,2024-05-25,Sialkot,Bank Transfer
+100628,C0446,Electronics,Wireless Earbuds,5.0,87376.51,436882.55,2024-07-23,Sialkot,credit card
+101648,C0554,Clothing,Jeans,1.0,1445.87,1445.87,"November 25, 2025",Hyderabad,
+100769,C0480,Home & Kitchen,Pillow,2.0,6988.64,13977.28,2025-05-17,Peshawar,Mobile Wallet
+101676,C0371,Clothing,Cap,2.0,3360.26,6720.52,2024-01-16,Karachi,Credit Card
+101262,C0461,Groceries,Biscuits,1.0,2194.29,2194.29,2024-08-09,,Cash
+101020,C0474,beauty,Face Wash,2.0,4050.88,8101.76,2025-02-01,Islamabad,
+100379,C0345,Electronics,Wireless Earbuds,4.0,42563.11,170252.44,2025-02-02,ISLAMABAD,Debit Card
+100747,C0560,Groceries,Sugar 1kg,3.0,862.73,2588.19,2024-09-13,Hyderabad,Credit Card
+101054,C0373,Clothing,Sneakers,2.0,4655.97,9311.94,2025-09-06,Multan,Bank Transfer
+101432,C0208,Electronics,Power Bank,2.0,13583.25,27166.5,2024-07-18,FAISALABAD,cash
+100350,C0512,Sports,Running Shoes,1.0,7683.88,7683.88,2025-11-28,Sialkot,Cash
+101272,C0155,Home & Kitchen,Bed Sheet,1.0,4022.65,4022.65,2024-12-05,Hyderabad,
+100051,C0398,Clothing,Socks Pack,1.0,6142.81,6142.81,2025-02-26,Sialkot,Bank Transfer
+100507,C0285,Clothing,Sneakers,3.0,5931.91,17795.73,2025-09-02,Faisalabad,Wallet
+101060,C0363,Sports,Cricket Bat,4.0,12117.44,48469.76,2025-02-13,Karachi,Bank Transfer
+101102,C0217,Groceries,Rice 5kg,4.0,162.7,650.8,2025-10-12,Rawalpindi,Mobile Wallet
+101037,C0400,Clothing,T-Shirt,3.0,4481.44,13444.32,2025-03-25,Rawalpindi,Bank Transfer
+101082,C0524,Home & Kitchen,Frying Pan,2.0,8287.91,16575.82,2024-04-12,Islamabad,Credit Card
+100575,C0464,Clothing,Jacket,5.0,5287.63,26438.15,2025-01-27,Multan,Mobile Wallet
+100233,C0108,Beauty,Sunscreen,3.0,3755.61,11266.83,2025-05-07,Hyderabad,Bank Transfer
+101511,C0515,Electronics,Smartphone,3.0,107433.34,322300.02,26/04/2025,Islamabad,Cash
+101611,C0275,Beauty,Lipstick,5.0,3736.18,18680.9,2024-01-14,Peshawar,Mobile Wallet
+101436,C0374,Clothing,Cap,3.0,775.83,2327.49,2025-03-20,Islamabad,Mobile Wallet
+100743,C0158,Groceries,Eggs Dozen,4.0,601.78,2647.83,2025-04-23,Faisalabad,Credit card
+100478,C0122,Clothing,Cap,4.0,7538.62,30154.48,2025-10-20,,Bank Transfer
+100999,C0032,Clothing,T-Shirt,3.0,7026.48,21079.44,2024-07-25,Karachi,Cash
+100193,C0531,Electronics,Bluetooth Speaker,1.0,108848.1,108848.1,2025-04-18,Rawalpindi,Mobile Wallet
+101408,C0091,Beauty,Hair Oil,2.0,3663.62,7327.24,2024-01-19,Quetta,Mobile Wallet
+100404,C0019,Sports,Gym Gloves,3.0,11341.1,34023.3,2024-08-01,Islamabad,Debit Card
+101069,C0441,Groceries,Milk 1L,,1317.78,6588.9,2025-02-28,Islamabad,Cash
+100883,C0067, Electronics,Smartphone,5.0,64073.62,320368.1,2025-06-23,Lahore,Cash
+100487,C0490,Sports,Football,5.0,2739.29,13696.45,"August 10, 2024",Hyderabad ,Debit Card
+101048,C0440,Groceries,Tea Pack,1.0,2249.46,2249.46,"October 09, 2024",Quetta,Credit Card
+100471,C0030,Beauty,Hair Oil,1.0,1191.28,1191.28,08/12/2025,Peshawar,Debit Card
+100256,C0561,Sports,Cricket Bat,4.0,1309.19,5236.76,"June 19, 2025",Peshawar,Bank Transfer
+100894,C0271,Sports,Football,3.0,2975.61,8926.83,2024-08-19,Quetta,Debit Card
+101575,C0516,ELECTRONICS,Power Bank,2.0,85858.03,154544.45,2025-11-05,Hyderabad,Credit Card
+100138,C0251,Electronics,Bluetooth Speaker,2.0,88622.7,177245.4,"June 08, 2024",Faisalabad,Debit Card
+100491,C0474,Clothing,Cap,,2359.05,4718.1,2024-09-07,Quetta,mobile wallet
+101270,C0175,Groceries,Bread Loaf,4.0,1086.08,4344.32,2024-08-27,Islamabad,Mobile Wallet
+101146,C0035,Clothing,Dress,5.0,4221.65,21108.25,2024-06-22,MULTAN,Mobile Wallet
+100578,C0591,Groceries,Sugar 1kg,3.0,2225.04,6675.12,2025-10-08,,Bank Transfer
+100706,C0046,Electronics,Wireless Earbuds,5.0,52690.74,263453.7,15/01/2025,Peshawar,Cash
+100206,C0101,Home & Kitchen,Knife Set,3.0,6333.45,19000.35,2025-11-28,Rawalpindi,Debit Card
+101200,C0130,Sports,Running Shoes,3.0,10411.33,31233.99,2024-03-24,Peshawar,Mobile Wallet
+100848,C0001,Clothing,Jeans,2.0,7743.28,1548.66,2024-11-10,Faisalabad,Debit Card
+101523,C0136,Groceries,Milk 1L,1.0,1302.38,1302.38,2025-07-26,Multan,Debit Card
+101597,C0537,Groceries,Bread Loaf,2.0,2224.84,4449.68,2025-11-05,Quetta,Debit Card
+100000,C0331,Home & Kitchen,Water Bottle,5.0,2446.19,12230.95,2024-09-23,Quetta,Bank Transfer
+100226,C0169,Electronics,Smartphone,3.0,80581.02,217568.75,2025-03-14,Hyderabad,Debit Card
+101686,C0214,Electronics,Bluetooth Speaker,1.0,3607.54,3607.54,04/03/2025,Sialkot,DC
+100249,C0228,Sports,Yoga Mat,2.0,4370.47,8740.94,2024-11-09,Quetta,Cash
+101493,C0419,Home & Kitchen,Frying Pan,3.0,2947.76,8843.28,2025-08-05,Lahore,Cash
+100889,C0538,Sports,Dumbbell Set,4.0,7967.53,31870.12,2025-05-06,Lahore,Mobile Wallet
+101132,C0430,Groceries,Biscuits,1.0,2352.64,2352.64,23/04/2025,Rawalpindi,Debit Card
+101450,C0283,home & kitchen,Frying Pan,5.0,825.74,4541.57,2025-07-11,Faisalabad,Mobile Wallet
+100705,C0536,Groceries,Cooking Oil 1L,2.0,1781.93,3563.86,2025-01-07, Rawalpindi,Credit Card
+100979,C0483,Electronics,Power Bank,2.0,50794.77,101589.54,2025-07-28,Multan,cash
+101029,C0566,Home & Kitchen,Knife Set,5.0,9479.08,47395.4,"August 26, 2025",Lahore,Debit Card
+101284,C0164,Sports,Water Bottle,2.0,11795.6,23591.2,26/08/2024,Karachi,Debit Card
+100283,C0162,Home & Kitchen,Pillow,,4798.78,23993.9,2024-12-24,peshawar,Credit Card
+100313,C0566,Sports,Running Shoes,2.0,13925.19,27850.38,"July 11, 2025",Sialkot,Debit Card
+100596,C0327,Groceries,Biscuits,1.0,2280.27,2280.27,2025-11-21,Lahore,Bank Transfer
+100059,C0358,Beauty,Hair Oil,1.0,2983.92,2983.92,2025-12-16,Quetta,Mobile Wallet
+101369,C0468,BEAUTY,Face Wash,5.0,3682.33,18411.65,2025-12-12,Multan,Cash
+100047,C0096,Groceries,Bread Loaf,3.0,1896.49,5689.47,2024-12-18,Quetta,Bank Transfer
+101623,C0238,Sports,Dumbbell Set,5.0,12111.8,60559.0,2024-03-26,Quetta,Credit Card
+101326,C0347,Sports,Yoga Mat,1.0,7056.37,7056.37,"November 28, 2024",Peshawar,Bank Transfer
+101563,C0150,Electronics,Power Bank,4.0,87172.01,348688.04,2024-05-09,Karachi,Bank Transfer
+100986,C0494, Sports ,Football,1.0,3459.21,3459.21,2024-06-12,Sialkot,Cash
+100969,C0018,Beauty,Shampoo,4.0,3402.12,13608.48,"June 28, 2025",Islamabad,Debit Card
+101310,C0223,Clothing,Hoodie,3.0,1454.69,4364.07,2025-10-27,Lahore,Mobile Wallet
+101665,C0423,Groceries,Sugar 1kg,2.0,1182.58,2365.16,"March 28, 2025",Lahore,Cash
+101649,C0041,Electronics,Smartphone,4.0,54514.51,218058.04,2025-05-27,Islamabad,debit card
+100758,C0103,Home & Kitchen,Frying Pan,4.0,2710.06,10840.24,20/09/2024,Karachi,Credit Card
+100978,C0436, Electronics,Monitor,2.0,107210.81,214421.62,2024-11-16,,Mobile Wallet
+101608,C0246,Groceries,Rice 5kg,4.0,365.94,1463.76,2025-01-27,Islamabad,Credit Card
+100312,C0323,Home & Kitchen,Water Bottle,1.0,5438.05,4894.24,2024-05-06,Faisalabad,Bank Transfer
+100091,C0289,Sports,Water Bottle,3.0,5259.11,15777.33,2024-05-15,Rawalpindi,Cash
+100721,C0461,Groceries,Cooking Oil 1L,4.0,2288.5,9154.0,2025-11-06,Rawalpindi,Credit Card
+101528,C0357,Electronics,Wireless Earbuds,2.0,103968.6,207937.2,2024-11-28,Hyderabad,Mobile Wallet
+101265,C0501,Electronics,Power Bank,4.0,82077.46,3283098.4,2025-04-21,Faisalabad,Cash
+100734,C0070,Clothing,T-Shirt,2.0,4192.75,8385.5,26/02/2024,Multan,Debit Card
+100811,C0077,Beauty,Sunscreen,4.0,4993.02,19972.08,08/10/2024,Faisalabad,Debit Card
+100459,C0147,Beauty,Lipstick,3.0,1574.81,4724.43,2025-09-06,Quetta,Mobile Wallet
+101626,C0103,Groceries,Bread Loaf,4.0,1662.19,6648.76,2024-12-11,Karachi,Cash
+101484,C0072,Groceries,Sugar 1kg,4.0,148.54,594.16,2024-07-23,Rawalpindi,Cash
+100849,C0166,Beauty,Body Lotion,2.0,2630.9,5261.8,2024-12-15,Faisalabad,Cash
+100383,C0248,Clothing,Jeans,5.0,3868.14,19340.7,2025-12-16,MULTAN,Mobile Wallet
+100017,C0081,Home & Kitchen,Pillow,2.0,3245.85,6491.7,"October 24, 2024",Karachi,Debit Card
+100955,C0143,Sports,Football,4.0,8715.01,34860.04,2024-11-04,Karachi,Credit Card
+101559,C0170,Clothing,Dress,3.0,5259.13,15777.39,2025-12-08,Sialkot,Debit Card
+101066,C0193,Clothing,Hoodie,5.0,3521.68,17608.4,"October 05, 2025",Hyderabad,Credit Card
+101209,C0334,Home & Kitchen,Pillow,5.0,6356.84,31784.2,2025-05-22,Hyderabad,Mobile Wallet
+100987,C0255,Beauty,Face Wash,2.0,4758.52,9517.04,2024-09-03,Lahore,
+101014,C0008,Clothing,T-Shirt,,6620.25,13240.5,2024-04-23,Karachi,Cash
+101669,C0403,Groceries,Sugar 1kg,1.0,306.81,30.68,2025-12-14,Multan,Cash
+101638,C0170,Groceries,Tea Pack,5.0,2137.1,10685.5,2025-07-09,Lahore,Credit Card
+100125,C0273,Clothing,Cap,4.0,6465.06,25860.24,2024-11-10,Quetta,Cash
+100511,C0317,Sports,Gym Gloves,4.0,637.15,2548.6,2025-05-14,Peshawar,Mobile Wallet
+100076,C0007,Home & Kitchen,Mug,2.0,6515.81,13031.62,2024-10-24,,Cash
+100930,C0312,Beauty,Perfume,5.0,4676.65,233832.5,2025-05-18,Faisalabad,Credit Card
+100141,C0170,Electronics,Laptop,1.0,104274.36,104274.36,2024-05-21,Rawalpindi,Cash
+101684,C0143,Beauty,Hair Oil,1.0,2915.08,2915.08,2024-12-01,Faisalabad,Cash
+100585,C0216,Sports,Dumbbell Set,2.0,1387.03,2774.06,2024-10-01,Rawalpindi,Mobile Wallet
+100818,C0141,Groceries,Tea Pack,2.0,2194.58,4389.16,"September 27, 2024",Karachi,Bank Transfer
+101673,C0538,Beauty,Perfume,1.0,3693.13,3693.13,2024-08-19,Rawalpindi,Cash
+100787,C0164,Clothing,Sneakers,1.0,7036.16,7036.16,2025-01-22,Peshawar,Bank Transfer
+100555,C0401,Groceries,Biscuits,5.0,1556.46,7782.3,"July 22, 2024",Hyderabad,debit card
+101176,C0329,Electronics,Wireless Earbuds,2.0,45775.71,91551.42,2024-02-10,Islamabad ,Credit Card
+101056,C0469,Groceries,Milk 1L,5.0,1186.71,5933.55,"March 23, 2024",Faisalabad,Debit Card
+100015,C0456,Electronics,Wireless Earbuds,1.0,78251.28,70426.15,"November 07, 2025",Hyderabad,Bank Transfer
+100435,C0179,Beauty,Lipstick,3.0,4447.55,13342.65,2024-10-09,Rawalpindi,Bank Transfer
+100498,C0580,Home & Kitchen,Water Bottle,5.0,11880.15,59400.75,07/12/2024,Islamabad,Debit Card
+100619,C0019,Home & Kitchen,Pillow,5.0,9844.22,49221.1,2024-06-16,Multan,Mobile Wallet
+101529,C0543,Electronics,Smartphone,1.0,79253.74,79253.74,02/04/2025,Rawalpindi,Debit Card
+101427,C0032,Electronics,Wireless Earbuds,4.0,106312.84,425251.36,"August 22, 2025",Sialkot,Credit Card
+100450,C0481,Beauty,Sunscreen,2.0,4372.74,8745.48,2024-01-17,Karachi,Bank Transfer
+100766,C0560,Sports,Cricket Bat,1.0,10327.59,10327.59,"October 19, 2025",multan,Bank Transfer
+100035,C0054,Sports,Running Shoes,2.0,12648.43,25296.86,2024-01-06,Faisalabad,Credit Card
+100947,C0029,Clothing,T-Shirt,2.0,4350.76,8701.52,"June 18, 2024",Peshawar,CASH
+101249,C0173,Electronics,Bluetooth Speaker,4.0,32091.74,128366.96,"March 27, 2025",Multan,Mobile Wallet
+101196,C0194,Groceries,Milk 1L,3.0,2023.4,6070.2,2025-07-10,Faisalabad,Cash
+100981,C0307,Home & Kitchen,Mug,1.0,8560.88,8560.88,"June 03, 2024", Islamabad,Bank Transfer
+100241,C0019,Sports,Dumbbell Set,5.0,1254.84,6274.2,2025-10-21,Rawalpindi,Credit Card
+100529,C0457,Electronics,Power Bank,2.0,26246.47,52492.94,2024-04-18,Islamabad,Bank Transfer
+100343,C0361,Electronics,USB-C Cable,2.0,8684.53,17369.06,2025-10-20,Quetta,Credit Card
+101180,C0209, Sports ,Dumbbell Set,3.0,2740.51,8221.53,2024-08-17,Rawalpindi,Debit Card
+101442,C0001,Home & Kitchen,Towel,2.0,7129.92,14259.84,2024-02-06,Hyderabad,Mobile Wallet
+101631,C0044,Sports,Running Shoes,5.0,11119.59,55597.95,2025-09-05,Multan,credit card
+101635,C0041,Home & Kitchen,Dinner Set,5.0,10131.93,50659.65,2024-02-09,Sialkot,Debit Card
+100886,C0288,Sports,Yoga Mat,2.0,14198.79,28397.58,2025-07-07,Multan,Debit Card
+100506,C0039,Electronics,Smartphone,1.0,50247.89,50247.89,25/07/2024,Lahore,Credit Card
+100790,C0375,Groceries,Sugar 1kg,1.0,2423.57,2423.57,23/07/2025,Rawalpindi,Credit Card
+101579,C0285,Home & Kitchen,Bed Sheet,5.0,936.6,4214.7,2025-11-14,Quetta,Debit Card
+100215,C0526,Beauty,Perfume,5.0,2113.27,10566.35,2025-06-22,Peshawar,Bank Transfer
+100208,C0466,Home & Kitchen,Dinner Set,5.0,1246.76,6233.8,"January 03, 2024",Rawalpindi,debit card
+100945,C0345,Beauty,Shampoo,1.0,4261.06,4261.06,"April 16, 2024",Multan,Cash
+100064,C0437,Electronics,Laptop,5.0,17361.48,86807.4,2025-01-17,Peshawar,Bank Transfer
+100010,C0547,Groceries,Rice 5kg,5.0,233.81,1169.05,2025-10-27,Karachi,Cash
+101202,C0014,Groceries,Cooking Oil 1L,3.0,1078.66,3235.98,03/01/2024,Islamabad,Bank Transfer
+100252,C0384,Beauty,Face Wash,2.0,853.08,1706.16,2024-04-19,Hyderabad,Bank Transfer
+100603,C0056,Beauty,Hair Oil,1.0,1322.92,1322.92,2024-04-10,Hyderabad,Cash
+100805,C0204,Clothing,Hoodie,1.0,6473.39,6473.39,2025-10-05,Faisalabad,cash
+101285,C0379,Sports,Yoga Mat,2.0,517.27,1034.54,20/08/2024,Quetta,Credit Card
+101124,C0447,Beauty,Body Lotion,2.0,2054.77,4109.54,2025-05-27,Lahore,Credit Card
+101191,C0290,Sports,Yoga Mat,5.0,3931.82,19659.1,2025-12-24,Peshawar,Bank Transfer
+101601,C0568,Electronics,Smartwatch,4.0,98371.49,393485.96,2025-05-22,Faisalabad,Mobile Wallet
+100314,C0303,sports,Running Shoes,2.0,5637.25,11274.5,2025-05-25,Islamabad,Cash
+100518,C0026,Home & Kitchen,Mug,3.0,7520.14,22560.42,2024-04-10,Peshawar,Cash
+100465,C0556,Beauty,Lipstick,1.0,3821.68,3821.68,"January 21, 2024",Sialkot,Debit Card
+100931,C0197,Beauty,Shampoo,4.0,1182.32,4729.28,2025-08-25,Multan,debit card
+100963,C0470,Electronics,Power Bank,4.0,16690.29,66761.16,14/08/2025,Hyderabad,Bank Transfer
+100842,C0277,Clothing,Dress,5.0,1676.88,8384.4,2025-07-10,Karachi,Mobile Wallet
+101470,C0542,Sports,Running Shoes,3.0,8935.28,26805.84,2024-02-02,Sialkot,Mobile Wallet
+101672,C0036,Groceries,Cooking Oil 1L,4.0,2330.94,9323.76,2025-05-18,Islamabad,Cash
+100367,C0418,Sports,Football,2.0,2181.65,4363.3,17/10/2025,Hyderabad,Bank Transfer
+100145,C0278,Sports,Gym Gloves,2.0,8302.49,16604.98,2025-06-05,Rawalpindi,Mobile Wallet
+100362,C0169,Clothing,Hoodie,4.0,5970.09,23880.36,04/05/2025,Faisalabad,Bank Transfer
+100630,C0352,Sports,Gym Gloves,3.0,7459.07,22377.21,2025-11-20,Sialkot,cash
+100090,C0104,Beauty,Hair Oil,1.0,2767.94,2767.94,"April 23, 2025",Islamabad,Cash
+100321,C0160,Electronics,Smartwatch,2.0,23759.38,47518.76,2025-09-20,Lahore,Debit Card
+100185,C0003,Home & Kitchen,Dinner Set,3.0,1156.39,3469.17,"March 02, 2025",Faisalabad,Debit Card
+100924,C0417,BEAUTY,Shampoo,5.0,1506.07,7530.35,2025-12-17,Multan,Cash
+101156,C0594,Clothing,Socks Pack,2.0,5940.42,10692.76,2024-09-05,,Cash
+100868,C0131,Electronics,Monitor,5.0,20148.53,1007426.5,2024-12-22,,Mobile Wallet
+100756,C0272,Clothing,Dress,5.0,1766.44,8832.2,2024-07-07,Islamabad,Debit Card
+100119,C0450,Home & Kitchen,Bed Sheet,3.0,10202.97,30608.91,2024-09-26,Faisalabad,Credit Card
+101570,C0560,Clothing,Hoodie,5.0,1629.95,81497.5,2024-03-03,Peshawar,Bank Transfer
+101062,C0197,Beauty,Shampoo,3.0,4427.0,13281.0,2024-05-04,Faisalabad,Cash
+100840,C0062,Beauty,Shampoo,4.0,3051.21,12204.84,2024-03-09,Sialkot,Mobile Wallet
+100493,C0071,Home & Kitchen,Pillow,4.0,891.54,3566.16,2024-05-14,Rawalpindi,Mobile Wallet
+100443,C0399,Beauty,Face Wash,5.0,0.0,11866.95,2025-06-12,Sialkot,Bank Transfer
+100338,C0504,Beauty,Body Lotion,,4414.39,13243.17,2025-01-01,Quetta,bank transfer
+101108,C0546,Sports,Gym Gloves,2.0,3408.31,6816.62,"September 08, 2024",Rawalpindi,Mobile Wallet
+100224,C0442,Sports,Cricket Bat,3.0,5505.67,16517.01,11/09/2024,Faisalabad,
+100019,C0511,clothing,Dress,5.0,2282.28,11411.4,11/09/2025,Karachi,Credit Card
+101096,C0169,Beauty,Body Lotion,5.0,1647.61,8238.05,2025-09-17,Rawalpindi,Bank Transfer
+100418,C0395,Electronics,Monitor,2.0,72572.9,145145.8,2025-07-12,Karachi,Debit Card
+101099,C0046,Sports,Water Bottle,5.0,14920.56,74602.8,"February 09, 2025",Multan,Mobile Wallet
+101404,C0242,Electronics,Power Bank,5.0,55412.8,277064.0,17/09/2025,Faisalabad,Credit Card
+100991,C0061,Clothing,Jacket,4.0,3854.1,15416.4,2024-07-03,Multan,Bank Transfer
+100385,C0176,Electronics,Smartphone,5.0,48785.69,243928.45,2025-09-06,Multan,Credit Card
+100929,C0248,BEAUTY,Lipstick,4.0,611.2,2444.8,23/03/2024,Faisalabad,CASH
+100452,C0511,Beauty,Body Lotion,4.0,181.21,724.84,2024-10-02,Karachi,Bank Transfer
+100264,C0269,Electronics,Power Bank,1.0,89158.04,89158.04,2025-06-21,Lahore,Mobile Wallet
+101064,C0131,Beauty,Face Wash,1.0,3347.74,3347.74,"February 19, 2024",,Mobile Wallet
+101452,C0097,Electronics,Smartphone,3.0,24822.19,74466.57,2025-02-16,Hyderabad,Debit Card
+100160,C0318,Sports,Football,1.0,14068.7,14068.7,18/10/2025,Rawalpindi,Cash
+100110,C0226,Clothing,Cap,4.0,756.71,3026.84,09/09/2024, Faisalabad,Mobile Wallet
+100303,C0379,Sports,Cricket Bat,1.0,14709.59,14709.59,2025-08-22,Peshawar,Cash
+101690,C0279,Electronics,Bluetooth Speaker,4.0,71577.67,286310.68,2025-08-26,Peshawar,Credit Card
+100048,C0062,Home & Kitchen,Frying Pan,1.0,8254.18,8254.18,2024-04-17,Rawalpindi,Credit Card
+100509,C0440,Sports,Water Bottle,4.0,10834.89,39005.6,2025-10-04,HYDERABAD,Credit Card
+100018,C0053,Groceries,Eggs Dozen,5.0,204.58,1022.9,02/06/2025,Sialkot,Mobile Wallet
+101067,C0328,Sports,Football,2.0,9968.59,19937.18,10/07/2025,Hyderabad,Cash
+101297,C0087, Clothing,T-Shirt,1.0,5578.11,5578.11,"January 12, 2024",Islamabad,Bank Transfer
+101467,C0575,Sports,Yoga Mat,2.0,4212.45,8424.9,2025-09-15,Quetta,Cash
+100934,C0408,Groceries,Milk 1L,2.0,2401.05,4802.1,2025-06-01, Hyderabad,Bank Transfer
+101114,C0590,Home & Kitchen,Water Bottle,1.0,9132.01,9132.01,2024-11-12,Islamabad,Mobile Wallet
+100885,C0278,Beauty,Perfume,3.0,3953.76,11861.28,"June 16, 2024",Karachi,Credit Card
+100275,C0327,Clothing,Hoodie,2.0,7330.78,14661.56,2025-10-13, Hyderabad,Cash
+100114,C0599,Home & Kitchen,Frying Pan,1.0,3506.45,3506.45,2024-06-12,Faisalabad,Debit Card
+101352,C0079,Electronics,Wireless Earbuds,2.0,9340.99,18681.98,2024-03-24,Hyderabad,Debit Card
+101604,C0308,Home & Kitchen,Frying Pan,2.0,5222.89,10445.78,2025-02-23,Multan,Credit Card
+101489,C0342,Beauty,Sunscreen,3.0,1588.07,4764.21,2024-09-11,Islamabad,Debit Card
+100727,C0484,Beauty,Lipstick,5.0,2451.49,12257.45,"June 17, 2024",Lahore,Cash
+101155,C0235,Clothing,Sneakers,3.0,2486.5,7459.5,24/08/2025,Quetta,Credit Card
+100001,C0386,Home & Kitchen,Towel,5.0,8584.45,4292.23,2025-12-06,Faisalabad,Credit Card
+100227,C0374,Sports,Gym Gloves,5.0,14539.94,72699.7,2024-03-02,Faisalabad,mobile wallet
+100133,C0243,Sports,Running Shoes,4.0,14842.1,59368.4,"February 22, 2024",SIALKOT,Cash
+100248,C0163,Home & Kitchen,Water Bottle,4.0,1106.81,4427.24,2024-01-07,Peshawar,Mobile Wallet
+101307,C0180,Clothing,Socks Pack,5.0,7006.68,35033.4,18/08/2025,Multan,Mobile Wallet
+100496,C0550,Beauty,Lipstick,5.0,3261.3,16306.5,2024-06-15,Multan,mobile wallet
+100960,C0336,Clothing,Sneakers,4.0,,17823.68,"December 02, 2024",Multan,Bank Transfer
+100335,C0230,Home & Kitchen,Dinner Set,5.0,3420.1,171005.0,2025-07-28,Karachi,Mobile Wallet
+100439,C0192,Beauty,Hair Oil,4.0,955.21,3820.84,2025-05-14,Quetta,
+101287,C0400,Clothing,Dress,2.0,3373.1,6746.2,2024-11-06, Faisalabad,
+101166,C0081,Sports,Dumbbell Set,4.0,8278.39,33113.56,2024-07-10,Sialkot,Credit Card
+101269,C0233,Clothing,Socks Pack,5.0,7737.74,38688.7,2025-11-02,Karachi,Cash
+100812,C0326,Electronics,Smartwatch,5.0,15187.45,75937.25,2025-04-19,Peshawar,Debit Card
+101051,C0024,Groceries,Bread Loaf,5.0,456.67,2283.35,2024-01-09,,Bank Transfer
+100441,C0096,Groceries,Biscuits,2.0,265.08,530.16,"November 14, 2025",Faisalabad,Debit Card
+101162,C0551,Home & Kitchen,Pillow,2.0,6210.42,12420.84,28/11/2025,Quetta,Debit Card
+101387,C0570,Home & Kitchen,Water Bottle,2.0,6958.08,12524.54,2025-10-15,Multan,CC
+101113,C0252,Beauty,Body Lotion,5.0,1483.65,7418.25,2025-07-04,Multan,Bank Transfer
+100838,C0441,Electronics,Power Bank,5.0,77256.51,386282.55,09/10/2025,Faisalabad,Credit Card
+101047,C0234,Home & Kitchen,Mug,3.0,1140.23,3420.69,2025-04-25,Karachi,Credit Card
+101632,C0220,Electronics,Monitor,5.0,23676.69,118383.45,2024-05-17,,Cash
+101103,C0200, Sports ,Yoga Mat,4.0,2949.89,11799.56,09/01/2024,Karachi,Bank Transfer
+101149,C0463,Clothing,T-Shirt,4.0,2469.29,9877.16,2025-07-03,Quetta,Credit Card
+100242,C0118,Electronics,Smartphone,1.0,45513.51,45513.51,"September 11, 2025",Karachi,Credit Card
+101394,C0540,Beauty,Body Lotion,2.0,2394.39,4788.78,2024-10-05,Islamabad,Mobile Wallet
+100683,C0579,BEAUTY,Face Wash,5.0,2959.67,14798.35,2025-08-02,Quetta,Cash
+101350,C0120,Beauty,Lipstick,4.0,2028.36,8113.44,19/08/2025,Rawalpindi,Credit Card
+101603,C0230,Beauty,Face Wash,5.0,1197.24,5986.2,2025-03-06,Faisalabad,Mobile Wallet
+100657,C0171,Electronics,Wireless Earbuds,1.0,93276.54,93276.54,2024-03-08,Islamabad,Mobile Wallet
+100504,C0361,Sports,Cricket Bat,5.0,11621.29,58106.45,2025-07-01,Multan,Debit Card
+100408,C0598,Groceries,Eggs Dozen,4.0,2213.38,8853.52,"October 25, 2025",Hyderabad,Cash
+101470,C0542,Sports,Running Shoes,3.0,8935.28,26805.84,2024-02-02,Sialkot,Mobile Wallet
+101105,C0104,Electronics,Smartwatch,2.0,118390.06,236780.12,2024-04-06,Karachi,Credit Card
+101492,C0457,Electronics,Smartphone,2.0,,40905.98,2025-08-20,Peshawar,Cash
+101255,C0018,Clothing,Hoodie,3.0,5783.18,17349.54,2024-09-17,Multan,Cash
+101525,C0068,Electronics,Monitor,2.0,116367.93,232735.86,"January 08, 2025",Islamabad,Debit Card
+101061,C0309,Sports,Yoga Mat,2.0,10321.46,20642.92,2025-09-09,Rawalpindi,Credit Card
+100140,C0147,Clothing,Dress,3.0,5465.84,16397.52,2025-11-24,Quetta,Mobile Wallet
+100546,C0323, Electronics,Monitor,4.0,78877.29,315509.16,2024-05-02,Sialkot ,Bank Transfer
+100900,C0516,Groceries,Biscuits,3.0,768.52,2305.56,"July 01, 2025",Hyderabad,Credit Card
+100637,C0016,BEAUTY,Hair Oil,5.0,3520.35,15841.58,2025-06-12,Peshawar,Mobile Wallet
+101260,C0547, Sports ,Cricket Bat,4.0,7553.0,30212.0,2024-06-16,Karachi,Credit Card
+101440,C0086,Sports,Running Shoes,4.0,12640.83,50563.32,"April 25, 2024",Quetta,Debit Card
+100688,C0375,Sports,Water Bottle,4.0,2524.53,10098.12,2025-08-16,Faisalabad,Bank Transfer
+101628,C0248,Home & Kitchen,Water Bottle,2.0,5377.29,10754.58,2024-02-06,Multan,Mobile Wallet
+100621,C0149,Beauty,Shampoo,-1.0,3231.32,16156.6,2025-05-08,Hyderabad,Cash
+100850,C0115,Home & Kitchen,Pillow,1.0,11002.57,11002.57,2025-10-09,Sialkot,Mobile Wallet
+100583,C0165,Groceries,Sugar 1kg,1.0,1522.44,1522.44,2025-07-16,Quetta,Credit Card
+101697,C0358,Sports,Dumbbell Set,4.0,2609.58,10438.32,"May 27, 2024",Quetta,Cash
+100332,C0438,Groceries,Milk 1L,4.0,843.82,3375.28,2025-01-22,Karachi,Mobile Wallet
+101293,C0091,Home & Kitchen,Towel,5.0,2564.46,12822.3,2024-10-15,Multan,Cash
+101361,C0308,Sports,Dumbbell Set,4.0,4000.61,16002.44,2024-10-14, Rawalpindi,Mobile Wallet
+101115,C0319,Groceries,Bread Loaf,1.0,1502.22,1502.22,2025-09-04,,Bank Transfer
+101104,C0078,Home & Kitchen,Frying Pan,3.0,2150.08,6450.24,2024-01-16,Quetta,Mobile Wallet
+101063,C0149,Electronics,Power Bank,4.0,48090.7,192362.8,18/04/2024,Multan,Cash
