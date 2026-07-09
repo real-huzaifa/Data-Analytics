@@ -1,0 +1,1301 @@
+Route ID,Route Name,Bus Number,Bus Type,Date,Departure Time,Arrival Time,Delay Duration,Passenger Count,Ticket Revenue,Fuel Consumption,Driver ID,Weather Condition,Day Type,Trip Status
+R08,South Terminal - Business District,BUS-309,Standard,2025-03-16,16:30,17:13,5,33,2200.0,6.92,D005,Clear,Weekend,Completed
+R05,West Gate - Tech Park,BUS-280,Standard,2025-02-18,12:15,13:34,8,43,3870.0,14.91,D007,Rain,Weekday,Delayed
+R02,North Station - University,BUS-109,AC,2025-01-17,18:30,19:13,7,33,2886.0,6.76,Unknown,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-392,AC,2025-01-24,16:45,17:54,14,21,1911.0,8.26,D038,Rain,Weekday,Completed
+R03,Harbor - Downtown,BUS-367,Mini,2025-01-08,19:00,20:42,27,19,1520.0,15.5,D035,Clear,Weekday,Delayed
+R08,South Terminal - Business District,BUS-315,Mini,2025-04-30,08:00,08:48,9,19,1900.0,8.32,D016,Clear,Weekday,Completed
+R03,Harbor - Downtown,BUS-376,Standard,2025-01-13,21:00,22:20,20,21,1680.0,14.01,D016,Fog,Weekday,Completed
+R01,City Center - Airport,BUS-312,Electric,2025-02-15,19:45,20:22,3,24,3312.0,1.88,D009,Clear,Weekend,Cancelled
+R02,North Station - University,BUS-127,Electric,2025-04-10,11:30,12:47,2,37,2553.0,1.56,D020,Cloudy,Weekday,Delayed
+R03,Harbor - Downtown,BUS-309,Mini,2025-04-05,14:45,15:24,8,21,1680.0,5.03,D027,Rain,Weekend,Cancelled
+R08,South Terminal - Business District,BUS-320,AC,2025-02-21,15:45,16:34,11,31,4030.0,7.87,D005,Storm,Weekday,Completed
+R01,City Center - Airport,BUS-339,Electric,2025-01-16,05:00,06:27,24,26,3588.0,0.13,D017,Fog,Weekday,Cancelled
+R04,East Suburb - Mall Plaza,BUS-118,Standard,2025-03-28,07:45,08:37,8,48,3360.0,9.99,D007,Cloudy,Weekday,Completed
+R05,West Gate - Tech Park,BUS-287,Standard,2025-03-20,15:30,16:51,13,39,3510.0,9.71,D011,Rain,Weekday,Completed
+R02,North Station - University,BUS-247,Electric,2025-04-14,11:00,11:44,10,22,1518.0,0.49,D011,Rain,Weekday,Completed
+R02,North Station - University,BUS-287,AC,2025-03-12,12:45,13:58,13,27,2106.0,14.4,D002,Rain,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-109,Mini,2025-01-06,14:30,15:51,8,18,1260.0,17.03,D022,Storm,Weekday,Completed
+R06,Old Town - Hospital,BUS-295,AC,2025-03-01,19:00,19:50,16,33,2145.0,5.15,D025,Clear,Weekend,Completed
+R04,East Suburb - Mall Plaza,BUS-165,Standard,2025-02-08,17:15,18:13,26,35,2450.0,4.36,D011,Rain,Weekend,Delayed
+R02,North Station - University,BUS-251,Standard,2025-02-09,15:30,16:11,6,38,2280.0,8.11,D027,Clear,Weekend,Completed
+R03,Harbor - Downtown,BUS-183,Standard,2025-03-20,08:00,08:50,15,48,3840.0,7.25,D025,Rain,Weekday,Delayed
+R02,North Station - University,BUS-354,Standard,2025-02-05,14:00,14:59,24,40,2400.0,9.31,D026,Cloudy,Weekday,Delayed
+R02,North Station - University,BUS-291,Standard,2025-01-10,06:30,08:05,29,23,1380.0,8.44,D008,Rain,Weekday,Delayed
+R01,City Center - Airport,BUS-186,AC,2025-01-22,18:00,19:18,10,36,5616.0,11.26,D033,Cloudy,Weekday,Delayed
+R07,Riverside - Stadium,BUS-161,Electric,2025-01-03,08:30,10:09,32,28,2415.0,1.41,D037,Clear,Weekday,Delayed
+R01,City Center - Airport,BUS-390,Standard,2025-03-25,12:45,14:03,11,47,5640.0,15.07,D013,Rain,Weekday,Completed
+R02,North Station - University,BUS-274,AC,2025-02-02,15:15,16:07,4,35,2730.0,8.66,Unknown,Clear,Weekend,Completed
+R06,Old Town - Hospital,BUS-319,Mini,2025-01-07,17:00,18:25,17,25,1250.0,14.24,D037,Rain,Weekday,Completed
+R07,Riverside - Stadium,BUS-215,Standard,2025-03-06,09:00,10:20,7,41,3075.0,10.22,D013,Rain,Weekday,Completed
+R02,North Station - University,BUS-224,Electric,2025-02-28,11:30,12:47,20,33,1311.0,1.47,D039,Rain,Weekday,Completed
+R08,South Terminal - Business District,BUS-246,AC,2025-03-22,06:15,06:54,2,32,4160.0,5.92,D009,Clear,Weekend,Completed
+R01,City Center - Airport,BUS-206,Standard,2025-04-03,07:15,08:14,23,33,4800.0,7.72,D025,Fog,Weekday,Delayed
+R08,South Terminal - Business District,BUS-284,Standard,2025-01-06,16:45,18:19,31,33,3300.0,9.38,D015,Rain,Weekday,Delayed
+R08,South Terminal - Business District,BUS-351,Mini,2025-03-09,18:30,19:29,14,18,1800.0,9.98,D002,Clear,Weekend,Completed
+R08,South Terminal - Business District,BUS-158,Electric,2025-01-05,13:15,14:22,0,33,2415.0,1.23,D013,Clear,Weekend,Cancelled
+R01,City Center - Airport,BUS-375,AC,2025-02-25,06:30,07:15,12,27,4212.0,7.11,D032,Clear,Weekday,Completed
+R07,Riverside - Stadium,BUS-133,Standard,2025-01-31,19:00,20:02,12,25,1875.0,11.57,D002,Clear,Weekday,Completed
+R02,North Station - University,BUS-233,AC,2025-02-24,07:15,08:45,18,39,3042.0,10.09,D003,Rain,Weekday,Completed
+R07,Riverside - Stadium,BUS-330,Standard,2025-01-15,17:30,18:42,23,48,3600.0,8.68,D009,Clear,Weekday,Delayed
+R07,Riverside - Stadium,BUS-359,Standard,2025-04-24,18:30,19:17,17,48,3600.0,4.9,D025,Storm,Weekday,Completed
+R07,Riverside - Stadium,BUS-253,AC,2025-04-27,17:00,18:22,10,27,2632.5,12.67,D005,Clear,Weekend,Completed
+R03,Harbor - Downtown,BUS-204,Standard,2025-01-17,18:45,19:58,15,49,3920.0,9.07,D005,Rain,Weekday,Completed
+R02,North Station - University,BUS-345,AC,2025-03-23,17:45,19:10,13,28,2184.0,15.51,D004,Cloudy,Weekend,Completed
+R05,West Gate - Tech Park,BUS-379,Electric,2025-01-12,17:15,17:56,11,24,2484.0,0.26,D013,Clear,Weekend,Cancelled
+R01,City Center - Airport,BUS-212,Standard,2025-04-21,15:15,16:18,33,35,4200.0,5.19,D038,Cloudy,Weekday,Delayed
+R01,City Center - Airport,BUS-268,Standard,2025-03-15,09:30,10:26,17,20,2400.0,9.41,D003,Clear,Weekend,Completed
+R08,South Terminal - Business District,BUS-265,Standard,2025-01-15,16:00,17:08,23,33,3300.0,7.7,D026,Rain,Weekday,Delayed
+R01,City Center - Airport,BUS-146,Standard,2025-03-11,09:30,10:49,13,39,4680.0,8.64,D035,Rain,Weekday,Completed
+R02,North Station - University,BUS-388,Standard,2025-03-01,07:45,08:36,17,37,2220.0,10.22,D006,Storm,Weekend,Cancelled
+R03,Harbor - Downtown,BUS-101,Electric,2025-03-19,10:15,11:37,7,21,1932.0,0.26,D019,Clear,Weekday,Delayed
+R02,North Station - University,BUS-318,AC,2025-02-07,06:00,07:02,8,21,1638.0,8.03,Unknown,Clear,Weekday,Completed
+R02,North Station - University,BUS-164,Mini,2025-04-09,06:15,07:23,10,19,1140.0,14.98,D030,Fog,Weekday,Completed
+R05,West Gate - Tech Park,BUS-384,Mini,2025-01-22,08:15,09:09,9,18,1620.0,9.38,D007,Cloudy,Weekday,Delayed
+R08,South Terminal - Business District,BUS-199,Standard,2025-03-16,18:00,19:36,21,37,3700.0,11.18,D018,Clear,Weekend,Delayed
+R06,Old Town - Hospital,BUS-264,AC,2025-02-04,10:00,10:56,22,38,2470.0,7.4,D023,Rain,Weekday,Delayed
+R05,West Gate - Tech Park,BUS-221,Standard,2025-01-08,09:45,11:06,22,26,2340.0,13.38,D016,Fog,Weekday,Delayed
+R01,City Center - Airport,BUS-200,AC,2025-01-22,11:00,11:55,13,25,3900.0,7.41,D007,Fog,Weekday,Completed
+R05,West Gate - Tech Park,BUS-390,Electric,2025-04-19,13:30,14:16,2,33,3415.5,1.78,D022,Clear,Weekend,Cancelled
+R04,East Suburb - Mall Plaza,BUS-302,Standard,2025-04-16,10:15,11:24,2,46,3220.0,10.6,D034,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-224,AC,2025-04-06,14:00,15:20,7,31,2015.0,15.38,D037,Clear,Weekend,Delayed
+R05,West Gate - Tech Park,BUS-332,Standard,2025-02-15,06:45,07:59,2,29,2610.0,12.45,D009,Cloudy,Weekend,Completed
+R05,West Gate - Tech Park,BUS-279,Electric,2025-02-07,07:00,07:50,7,32,3312.0,0.48,D023,Clear,Weekday,Completed
+R03,Harbor - Downtown,BUS-382,Standard,2025-03-31,20:00,21:15,2,41,3280.0,13.12,D015,Clear,Weekday,Completed
+R03,Harbor - Downtown,BUS-118,Standard,2025-03-15,19:30,20:16,5,30,2400.0,7.95,D036,Cloudy,Weekend,Completed
+R06,Old Town - Hospital,BUS-340,AC,2025-03-03,09:00,09:59,10,38,2470.0,11.48,D017,Fog,Weekday,Completed
+R08,South Terminal - Business District,BUS-181,Standard,2025-04-06,17:00,18:26,15,33,3900.0,12.66,D003,Clear,Weekend,Completed
+R08,South Terminal - Business District,BUS-356,Electric,2025-04-10,07:15,08:34,13,32,3680.0,1.25,D005,Clear,Weekday,Completed
+R01,City Center - Airport,BUS-179,Electric,2025-02-28,08:15,09:10,15,40,5520.0,0.69,D031,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-316,AC,2025-04-26,06:00,06:35,5,38,3458.0,7.21,D008,Cloudy,Weekend,Completed
+R05,West Gate - Tech Park,BUS-290,Mini,2025-04-11,17:00,18:14,18,21,1890.0,9.48,D017,Rain,Weekday,Cancelled
+R05,West Gate - Tech Park,BUS-160,Standard,2025-01-31,06:15,06:54,0,30,2700.0,9.18,D017,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-181,Standard,2025-02-12,14:30,15:24,14,47,2350.0,10.12,D024,Clear,Weekday,Completed
+R03,Harbor - Downtown,BUS-375,AC,2025-03-06,17:45,19:01,11,39,4056.0,12.48,D008,Storm,Weekday,Completed
+R05,West Gate - Tech Park,BUS-163,AC,2025-01-14,11:15,12:22,25,37,4329.0,10.09,D001,Rain,Weekday,Delayed
+R01,City Center - Airport,BUS-278,AC,2025-03-18,07:15,08:05,19,43,6708.0,5.21,D014,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-278,Standard,2025-03-07,08:30,09:41,17,33,2350.0,12.41,D016,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-349,Standard,2025-01-30,20:00,21:04,10,25,1250.0,9.45,D015,Cloudy,Weekday,Completed
+R03,Harbor - Downtown,BUS-148,Standard,2025-04-25,17:30,18:51,17,46,3680.0,13.99,D038,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-171,Electric,2025-01-17,15:00,15:49,3,38,2185.0,1.13,D015,Cloudy,Weekday,Completed
+R01,City Center - Airport,BUS-346,Mini,2025-03-28,06:15,07:13,11,24,2880.0,12.96,D008,Storm,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-143,AC,2025-04-08,17:30,18:41,17,41,3731.0,10.62,D029,Clear,Weekday,Completed
+R05,West Gate - Tech Park,BUS-229,Standard,2025-03-01,18:45,20:05,15,34,3060.0,13.89,D031,Rain,Weekend,Completed
+R08,South Terminal - Business District,BUS-148,Standard,2025-01-13,17:30,18:27,12,40,4000.0,9.87,D033,Fog,Weekday,Completed
+R01,City Center - Airport,BUS-248,AC,2025-03-14,09:30,10:05,0,32,4992.0,6.84,Unknown,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-397,AC,2025-01-08,06:45,07:26,6,26,2366.0,7.79,D023,Cloudy,Weekday,Delayed
+R03,Harbor - Downtown,BUS-221,AC,2025-01-23,07:30,08:20,10,44,4576.0,8.7,D019,Clear,Weekday,Completed
+R03,Harbor - Downtown,BUS-197,Standard,2025-02-26,06:30,07:37,21,39,3120.0,10.01,D012,Fog,Weekday,Delayed
+R07,Riverside - Stadium,BUS-243,AC,2025-03-21,08:45,09:46,21,39,3802.5,7.19,D009,Rain,Weekday,Delayed
+R07,Riverside - Stadium,BUS-304,Standard,2025-01-13,20:15,21:08,1,20,1500.0,10.72,D033,Clear,Weekday,Completed
+R03,Harbor - Downtown,BUS-163,Mini,2025-04-09,15:30,16:20,3,24,1920.0,7.49,D008,Clear,Weekday,Completed
+R07,Riverside - Stadium,BUS-123,Standard,2025-02-22,18:30,19:25,17,41,3075.0,7.93,D025,Clear,Weekend,Delayed
+R06,Old Town - Hospital,BUS-249,Electric,2025-04-27,17:15,18:26,20,29,1667.5,0.44,D040,Fog,Weekend,Completed
+R04,East Suburb - Mall Plaza,BUS-232,Standard,2025-01-16,17:00,17:47,7,40,2800.0,7.76,D027,Cloudy,Weekday,Completed
+R02,North Station - University,BUS-122,Standard,2025-03-26,17:30,18:36,6,46,2760.0,13.5,D029,Clear,Weekday,Completed
+R03,Harbor - Downtown,BUS-129,Mini,2025-03-05,05:15,06:26,8,21,1680.0,12.36,D017,Rain,Weekday,Delayed
+R08,South Terminal - Business District,BUS-175,Standard,2025-04-04,14:00,15:00,6,26,2600.0,9.99,D013,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-380,Standard,2025-03-10,18:15,19:31,13,37,1850.0,10.22,D036,Fog,Weekday,Completed
+R02,North Station - University,BUS-167,Standard,2025-01-20,16:30,17:36,0,50,3000.0,9.45,D019,Clear,Weekday,Completed
+R02,North Station - University,BUS-267,AC,2025-02-17,11:45,12:48,21,37,2886.0,7.35,D022,Clear,Weekday,Delayed
+R07,Riverside - Stadium,BUS-133,Electric,2025-03-30,17:30,18:59,15,25,2156.25,0.85,D028,Rain,Weekend,Completed
+R06,Old Town - Hospital,BUS-106,Standard,2025-02-20,19:15,20:30,22,45,2250.0,10.87,D011,Cloudy,Weekday,Delayed
+R01,City Center - Airport,BUS-247,AC,2025-02-04,14:45,15:28,6,30,4680.0,9.24,D010,Clear,Weekday,Cancelled
+R08,South Terminal - Business District,BUS-263,Standard,2025-03-20,14:30,15:22,5,32,3200.0,10.83,D013,Cloudy,Weekday,Cancelled
+R04,East Suburb - Mall Plaza,BUS-320,Mini,2025-02-03,19:45,20:52,18,16,1120.0,10.81,D015,Rain,Weekday,Completed
+R01,City Center - Airport,BUS-198,Standard,2025-03-15,13:30,14:23,14,29,3480.0,9.92,D037,Fog,Weekend,Completed
+R04,East Suburb - Mall Plaza,BUS-385,Electric,2025-01-11,17:00,17:51,15,30,2415.0,0.46,D037,Clear,Weekend,Completed
+R05,West Gate - Tech Park,BUS-279,AC,2025-01-19,13:30,14:50,9,36,4212.0,9.35,D020,Fog,Weekend,Completed
+R05,West Gate - Tech Park,BUS-143,Electric,2025-01-22,17:45,18:23,8,33,3415.5,0.08,D027,Clear,Weekday,Completed
+R08,South Terminal - Business District,BUS-261,AC,2025-01-01,18:30,19:21,20,36,4680.0,6.21,D033,Rain,Weekday,Completed
+R01,City Center - Airport,BUS-242,Electric,2025-02-23,07:45,09:09,20,33,3588.0,0.21,D010,Rain,Weekend,Completed
+R03,Harbor - Downtown,BUS-309,Electric,2025-01-23,19:45,20:20,2,33,2024.0,1.88,D006,Cloudy,Weekday,Cancelled
+R08,South Terminal - Business District,BUS-267,Standard,2025-04-11,14:15,15:25,9,34,3400.0,10.88,D007,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-166,AC,2025-04-25,15:00,15:53,6,19,1235.0,11.11,D012,Clear,Weekday,Completed
+R01,City Center - Airport,BUS-374,AC,2025-03-19,16:30,17:08,1,34,5304.0,5.82,D026,Clear,Weekday,Completed
+R03,Harbor - Downtown,BUS-249,Standard,2025-01-30,05:30,06:39,9,30,2400.0,13.95,D008,Fog,Weekday,Completed
+R08,South Terminal - Business District,BUS-125,Standard,2025-03-17,16:30,17:55,31,48,4800.0,11.68,D019,Rain,Weekday,Delayed
+R02,North Station - University,BUS-371,Standard,2025-04-01,06:15,06:54,2,47,2820.0,7.57,D002,Clear,Weekday,Completed
+R03,Harbor - Downtown,BUS-390,Standard,2025-04-08,18:15,19:09,7,47,3760.0,8.12,D001,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-325,AC,2025-04-09,15:45,16:31,10,28,2548.0,10.09,D029,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-340,AC,2025-03-31,15:45,16:59,10,24,1560.0,11.15,D027,Clear,Weekday,Completed
+R05,West Gate - Tech Park,BUS-108,AC,2025-04-14,17:30,18:34,20,41,4797.0,11.16,D011,Rain,Weekday,Completed
+R03,Harbor - Downtown,BUS-157,AC,2025-02-03,13:45,14:53,14,23,2392.0,9.52,D018,Rain,Weekday,Cancelled
+R03,Harbor - Downtown,BUS-236,Standard,2025-03-20,07:00,08:27,19,40,3200.0,15.16,D031,Rain,Weekday,Completed
+R02,North Station - University,BUS-155,Standard,2025-01-18,17:30,18:50,19,30,1800.0,13.01,D038,Storm,Weekend,Cancelled
+R05,West Gate - Tech Park,BUS-293,Mini,2025-04-05,19:45,20:42,0,21,1890.0,11.81,D015,Cloudy,Weekend,Cancelled
+R02,North Station - University,BUS-138,AC,2025-04-26,18:15,19:45,19,37,2886.0,13.61,D015,Rain,Weekend,Completed
+R07,Riverside - Stadium,BUS-279,AC,2025-02-17,10:30,11:40,21,43,4192.5,11.56,D015,Clear,Weekday,Delayed
+R06,Old Town - Hospital,BUS-230,Mini,2025-04-12,14:45,15:49,10,19,950.0,12.51,D005,Clear,Weekend,Completed
+R04,East Suburb - Mall Plaza,BUS-189,Standard,2025-04-29,06:30,07:47,3,40,2800.0,13.38,D023,Clear,Weekday,Completed
+R08,South Terminal - Business District,BUS-275,Mini,2025-01-08,15:15,16:04,10,10,1000.0,6.97,D013,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-240,Mini,2025-03-25,11:45,12:56,18,23,1150.0,10.33,D033,Rain,Weekday,Completed
+R03,Harbor - Downtown,BUS-220,Standard,2025-02-20,17:45,18:57,20,43,3440.0,6.61,Unknown,Rain,Weekday,Completed
+R02,North Station - University,BUS-192,Standard,2025-04-22,15:15,16:28,18,26,1560.0,11.65,D016,Fog,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-179,Standard,2025-04-01,17:30,18:38,12,45,3150.0,12.46,D018,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-295,AC,2025-01-13,18:30,19:18,11,36,3276.0,5.69,D023,Cloudy,Weekday,Completed
+R05,West Gate - Tech Park,BUS-373,Mini,2025-01-12,08:15,09:32,10,25,1800.0,8.13,D035,Clear,Weekend,Completed
+R01,City Center - Airport,BUS-210,Electric,2025-03-01,08:15,08:58,13,30,4140.0,0.18,D025,Clear,Weekend,Completed
+R06,Old Town - Hospital,BUS-199,Standard,2025-03-10,08:30,09:52,34,40,2000.0,9.86,D007,Rain,Weekday,Delayed
+R05,West Gate - Tech Park,BUS-168,Standard,2025-03-12,15:30,16:16,10,23,2070.0,7.49,D023,Clear,Weekday,Completed
+R07,Riverside - Stadium,BUS-317,Standard,2025-02-14,17:30,18:46,11,44,3300.0,11.79,D013,Rain,Weekday,Delayed
+R06,Old Town - Hospital,BUS-285,Standard,2025-04-14,07:15,08:29,7,48,2400.0,10.22,D004,Clear,Weekday,Completed
+R07,Riverside - Stadium,BUS-154,AC,2025-04-07,06:30,07:18,5,34,3315.0,5.22,D004,Rain,Weekday,Completed
+R03,Harbor - Downtown,BUS-385,Standard,2025-04-06,05:00,06:10,14,34,2720.0,11.33,D008,Cloudy,Weekend,Completed
+R03,Harbor - Downtown,BUS-108,AC,2025-02-25,11:45,12:43,9,30,3120.0,11.64,D037,Rain,Weekday,Completed
+R06,Old Town - Hospital,BUS-106,Standard,2025-03-30,19:15,20:25,1,32,1600.0,13.27,D027,Clear,Weekend,Delayed
+R02,North Station - University,BUS-360,Electric,2025-03-15,10:15,11:08,11,16,1104.0,0.79,D029,Clear,Weekend,Completed
+R05,West Gate - Tech Park,BUS-392,Standard,2025-03-31,07:15,08:18,14,36,3240.0,10.27,D012,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-193,AC,2025-03-31,09:45,10:36,3,33,1625.0,11.4,D008,Clear,Weekday,Completed
+R01,City Center - Airport,BUS-263,AC,2025-04-28,11:30,12:28,18,42,6552.0,8.48,D026,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-145,Standard,2025-02-23,08:45,09:30,10,38,1900.0,6.7,D001,Rain,Weekend,Completed
+R07,Riverside - Stadium,BUS-189,Electric,2025-03-21,12:30,13:17,6,27,2328.75,0.12,Unknown,Clear,Weekday,Completed
+R03,Harbor - Downtown,BUS-116,Electric,2025-04-11,05:30,06:30,1,24,2208.0,1.61,D010,Clear,Weekday,Delayed
+R03,Harbor - Downtown,BUS-395,AC,2025-01-10,14:30,15:30,22,21,2184.0,8.19,D002,Rain,Weekday,Delayed
+R04,East Suburb - Mall Plaza,BUS-106,Standard,2025-03-20,13:00,14:13,6,33,2310.0,12.57,D022,Clear,Weekday,Cancelled
+R05,West Gate - Tech Park,BUS-308,Standard,2025-02-02,16:45,18:00,11,36,3240.0,12.44,D022,Rain,Weekend,Completed
+R05,West Gate - Tech Park,BUS-259,Standard,2025-03-24,20:30,21:36,1,28,2520.0,15.04,D037,Cloudy,Weekday,Completed
+R06,Old Town - Hospital,BUS-279,Standard,2025-04-25,20:30,21:10,0,37,1850.0,10.53,D021,Clear,Weekday,Cancelled
+R04,East Suburb - Mall Plaza,BUS-387,AC,2025-01-25,06:00,07:22,8,37,3367.0,14.35,D006,Rain,Weekend,Completed
+R02,North Station - University,BUS-368,AC,2025-04-22,09:45,10:28,5,26,2028.0,6.21,D027,Clear,Weekday,Completed
+R07,Riverside - Stadium,BUS-332,Electric,2025-04-15,11:00,11:51,2,37,3191.25,0.78,D019,Cloudy,Weekday,Completed
+R01,City Center - Airport,BUS-389,AC,2025-02-10,08:45,10:09,10,32,4992.0,11.36,D040,Clear,Weekday,Completed
+R05,West Gate - Tech Park,BUS-129,Standard,2025-02-27,21:15,22:35,6,44,3960.0,13.62,D033,Clear,Weekday,Delayed
+R06,Old Town - Hospital,BUS-372,AC,2025-01-21,21:30,22:08,5,22,1430.0,7.3,D035,Clear,Weekday,Completed
+R05,West Gate - Tech Park,BUS-200,Electric,2025-04-04,17:30,18:47,18,34,3519.0,0.02,D028,Rain,Weekday,Completed
+R07,Riverside - Stadium,BUS-362,AC,2025-02-04,08:15,09:32,16,33,3315.0,11.8,D033,Cloudy,Weekday,Completed
+R06,Old Town - Hospital,BUS-274,Mini,2025-04-06,17:45,18:58,17,15,750.0,9.7,D029,Clear,Weekend,Delayed
+R01,City Center - Airport,BUS-149,AC,2025-01-07,15:15,16:32,15,34,5304.0,12.42,D021,Fog,Weekday,Completed
+R02,North Station - University,BUS-221,Mini,2025-04-02,18:45,19:53,7,24,1440.0,15.59,D015,Clear,Weekday,Completed
+R05,West Gate - Tech Park,BUS-282,Mini,2025-03-04,14:30,15:47,19,25,1350.0,12.65,D002,Fog,Weekday,Completed
+R01,City Center - Airport,BUS-138,AC,2025-04-11,19:00,20:01,19,37,5772.0,8.74,D034,Storm,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-210,AC,2025-03-20,05:45,06:31,1,20,1820.0,7.75,D001,Cloudy,Weekday,Completed
+R02,North Station - University,BUS-186,AC,2025-01-23,05:30,06:22,7,35,2730.0,8.12,D014,Clear,Weekday,Completed
+R07,Riverside - Stadium,BUS-119,Electric,2025-04-22,07:45,09:05,22,31,2674.0,0.76,D005,Clear,Weekday,Delayed
+R04,East Suburb - Mall Plaza,BUS-354,Standard,2025-02-06,08:15,09:23,18,47,3290.0,8.75,D029,Cloudy,Weekday,Completed
+R02,North Station - University,BUS-396,Standard,2025-01-30,06:15,06:54,7,50,3000.0,7.31,D031,Rain,Weekday,Completed
+R05,West Gate - Tech Park,BUS-387,Mini,2025-02-22,15:00,16:13,7,11,990.0,10.4,D034,Fog,Weekend,Completed
+R04,East Suburb - Mall Plaza,BUS-303,AC,2025-04-20,08:45,09:36,15,36,3276.0,5.26,D033,Clear,Weekend,Completed
+R02,North Station - University,BUS-344,AC,2025-01-31,06:45,08:04,12,36,2808.0,10.09,D035,Clear,Weekday,Delayed
+R01,City Center - Airport,BUS-352,Standard,2025-01-11,13:00,14:06,12,33,2760.0,11.01,D030,Fog,Weekend,Completed
+R02,North Station - University,BUS-253,Mini,2025-01-22,18:00,19:29,19,23,1380.0,11.44,D040,Storm,Weekday,Delayed
+R08,South Terminal - Business District,BUS-285,Standard,2025-04-18,08:30,09:16,9,40,4000.0,7.39,D004,Clear,Weekday,Completed
+R08,South Terminal - Business District,BUS-287,AC,2025-03-15,17:30,18:27,6,33,4810.0,8.17,D006,Clear,Weekend,Completed
+R08,South Terminal - Business District,BUS-158,Electric,2025-02-15,17:00,18:00,23,31,3565.0,0.01,D011,Rain,Weekend,Delayed
+R02,North Station - University,BUS-375,Standard,2025-02-16,17:45,18:36,12,30,1800.0,7.88,D024,Clear,Weekend,Completed
+R08,South Terminal - Business District,BUS-105,AC,2025-01-21,20:15,21:31,9,33,4290.0,10.62,D029,Cloudy,Weekday,Completed
+R03,Harbor - Downtown,BUS-132,Standard,2025-03-18,09:00,09:33,2,44,3520.0,8.43,D017,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-132,Standard,2025-02-24,13:45,14:22,4,38,2660.0,7.87,D023,Cloudy,Weekday,Delayed
+R08,South Terminal - Business District,BUS-376,Mini,2025-04-26,13:15,14:18,9,12,1200.0,9.2,D035,Storm,Weekend,Delayed
+R03,Harbor - Downtown,BUS-354,AC,2025-04-13,10:00,11:14,8,16,1664.0,10.09,D031,Clear,Weekend,Cancelled
+R07,Riverside - Stadium,BUS-221,Standard,2025-03-22,16:45,18:02,12,18,1350.0,10.85,D033,Rain,Weekend,Completed
+R08,South Terminal - Business District,BUS-136,Electric,2025-02-08,09:45,10:39,4,31,3565.0,0.9,D006,Cloudy,Weekend,Completed
+R02,North Station - University,BUS-288,Electric,2025-01-14,09:30,10:28,1,33,2691.0,0.09,D011,Clear,Weekday,Completed
+R07,Riverside - Stadium,BUS-339,Standard,2025-01-29,16:15,17:33,9,42,3150.0,14.8,D036,Cloudy,Weekday,Completed
+R02,North Station - University,BUS-219,AC,2025-01-30,07:45,08:46,9,42,3276.0,9.46,D033,Clear,Weekday,Delayed
+R05,West Gate - Tech Park,BUS-160,Standard,2025-04-24,06:00,07:05,8,27,2430.0,14.28,D007,Clear,Weekday,Delayed
+R04,East Suburb - Mall Plaza,BUS-119,AC,2025-03-03,16:00,16:41,2,22,2002.0,7.18,D035,Cloudy,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-152,Standard,2025-01-05,07:15,08:32,18,35,2450.0,12.99,D038,Rain,Weekend,Completed
+R05,West Gate - Tech Park,BUS-312,Electric,2025-01-31,19:15,20:36,9,19,1966.5,0.85,D031,Cloudy,Weekday,Completed
+R08,South Terminal - Business District,BUS-134,Standard,2025-02-19,08:00,09:17,7,41,4100.0,13.43,D006,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-385,AC,2025-04-14,14:00,15:09,8,24,2184.0,13.41,D016,Clear,Weekday,Completed
+R02,North Station - University,BUS-101,Standard,2025-01-26,07:15,08:26,14,35,2100.0,11.39,D008,Clear,Weekend,Completed
+R06,Old Town - Hospital,BUS-382,AC,2025-02-28,14:30,15:42,7,39,2535.0,16.26,D007,Clear,Weekday,Completed
+R07,Riverside - Stadium,BUS-307,Standard,2025-03-30,17:30,18:31,10,34,2550.0,12.78,D008,Clear,Weekend,Completed
+R05,West Gate - Tech Park,BUS-237,AC,2025-02-16,19:45,21:02,2,24,2808.0,11.11,D001,Cloudy,Weekend,Completed
+R04,East Suburb - Mall Plaza,BUS-194,AC,2025-02-24,16:15,17:20,0,37,3367.0,15.38,D028,Clear,Weekday,Delayed
+R08,South Terminal - Business District,BUS-395,Mini,2025-02-13,18:00,19:12,26,21,2100.0,8.83,D016,Cloudy,Weekday,Delayed
+R03,Harbor - Downtown,BUS-374,Electric,2025-02-27,08:15,09:28,10,30,2760.0,1.76,D008,Clear,Weekday,Completed
+R03,Harbor - Downtown,BUS-333,Standard,2025-02-25,18:45,19:48,18,39,3120.0,10.7,D013,Clear,Weekday,Completed
+R08,South Terminal - Business District,BUS-184,Standard,2025-04-28,19:00,19:58,12,33,3300.0,7.0,D006,Rain,Weekday,Completed
+R08,South Terminal - Business District,BUS-317,AC,2025-01-22,17:30,18:21,10,33,4290.0,9.14,D026,Rain,Weekday,Completed
+R01,City Center - Airport,BUS-138,Mini,2025-03-23,20:00,20:46,2,20,2400.0,6.07,D003,Clear,Weekend,Completed
+R06,Old Town - Hospital,BUS-104,Electric,2025-01-13,13:00,14:11,7,18,1035.0,0.84,D026,Clear,Weekday,Completed
+R02,North Station - University,BUS-253,Mini,2025-02-26,10:15,11:22,5,21,1260.0,11.22,D014,Fog,Weekday,Delayed
+R03,Harbor - Downtown,BUS-341,Standard,2025-03-23,15:30,16:39,7,23,1840.0,13.16,D040,Storm,Weekend,Completed
+R06,Old Town - Hospital,BUS-227,Standard,2025-02-24,18:45,19:47,21,44,2200.0,9.14,D035,Fog,Weekday,Delayed
+R03,Harbor - Downtown,BUS-292,AC,2025-01-29,06:15,07:32,29,27,2808.0,11.19,D006,Rain,Weekday,Delayed
+R05,West Gate - Tech Park,BUS-307,AC,2025-01-06,17:00,17:42,10,34,3978.0,8.76,D027,Clear,Weekday,Completed
+R07,Riverside - Stadium,BUS-146,AC,2025-03-10,09:15,10:02,9,41,3997.5,8.43,D008,Rain,Weekday,Completed
+R03,Harbor - Downtown,BUS-117,AC,2025-02-13,15:15,16:21,6,40,4160.0,13.95,D019,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-278,Electric,2025-02-04,07:00,08:09,21,38,2185.0,0.88,D038,Rain,Weekday,Delayed
+R05,West Gate - Tech Park,BUS-391,AC,2025-03-20,17:30,19:02,23,43,5031.0,8.82,D017,Rain,Weekday,Delayed
+R08,South Terminal - Business District,BUS-210,Standard,2025-03-25,07:45,08:53,28,36,3600.0,9.76,D001,Cloudy,Weekday,Delayed
+R07,Riverside - Stadium,BUS-215,Standard,2025-01-01,18:00,18:53,6,44,3300.0,8.29,D004,Cloudy,Weekday,Completed
+R07,Riverside - Stadium,BUS-104,Standard,2025-02-04,08:45,09:44,3,39,2925.0,10.92,D026,Clear,Weekday,Completed
+R05,West Gate - Tech Park,BUS-218,Standard,2025-02-03,15:15,16:02,9,44,3960.0,7.55,D015,Fog,Weekday,Completed
+R06,Old Town - Hospital,BUS-249,Mini,2025-01-05,18:15,19:10,9,16,800.0,10.5,D007,Clear,Weekend,Completed
+R01,City Center - Airport,BUS-381,Standard,2025-01-17,13:15,14:31,2,22,2640.0,15.67,D037,Clear,Weekday,Completed
+R08,South Terminal - Business District,BUS-330,AC,2025-04-21,06:45,07:47,9,40,5200.0,12.67,D034,Cloudy,Weekday,Completed
+R08,South Terminal - Business District,BUS-389,AC,2025-04-21,10:00,10:56,6,35,4550.0,12.04,D011,Cloudy,Weekday,Completed
+R02,North Station - University,BUS-333,Electric,2025-03-04,21:15,22:33,5,32,2208.0,0.08,D031,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-180,Standard,2025-03-14,19:30,20:33,0,23,1610.0,10.28,D002,Cloudy,Weekday,Completed
+R07,Riverside - Stadium,BUS-209,AC,2025-03-06,17:45,18:53,15,42,4095.0,10.0,D014,Clear,Weekday,Completed
+R03,Harbor - Downtown,BUS-306,Standard,2025-03-03,08:45,10:07,14,47,3760.0,14.89,D018,Clear,Weekday,Completed
+R02,North Station - University,BUS-135,AC,2025-02-16,06:15,07:26,1,26,2028.0,10.72,D015,Cloudy,Weekend,Completed
+R01,City Center - Airport,BUS-239,Standard,2025-01-14,09:15,09:58,10,47,5640.0,4.44,D037,Fog,Weekday,Completed
+R07,Riverside - Stadium,BUS-307,Electric,2025-01-11,18:15,19:39,19,27,2329.0,0.4,D001,Rain,Weekend,Completed
+R04,East Suburb - Mall Plaza,BUS-273,AC,2025-02-14,08:45,10:03,7,40,3640.0,12.22,D039,Cloudy,Weekday,Cancelled
+R08,South Terminal - Business District,BUS-191,Standard,2025-02-04,13:15,14:29,2,27,2700.0,14.21,D038,Clear,Weekday,Completed
+R05,West Gate - Tech Park,BUS-363,AC,2025-01-21,13:15,13:53,5,28,3276.0,4.71,D035,Cloudy,Weekday,Completed
+R05,West Gate - Tech Park,BUS-296,AC,2025-03-30,21:30,22:12,0,18,2106.0,5.32,D031,Clear,Weekend,Completed
+R02,North Station - University,BUS-367,Standard,2025-02-03,12:00,13:24,19,23,1380.0,10.56,D012,Clear,Weekday,Completed
+R02,North Station - University,BUS-128,AC,2025-01-17,07:45,08:57,8,39,3042.0,10.9,D009,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-220,Standard,2025-02-21,05:00,05:44,0,45,3150.0,10.87,D026,Clear,Weekday,Completed
+R07,Riverside - Stadium,BUS-254,Standard,2025-04-26,17:30,18:29,12,31,2325.0,7.3,D009,Clear,Weekend,Completed
+R08,South Terminal - Business District,BUS-227,Standard,2025-02-04,14:15,15:27,13,33,3300.0,10.07,D007,Rain,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-345,AC,2025-01-21,08:30,09:31,27,41,3731.0,8.29,D027,Clear,Weekday,Delayed
+R02,North Station - University,BUS-327,AC,2025-01-20,16:45,18:10,12,32,2496.0,13.14,D002,Fog,Weekday,Completed
+R07,Riverside - Stadium,BUS-274,AC,2025-01-14,05:45,07:12,19,23,2242.0,9.02,D019,Rain,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-219,Standard,2025-03-19,18:45,19:34,7,37,2590.0,7.35,D016,Clear,Weekday,Completed
+R08,South Terminal - Business District,BUS-324,AC,2025-02-08,20:30,21:28,5,33,4290.0,8.9,D011,Cloudy,Weekend,Completed
+R06,Old Town - Hospital,BUS-164,Electric,2025-02-27,17:15,18:24,16,29,1667.5,0.96,D004,Fog,Weekday,Completed
+R03,Harbor - Downtown,BUS-212,AC,2025-02-02,17:00,18:10,10,30,3120.0,12.1,D037,Cloudy,Weekend,Completed
+R01,City Center - Airport,BUS-370,Mini,2025-01-14,07:00,08:25,11,24,2880.0,10.35,D038,Fog,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-363,Electric,2025-02-28,19:45,21:02,7,17,1368.5,0.77,D033,Clear,Weekday,Completed
+R08,South Terminal - Business District,BUS-358,Standard,2025-04-29,16:00,17:21,9,40,4000.0,10.63,D034,Clear,Weekday,Completed
+R02,North Station - University,BUS-222,Standard,2025-03-15,06:15,07:09,1,31,1860.0,10.69,D001,Clear,Weekend,Completed
+R04,East Suburb - Mall Plaza,BUS-216,Standard,2025-03-06,11:45,12:57,20,31,2170.0,12.15,D010,Fog,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-375,Standard,2025-03-14,16:45,18:15,21,21,1470.0,12.0,D015,Rain,Weekday,Delayed
+R07,Riverside - Stadium,BUS-343,AC,2025-03-05,06:00,07:14,5,33,3217.5,13.95,D006,Cloudy,Weekday,Completed
+R03,Harbor - Downtown,BUS-172,Standard,2025-03-22,08:15,09:23,13,32,2560.0,11.81,D033,Clear,Weekend,Completed
+R08,South Terminal - Business District,BUS-354,Mini,2025-01-09,06:00,07:01,1,25,2500.0,11.91,D023,Clear,Weekday,Delayed
+R06,Old Town - Hospital,BUS-139,AC,2025-03-29,07:00,07:46,11,37,2405.0,8.77,D010,Cloudy,Weekend,Completed
+R07,Riverside - Stadium,BUS-303,AC,2025-01-11,21:45,22:40,1,21,2047.5,11.11,D002,Clear,Weekend,Completed
+R07,Riverside - Stadium,BUS-149,Standard,2025-02-12,20:00,21:38,27,25,1875.0,14.56,D021,Clear,Weekday,Delayed
+R02,North Station - University,BUS-357,Electric,2025-03-30,12:30,13:41,1,21,1449.0,0.66,D019,Clear,Weekend,Completed
+R04,East Suburb - Mall Plaza,BUS-175,Standard,2025-03-25,17:15,18:20,18,42,2940.0,7.6,D019,Rain,Weekday,Completed
+R08,South Terminal - Business District,BUS-315,Standard,2025-01-25,05:00,06:24,16,33,2000.0,11.47,D002,Clear,Weekend,Cancelled
+R02,North Station - University,BUS-166,Standard,2025-03-03,07:15,08:38,18,41,2460.0,9.5,D019,Fog,Weekday,Completed
+R06,Old Town - Hospital,BUS-353,AC,2025-04-22,07:30,08:33,28,39,2535.0,8.12,D006,Storm,Weekday,Delayed
+R07,Riverside - Stadium,BUS-113,Standard,2025-04-28,19:30,20:14,9,21,1575.0,6.86,D036,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-199,Standard,2025-02-17,17:45,18:54,10,40,2000.0,12.83,D016,Fog,Weekday,Completed
+R06,Old Town - Hospital,BUS-279,AC,2025-01-23,13:15,14:33,6,36,2340.0,12.39,D034,Cloudy,Weekday,Completed
+R01,City Center - Airport,BUS-101,Mini,2025-03-06,10:45,11:24,4,12,1440.0,8.1,D009,Clear,Weekday,Completed
+R05,West Gate - Tech Park,BUS-127,Mini,2025-02-22,16:30,17:26,12,20,1800.0,10.51,D002,Fog,Weekend,Completed
+R05,West Gate - Tech Park,BUS-309,Standard,2025-01-18,16:30,17:18,1,28,2520.0,8.33,D004,Clear,Weekend,Cancelled
+R01,City Center - Airport,BUS-283,AC,2025-03-03,20:00,20:48,2,33,6240.0,9.35,D004,Clear,Weekday,Completed
+R03,Harbor - Downtown,BUS-316,Electric,2025-03-09,18:30,19:24,12,25,2300.0,0.08,D010,Clear,Weekend,Completed
+R03,Harbor - Downtown,BUS-227,AC,2025-02-04,20:00,20:51,9,30,3120.0,10.42,D020,Clear,Weekday,Cancelled
+R07,Riverside - Stadium,BUS-130,Standard,2025-04-11,00:00,22:45,16,32,2400.0,12.15,D037,Rain,Weekday,Completed
+R06,Old Town - Hospital,BUS-344,Standard,2025-04-24,13:15,13:51,1,36,1800.0,7.91,D026,Cloudy,Weekday,Completed
+R08,South Terminal - Business District,BUS-348,AC,2025-01-26,13:45,14:39,15,19,2470.0,7.9,D034,Fog,Weekend,Completed
+R03,Harbor - Downtown,BUS-274,AC,2025-02-19,09:00,10:01,15,19,1976.0,11.33,D003,Clear,Weekday,Completed
+R08,South Terminal - Business District,BUS-285,Standard,2025-02-19,20:00,21:12,2,22,2200.0,14.24,D034,Clear,Weekday,Delayed
+R01,City Center - Airport,BUS-205,AC,2025-04-24,06:15,07:11,11,33,3432.0,9.32,D024,Fog,Weekday,Delayed
+R05,West Gate - Tech Park,BUS-333,AC,2025-01-19,08:00,08:57,24,35,4095.0,5.38,D013,Rain,Weekend,Cancelled
+R04,East Suburb - Mall Plaza,BUS-228,Electric,2025-03-07,11:15,12:34,7,38,3059.0,0.37,D036,Clear,Weekday,Completed
+R01,City Center - Airport,BUS-345,AC,2025-01-19,20:30,21:48,7,21,3276.0,13.79,D007,Clear,Weekend,Completed
+R07,Riverside - Stadium,BUS-342,Electric,2025-04-13,18:45,19:29,13,24,2070.0,0.45,D020,Clear,Weekend,Completed
+R01,City Center - Airport,BUS-347,AC,2025-03-07,18:30,19:22,7,37,5772.0,6.64,D039,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-374,Electric,2025-04-01,08:45,09:35,17,38,3059.0,1.31,D024,Rain,Weekday,Completed
+R01,City Center - Airport,BUS-370,Mini,2025-01-07,19:15,20:04,8,23,2760.0,8.09,D007,Rain,Weekday,Completed
+R08,South Terminal - Business District,BUS-226,Standard,2025-04-17,12:30,13:20,5,32,3200.0,7.63,D009,Clear,Weekday,Completed
+R05,West Gate - Tech Park,BUS-263,AC,2025-01-14,18:15,19:17,21,42,4914.0,10.81,D020,Clear,Weekday,Delayed
+R08,South Terminal - Business District,BUS-253,Standard,2025-04-26,09:15,10:22,10,32,3200.0,12.1,D038,Cloudy,Weekend,Completed
+R05,West Gate - Tech Park,BUS-246,AC,2025-02-23,14:45,15:42,7,31,3627.0,8.44,D026,Fog,Weekend,Delayed
+R07,Riverside - Stadium,BUS-268,Standard,2025-01-17,18:15,19:13,17,40,3000.0,10.19,D036,Rain,Weekday,Completed
+R06,Old Town - Hospital,BUS-227,AC,2025-04-30,18:15,19:37,12,40,2600.0,15.0,D029,Rain,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-360,AC,2025-01-11,15:45,16:45,23,32,2912.0,6.42,D003,Rain,Weekend,Delayed
+R05,West Gate - Tech Park,BUS-162,Standard,2025-01-09,16:00,16:47,3,49,4410.0,6.31,D019,Cloudy,Weekday,Completed
+R08,South Terminal - Business District,BUS-196,Standard,2025-02-07,17:15,18:22,19,38,3800.0,11.7,D019,Storm,Weekday,Completed
+R02,North Station - University,BUS-273,AC,2025-03-07,17:00,18:07,3,42,3276.0,11.66,Unknown,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-211,Electric,2025-02-07,05:30,06:32,7,22,1771.0,1.89,D032,Clear,Weekday,Cancelled
+R04,East Suburb - Mall Plaza,BUS-223,AC,2025-01-30,19:30,20:34,0,28,2548.0,14.02,D021,Cloudy,Weekday,Completed
+R05,West Gate - Tech Park,BUS-202,AC,2025-03-31,15:15,15:53,7,36,4212.0,7.24,D013,Clear,Weekday,Completed
+R01,City Center - Airport,BUS-186,AC,2025-03-05,06:15,07:30,4,28,4368.0,17.06,D019,Rain,Weekday,Completed
+R05,West Gate - Tech Park,BUS-140,AC,2025-01-18,11:00,11:47,9,26,3042.0,10.06,D023,Clear,Weekend,Cancelled
+R04,East Suburb - Mall Plaza,BUS-226,Standard,2025-03-22,06:30,07:51,24,32,2240.0,13.2,D006,Rain,Weekend,Delayed
+R07,Riverside - Stadium,BUS-272,Standard,2025-01-05,15:00,16:19,25,37,2775.0,13.24,D024,Clear,Weekend,Delayed
+R08,South Terminal - Business District,BUS-156,AC,2025-04-04,18:30,19:48,7,33,4290.0,14.49,D038,Clear,Weekday,Delayed
+R01,City Center - Airport,BUS-362,Standard,2025-03-07,09:45,10:56,8,26,3120.0,10.43,D022,Fog,Weekday,Completed
+R08,South Terminal - Business District,BUS-140,AC,2025-04-28,07:00,07:48,17,33,5460.0,4.64,D007,Fog,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-125,AC,2025-01-20,20:30,21:30,3,22,2002.0,10.93,Unknown,Clear,Weekday,Delayed
+R03,Harbor - Downtown,BUS-250,Standard,2025-04-06,15:00,16:35,20,36,2880.0,10.3,D019,Rain,Weekend,Completed
+R06,Old Town - Hospital,BUS-372,AC,2025-04-25,08:00,08:54,19,38,2470.0,7.08,D007,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-372,Mini,2025-02-10,08:00,08:54,5,23,1150.0,11.2,D024,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-337,Mini,2025-03-28,18:15,19:30,18,19,1330.0,8.69,D030,Rain,Weekday,Completed
+R08,South Terminal - Business District,BUS-266,Electric,2025-01-05,10:45,11:48,26,22,2530.0,1.05,D033,Rain,Weekend,Delayed
+R06,Old Town - Hospital,BUS-150,Mini,2025-01-21,10:45,11:57,0,22,1100.0,10.0,D039,Clear,Weekday,Completed
+R02,North Station - University,BUS-150,AC,2025-03-13,16:00,17:09,11,31,2418.0,12.59,D023,Clear,Weekday,Completed
+R01,City Center - Airport,BUS-362,Standard,2025-03-22,07:00,07:53,9,38,4560.0,5.96,D021,Clear,Weekend,Completed
+R01,City Center - Airport,BUS-362,Standard,2025-01-12,08:30,09:39,4,38,4560.0,13.53,D036,Clear,Weekend,Completed
+R01,City Center - Airport,BUS-300,Mini,2025-03-08,06:15,07:26,7,12,1440.0,16.54,D020,Fog,Weekend,Delayed
+R01,City Center - Airport,BUS-109,Mini,2025-04-03,15:15,16:12,7,21,2520.0,8.03,D009,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-181,Standard,2025-03-10,17:00,18:16,16,44,2200.0,9.95,D011,Storm,Weekday,Completed
+R01,City Center - Airport,BUS-147,Standard,2025-04-18,13:30,14:01,0,49,5880.0,6.53,D006,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-195,Standard,2025-01-09,18:00,19:15,19,43,3010.0,9.77,D035,Rain,Weekday,Completed
+R07,Riverside - Stadium,BUS-181,AC,2025-01-10,13:15,14:48,23,21,2047.5,12.48,D019,Fog,Weekday,Delayed
+R05,West Gate - Tech Park,BUS-154,AC,2025-03-30,10:45,11:38,5,37,4329.0,12.3,D025,Clear,Weekend,Completed
+R08,South Terminal - Business District,BUS-311,Standard,2025-03-13,09:00,10:01,8,33,2200.0,8.64,D029,Rain,Weekday,Completed
+R08,South Terminal - Business District,BUS-223,AC,2025-01-26,21:15,22:22,19,35,4550.0,12.34,D019,Storm,Weekend,Completed
+R06,Old Town - Hospital,BUS-327,Standard,2025-04-16,08:45,09:40,19,46,2300.0,10.22,D020,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-148,AC,2025-02-26,16:15,17:53,24,32,2912.0,16.08,D038,Clear,Weekday,Delayed
+R08,South Terminal - Business District,BUS-368,Standard,2025-02-08,05:30,06:16,3,35,3500.0,9.03,D036,Cloudy,Weekend,Completed
+R07,Riverside - Stadium,BUS-173,Standard,2025-01-18,07:45,09:03,9,41,3075.0,13.11,D039,Clear,Weekend,Completed
+R07,Riverside - Stadium,BUS-276,Standard,2025-03-27,08:00,09:07,26,42,3150.0,8.88,D013,Rain,Weekday,Delayed
+R06,Old Town - Hospital,BUS-381,AC,2025-01-24,08:30,09:17,16,34,2210.0,6.5,D012,Cloudy,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-160,Electric,2025-01-17,18:15,19:02,9,28,2254.0,1.06,D028,Cloudy,Weekday,Completed
+R05,West Gate - Tech Park,BUS-147,Standard,2025-04-01,22:45,23:53,3,40,3600.0,10.11,D018,Clear,Weekday,Delayed
+R04,East Suburb - Mall Plaza,BUS-206,AC,2025-02-25,18:30,19:33,15,33,3003.0,10.07,D040,Rain,Weekday,Completed
+R08,South Terminal - Business District,BUS-364,Standard,2025-04-27,15:00,15:57,13,28,2800.0,8.45,D014,Clear,Weekend,Delayed
+R08,South Terminal - Business District,BUS-118,AC,2025-02-13,18:45,20:10,15,35,4550.0,13.76,D021,Rain,Weekday,Completed
+R02,North Station - University,BUS-399,Standard,2025-03-28,16:00,17:23,9,42,2520.0,16.63,D018,Rain,Weekday,Completed
+R08,South Terminal - Business District,BUS-115,AC,2025-01-25,06:30,07:48,4,21,2730.0,10.87,D014,Cloudy,Weekend,Completed
+R01,City Center - Airport,BUS-335,Electric,2025-04-25,18:00,19:25,19,29,4002.0,1.38,Unknown,Rain,Weekday,Completed
+R07,Riverside - Stadium,BUS-107,Mini,2025-02-25,14:00,15:09,12,24,1800.0,13.95,D020,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-278,AC,2025-02-13,15:45,16:43,26,32,2080.0,7.28,D008,Rain,Weekday,Delayed
+R07,Riverside - Stadium,BUS-319,Mini,2025-03-30,08:15,09:26,20,19,1425.0,9.75,D013,Rain,Weekend,Cancelled
+R08,South Terminal - Business District,BUS-253,Standard,2025-04-17,16:45,17:34,17,20,2000.0,4.57,D017,Rain,Weekday,Completed
+R06,Old Town - Hospital,BUS-250,Electric,2025-01-17,17:00,17:52,15,33,1782.5,1.14,D020,Clear,Weekday,Completed
+R05,West Gate - Tech Park,BUS-194,Mini,2025-02-25,07:00,08:12,20,24,2160.0,12.4,D030,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-172,Electric,2025-03-08,18:00,18:43,6,26,1495.0,1.15,D038,Clear,Weekend,Completed
+R03,Harbor - Downtown,BUS-335,Mini,2025-03-17,21:30,22:56,17,20,1600.0,14.22,D008,Cloudy,Weekday,Cancelled
+R04,East Suburb - Mall Plaza,BUS-163,Standard,2025-03-27,15:15,16:06,3,21,1470.0,9.67,D027,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-130,Standard,2025-03-23,16:45,17:33,1,33,2310.0,10.74,D013,Clear,Weekend,Completed
+R07,Riverside - Stadium,BUS-110,Standard,2025-02-24,09:30,10:42,17,32,2400.0,13.94,D039,Rain,Weekday,Completed
+R05,West Gate - Tech Park,BUS-224,AC,2025-02-17,07:45,08:55,10,32,3744.0,13.97,D012,Clear,Weekday,Completed
+R03,Harbor - Downtown,BUS-212,Mini,2025-01-06,15:45,16:49,14,20,1600.0,13.23,D030,Clear,Weekday,Delayed
+R03,Harbor - Downtown,BUS-393,Mini,2025-01-31,06:15,07:13,1,19,1520.0,12.92,D025,Clear,Weekday,Completed
+R03,Harbor - Downtown,BUS-189,Electric,2025-02-09,19:45,20:44,1,14,1288.0,0.19,D008,Clear,Weekend,Completed
+R05,West Gate - Tech Park,BUS-270,Standard,2025-03-12,20:45,21:33,1,48,4320.0,8.29,D008,Clear,Weekday,Cancelled
+R05,West Gate - Tech Park,BUS-301,AC,2025-03-29,19:30,20:12,12,21,2457.0,4.56,D028,Fog,Weekend,Completed
+R01,City Center - Airport,BUS-155,AC,2025-01-04,08:30,10:01,30,37,5772.0,12.02,D015,Fog,Weekend,Delayed
+R02,North Station - University,BUS-350,Standard,2025-01-17,17:30,18:13,10,42,2520.0,5.54,D003,Clear,Weekday,Completed
+R03,Harbor - Downtown,BUS-314,Mini,2025-04-19,17:45,19:22,58,16,1280.0,8.11,D029,Rain,Weekend,Delayed
+R02,North Station - University,BUS-375,Standard,2025-04-12,18:30,19:15,11,30,1800.0,9.35,D034,Clear,Weekend,Completed
+R04,East Suburb - Mall Plaza,BUS-236,Electric,2025-04-26,12:00,13:12,1,15,1207.5,0.53,D040,Cloudy,Weekend,Cancelled
+R04,East Suburb - Mall Plaza,BUS-208,Standard,2025-03-12,17:45,18:44,10,33,3080.0,6.63,D015,Clear,Weekday,Completed
+R08,South Terminal - Business District,BUS-335,Standard,2025-01-25,10:15,11:20,10,41,4100.0,8.63,D016,Clear,Weekend,Delayed
+R07,Riverside - Stadium,BUS-255,Standard,2025-01-15,08:30,09:22,8,44,3300.0,9.59,D035,Clear,Weekday,Delayed
+R01,City Center - Airport,BUS-215,Standard,2025-04-19,07:00,07:40,6,31,3720.0,8.75,D023,Cloudy,Weekend,Completed
+R08,South Terminal - Business District,BUS-359,AC,2025-01-09,18:15,19:17,24,33,4810.0,10.09,D029,Rain,Weekday,Delayed
+R06,Old Town - Hospital,BUS-322,Mini,2025-03-08,12:15,13:25,14,15,750.0,9.24,D004,Rain,Weekend,Cancelled
+R01,City Center - Airport,BUS-380,AC,2025-03-28,13:15,14:25,0,42,6552.0,12.83,D028,Clear,Weekday,Delayed
+R05,West Gate - Tech Park,BUS-397,Standard,2025-04-09,08:15,09:16,17,49,4410.0,10.24,D009,Clear,Weekday,Completed
+R03,Harbor - Downtown,BUS-172,AC,2025-04-30,12:30,13:20,3,33,1976.0,10.06,D021,Clear,Weekday,Completed
+R05,West Gate - Tech Park,BUS-334,AC,2025-04-26,08:30,09:52,8,33,3861.0,10.32,D032,Clear,Weekend,Completed
+R05,West Gate - Tech Park,BUS-309,Standard,2025-01-19,06:15,07:26,12,36,3240.0,10.5,D019,Storm,Weekend,Delayed
+R08,South Terminal - Business District,BUS-243,Standard,2025-03-25,07:45,09:03,10,42,4200.0,11.76,D026,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-366,Standard,2025-03-10,18:45,20:01,33,49,2450.0,8.41,D037,Cloudy,Weekday,Delayed
+R03,Harbor - Downtown,BUS-277,Standard,2025-03-27,21:45,23:05,5,26,2080.0,16.22,D037,Clear,Weekday,Completed
+R01,City Center - Airport,BUS-311,Standard,2025-02-19,21:45,22:29,4,28,3360.0,7.75,D037,Clear,Weekday,Completed
+R02,North Station - University,BUS-183,Standard,2025-04-30,19:00,20:02,6,48,2880.0,11.05,D032,Rain,Weekday,Completed
+R08,South Terminal - Business District,BUS-189,Mini,2025-01-23,08:45,09:33,13,25,2500.0,10.23,D022,Clear,Weekday,Completed
+R05,West Gate - Tech Park,BUS-245,AC,2025-01-12,17:00,18:51,37,35,4095.0,15.14,D002,Fog,Weekend,Cancelled
+R04,East Suburb - Mall Plaza,BUS-272,Electric,2025-04-15,17:30,18:21,9,34,2737.0,0.87,D032,Clear,Weekday,Cancelled
+R01,City Center - Airport,BUS-116,Standard,2025-04-22,06:30,07:39,6,41,4920.0,13.15,D031,Cloudy,Weekday,Completed
+R08,South Terminal - Business District,BUS-378,Standard,2025-02-19,20:00,21:08,4,35,3500.0,14.88,D009,Fog,Weekday,Delayed
+R05,West Gate - Tech Park,BUS-117,Electric,2025-02-02,15:15,16:16,6,18,1863.0,1.82,D019,Rain,Weekend,Completed
+R03,Harbor - Downtown,BUS-111,Standard,2025-02-02,18:00,18:52,15,33,2640.0,9.38,D032,Fog,Weekend,Completed
+R05,West Gate - Tech Park,BUS-395,AC,2025-01-25,14:00,15:14,1,21,2457.0,18.09,D027,Clear,Weekend,Completed
+R07,Riverside - Stadium,BUS-186,Mini,2025-01-06,16:30,17:15,4,23,1725.0,8.21,D014,Clear,Weekday,Completed
+R02,North Station - University,BUS-289,Electric,2025-04-15,08:45,09:38,15,38,2622.0,0.1,D035,Rain,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-207,AC,2025-01-23,07:30,08:29,14,37,3367.0,9.85,D032,Clear,Weekday,Completed
+R01,City Center - Airport,BUS-302,AC,2025-03-03,18:00,19:24,9,37,5772.0,11.73,D010,Clear,Weekday,Completed
+R01,City Center - Airport,BUS-153,Standard,2025-02-13,09:00,10:00,2,33,5640.0,7.62,D020,Clear,Weekday,Delayed
+R01,City Center - Airport,BUS-218,AC,2025-02-12,07:15,08:06,10,32,4992.0,7.6,D001,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-220,Mini,2025-04-04,07:45,09:00,14,22,1540.0,12.8,D026,Clear,Weekday,Cancelled
+R07,Riverside - Stadium,BUS-319,Standard,2025-01-23,20:15,20:58,10,30,2250.0,5.14,D009,Cloudy,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-281,Electric,2025-03-15,10:30,11:18,10,33,1288.0,0.35,D039,Clear,Weekend,Completed
+R08,South Terminal - Business District,BUS-392,Standard,2025-02-01,08:15,08:52,3,33,3800.0,7.92,D037,Clear,Weekend,Completed
+R02,North Station - University,BUS-315,AC,2025-02-07,18:45,19:38,15,38,2964.0,8.34,D026,Rain,Weekday,Completed
+R05,West Gate - Tech Park,BUS-204,Standard,2025-01-04,05:00,06:10,10,38,3420.0,11.54,D019,Cloudy,Weekend,Completed
+R08,South Terminal - Business District,BUS-253,AC,2025-01-14,22:15,23:08,8,35,4550.0,8.12,D035,Rain,Weekday,Completed
+R05,West Gate - Tech Park,BUS-235,AC,2025-01-06,20:00,20:46,4,40,4680.0,6.6,D040,Clear,Weekday,Completed
+R07,Riverside - Stadium,BUS-399,Standard,2025-03-11,17:30,18:46,12,38,2850.0,12.07,D036,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-308,AC,2025-04-03,14:15,14:55,4,32,2912.0,7.77,D037,Cloudy,Weekday,Completed
+R08,South Terminal - Business District,BUS-270,Standard,2025-04-18,19:15,20:08,8,36,3600.0,9.73,D023,Clear,Weekday,Completed
+R07,Riverside - Stadium,BUS-310,Standard,2025-03-03,19:00,19:57,4,38,2850.0,7.35,D026,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-320,Electric,2025-04-26,16:00,16:57,10,22,1771.0,1.99,Unknown,Clear,Weekend,Completed
+R02,North Station - University,BUS-323,Standard,2025-03-10,16:15,17:06,12,21,1260.0,5.91,D011,Cloudy,Weekday,Cancelled
+R03,Harbor - Downtown,BUS-201,Standard,2025-04-26,12:00,13:09,7,18,1440.0,14.98,D027,Clear,Weekend,Completed
+R01,City Center - Airport,BUS-158,Electric,2025-03-15,15:15,16:23,11,29,4002.0,0.27,D002,Rain,Weekend,Completed
+R03,Harbor - Downtown,BUS-225,Standard,2025-04-27,09:00,10:19,13,32,2560.0,16.33,D017,Storm,Weekend,Completed
+R07,Riverside - Stadium,BUS-275,Standard,2025-02-06,18:15,19:29,10,44,3300.0,13.25,D035,Clear,Weekday,Delayed
+R02,North Station - University,BUS-160,Standard,2025-04-08,14:30,15:45,8,37,2220.0,12.87,D023,Clear,Weekday,Completed
+R08,South Terminal - Business District,BUS-341,Standard,2025-01-21,21:15,22:39,11,33,3300.0,10.22,D014,Rain,Weekday,Completed
+R07,Riverside - Stadium,BUS-115,Standard,2025-04-07,18:30,19:30,20,37,2775.0,6.34,D039,Rain,Weekday,Completed
+R02,North Station - University,BUS-220,Mini,2025-01-14,20:15,21:05,4,10,600.0,8.68,D032,Clear,Weekday,Delayed
+R08,South Terminal - Business District,BUS-354,Standard,2025-02-07,21:45,22:30,10,31,3100.0,6.17,D005,Clear,Weekday,Cancelled
+R08,South Terminal - Business District,BUS-106,Standard,2025-02-12,06:45,07:44,1,38,3800.0,14.72,D016,Clear,Weekday,Completed
+R01,City Center - Airport,BUS-359,Mini,2025-02-10,07:00,07:51,15,23,2760.0,6.32,D001,Rain,Weekday,Completed
+R02,North Station - University,BUS-223,Electric,2025-02-11,14:15,15:05,1,19,1311.0,1.87,D037,Clear,Weekday,Completed
+R01,City Center - Airport,BUS-229,Electric,2025-01-17,07:15,08:31,16,35,4830.0,1.94,D012,Rain,Weekday,Completed
+R03,Harbor - Downtown,BUS-250,Mini,2025-02-11,18:45,19:47,20,21,1680.0,8.85,D029,Rain,Weekday,Completed
+R07,Riverside - Stadium,BUS-184,AC,2025-03-06,09:00,10:15,2,43,4192.5,16.11,D030,Cloudy,Weekday,Completed
+R07,Riverside - Stadium,BUS-265,Standard,2025-04-25,09:45,10:28,3,39,2925.0,10.06,D025,Clear,Weekday,Cancelled
+R02,North Station - University,BUS-237,Standard,2025-01-28,18:15,19:41,29,44,2640.0,9.43,D017,Rain,Weekday,Delayed
+R03,Harbor - Downtown,BUS-348,Electric,2025-03-28,08:15,09:33,17,29,2668.0,0.79,D010,Clear,Weekday,Delayed
+R04,East Suburb - Mall Plaza,BUS-242,AC,2025-03-23,07:00,07:39,8,38,3458.0,8.74,D031,Clear,Weekend,Completed
+R04,East Suburb - Mall Plaza,BUS-293,Electric,2025-04-23,16:00,17:01,26,32,2576.0,0.13,D005,Rain,Weekday,Delayed
+R07,Riverside - Stadium,BUS-339,Electric,2025-03-27,12:15,13:18,4,36,3105.0,1.05,D039,Clear,Weekday,Completed
+R03,Harbor - Downtown,BUS-141,Mini,2025-02-17,18:00,19:24,16,18,1440.0,15.6,D039,Cloudy,Weekday,Completed
+R01,City Center - Airport,BUS-100,Standard,2025-02-25,06:15,07:13,6,20,2400.0,10.72,Unknown,Rain,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-131,Standard,2025-04-22,17:15,18:23,23,48,3360.0,10.01,D017,Clear,Weekday,Delayed
+R03,Harbor - Downtown,BUS-398,Standard,2025-02-05,07:30,09:12,31,48,3840.0,12.96,D034,Clear,Weekday,Delayed
+R06,Old Town - Hospital,BUS-257,Standard,2025-01-04,15:45,16:31,7,34,1700.0,5.86,D040,Cloudy,Weekend,Completed
+R06,Old Town - Hospital,BUS-220,Standard,2025-04-30,14:30,15:35,1,31,1550.0,16.03,D029,Clear,Weekday,Completed
+R02,North Station - University,BUS-329,Mini,2025-02-05,16:45,17:44,4,22,1320.0,8.68,D037,Clear,Weekday,Cancelled
+R03,Harbor - Downtown,BUS-108,AC,2025-01-11,19:15,20:13,15,21,2184.0,9.51,D007,Rain,Weekend,Delayed
+R05,West Gate - Tech Park,BUS-123,Standard,2025-02-22,17:00,18:25,19,30,2700.0,13.77,D029,Clear,Weekend,Delayed
+R08,South Terminal - Business District,BUS-293,AC,2025-03-22,10:45,12:02,10,37,4810.0,15.7,D013,Fog,Weekend,Completed
+R08,South Terminal - Business District,BUS-306,Standard,2025-02-24,17:15,18:46,21,44,4400.0,12.22,D005,Clear,Weekday,Cancelled
+R05,West Gate - Tech Park,BUS-393,AC,2025-01-15,07:15,08:27,26,41,4797.0,10.09,D034,Rain,Weekday,Delayed
+R05,West Gate - Tech Park,BUS-384,Electric,2025-01-21,21:15,22:28,4,24,2484.0,1.51,D013,Rain,Weekday,Completed
+R02,North Station - University,BUS-336,AC,2025-01-07,17:45,18:59,10,35,2730.0,11.75,D027,Clear,Weekday,Completed
+R02,North Station - University,BUS-292,Standard,2025-04-21,07:00,08:28,30,46,2760.0,13.22,D017,Clear,Weekday,Delayed
+R05,West Gate - Tech Park,BUS-344,Standard,2025-02-01,18:00,19:19,9,38,3420.0,11.31,D031,Clear,Weekend,Delayed
+R03,Harbor - Downtown,BUS-302,Standard,2025-03-18,07:30,08:36,13,38,3040.0,13.28,D031,Rain,Weekday,Completed
+R02,North Station - University,BUS-365,Standard,2025-04-22,13:15,14:10,12,44,2640.0,5.86,D035,Fog,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-351,Standard,2025-01-20,18:45,19:59,18,42,2940.0,10.96,D016,Cloudy,Weekday,Completed
+R07,Riverside - Stadium,BUS-189,AC,2025-04-02,07:00,08:34,25,35,3412.5,13.35,D008,Rain,Weekday,Delayed
+R07,Riverside - Stadium,BUS-323,AC,2025-01-14,13:30,14:09,4,36,3510.0,7.36,D001,Clear,Weekday,Completed
+R08,South Terminal - Business District,BUS-220,Standard,2025-04-09,07:45,09:02,10,36,3600.0,9.62,D003,Clear,Weekday,Completed
+R02,North Station - University,BUS-282,Standard,2025-04-02,15:15,16:34,20,44,2640.0,9.95,D013,Rain,Weekday,Completed
+R03,Harbor - Downtown,BUS-228,AC,2025-04-16,21:15,22:23,20,23,2392.0,9.61,D027,Clear,Weekday,Completed
+R08,South Terminal - Business District,BUS-108,Electric,2025-04-19,20:15,21:33,10,25,2875.0,1.41,D010,Storm,Weekend,Delayed
+R06,Old Town - Hospital,BUS-115,Standard,2025-01-01,06:45,08:06,15,44,2200.0,16.88,D001,Fog,Weekday,Completed
+R05,West Gate - Tech Park,BUS-107,Mini,2025-04-25,08:30,09:50,8,20,1800.0,16.28,D032,Cloudy,Weekday,Completed
+R07,Riverside - Stadium,BUS-155,AC,2025-03-31,16:45,17:36,1,23,2242.5,8.09,D016,Clear,Weekday,Completed
+R05,West Gate - Tech Park,BUS-284,AC,2025-04-04,16:30,17:39,15,27,3159.0,7.39,D002,Clear,Weekday,Completed
+R02,North Station - University,BUS-211,AC,2025-02-19,14:45,16:01,4,27,2106.0,14.91,D018,Clear,Weekday,Cancelled
+R06,Old Town - Hospital,BUS-141,Standard,2025-02-07,08:00,09:26,24,39,1950.0,14.78,D007,Rain,Weekday,Delayed
+R06,Old Town - Hospital,BUS-237,Standard,2025-01-24,16:45,18:01,11,39,1950.0,13.34,D019,Clear,Weekday,Cancelled
+R08,South Terminal - Business District,BUS-368,AC,2025-04-03,16:00,17:01,14,29,3770.0,10.78,D013,Rain,Weekday,Completed
+R05,West Gate - Tech Park,BUS-219,Standard,2025-01-19,18:45,19:33,6,37,3330.0,11.14,D037,Cloudy,Weekend,Delayed
+R02,North Station - University,BUS-344,AC,2025-01-17,07:15,08:22,9,33,2574.0,10.91,D002,Cloudy,Weekday,Cancelled
+R04,East Suburb - Mall Plaza,BUS-255,Mini,2025-03-14,15:00,16:20,5,11,770.0,15.59,D003,Clear,Weekday,Delayed
+R04,East Suburb - Mall Plaza,BUS-124,AC,2025-03-06,16:15,17:34,4,29,2639.0,11.2,D015,Clear,Weekday,Completed
+R02,North Station - University,BUS-147,AC,2025-01-21,06:00,06:38,8,22,1716.0,6.09,D008,Rain,Weekday,Completed
+R01,City Center - Airport,BUS-140,Standard,2025-04-23,18:30,19:50,13,44,5280.0,15.28,D031,Rain,Weekday,Completed
+R01,City Center - Airport,BUS-233,Mini,2025-01-12,13:30,14:51,8,19,2280.0,11.69,D025,Rain,Weekend,Completed
+R03,Harbor - Downtown,BUS-307,Mini,2025-02-06,11:45,12:53,15,24,1920.0,9.02,D020,Clear,Weekday,Completed
+R03,Harbor - Downtown,BUS-383,Electric,2025-01-30,07:30,08:57,24,32,2944.0,0.9,D032,Fog,Weekday,Cancelled
+R07,Riverside - Stadium,BUS-323,AC,2025-04-07,20:30,21:12,6,40,3900.0,5.57,D006,Cloudy,Weekday,Completed
+R08,South Terminal - Business District,BUS-363,Electric,2025-01-09,09:15,10:00,8,29,3335.0,0.81,D031,Rain,Weekday,Completed
+R01,City Center - Airport,BUS-247,Standard,2025-03-30,15:30,16:28,17,33,3720.0,11.33,D026,Clear,Weekend,Delayed
+R04,East Suburb - Mall Plaza,BUS-282,Mini,2025-03-24,08:00,09:01,15,25,1750.0,12.53,D032,Clear,Weekday,Completed
+R01,City Center - Airport,BUS-235,AC,2025-03-12,07:45,09:02,7,43,6708.0,13.35,D005,Clear,Weekday,Completed
+R05,West Gate - Tech Park,BUS-375,Electric,2025-02-23,13:15,14:35,9,23,2380.5,1.36,D023,Cloudy,Weekend,Delayed
+R08,South Terminal - Business District,BUS-175,Standard,2025-04-13,10:45,11:43,13,28,2800.0,7.8,D015,Rain,Weekend,Completed
+R06,Old Town - Hospital,BUS-117,Standard,2025-04-27,09:30,10:20,3,26,1300.0,10.02,D018,Cloudy,Weekend,Completed
+R07,Riverside - Stadium,BUS-366,Standard,2025-02-05,07:45,09:01,33,36,2700.0,10.55,D031,Fog,Weekday,Delayed
+R05,West Gate - Tech Park,BUS-358,Standard,2025-02-04,18:45,20:17,41,45,4050.0,10.36,D038,Clear,Weekday,Delayed
+R06,Old Town - Hospital,BUS-335,Standard,2025-01-19,14:00,14:35,0,31,1550.0,7.1,D030,Cloudy,Weekend,Completed
+R05,West Gate - Tech Park,BUS-100,Standard,2025-03-07,20:30,21:34,0,41,3690.0,10.37,D036,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-384,Standard,2025-02-19,06:45,07:34,11,42,2940.0,9.64,D010,Fog,Weekday,Completed
+R03,Harbor - Downtown,BUS-275,Mini,2025-03-17,06:30,07:47,8,14,1120.0,10.04,D026,Cloudy,Weekday,Completed
+R07,Riverside - Stadium,BUS-207,Standard,2025-01-31,19:00,20:27,19,23,1725.0,13.55,D004,Rain,Weekday,Completed
+R03,Harbor - Downtown,BUS-341,AC,2025-04-01,19:45,20:57,16,19,1976.0,14.08,D007,Storm,Weekday,Completed
+R02,North Station - University,BUS-214,AC,2025-04-03,19:15,19:55,10,39,3042.0,7.62,D036,Clear,Weekday,Delayed
+R08,South Terminal - Business District,BUS-374,Mini,2025-03-21,07:15,08:25,12,24,2400.0,13.55,D013,Rain,Weekday,Completed
+R08,South Terminal - Business District,BUS-204,Standard,2025-03-15,11:30,12:35,17,22,2200.0,8.89,D018,Rain,Weekend,Completed
+R07,Riverside - Stadium,BUS-110,Standard,2025-04-07,15:45,16:49,13,39,2925.0,8.78,Unknown,Rain,Weekday,Completed
+R07,Riverside - Stadium,BUS-191,AC,2025-04-22,17:30,18:19,16,37,3607.5,7.03,D014,Clear,Weekday,Completed
+R07,Riverside - Stadium,BUS-263,Mini,2025-01-31,09:00,09:54,0,12,900.0,9.15,D028,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-352,Electric,2025-01-22,11:45,12:45,2,27,2173.5,0.46,D013,Cloudy,Weekday,Completed
+R02,North Station - University,BUS-282,Mini,2025-04-23,05:45,07:04,9,23,1380.0,17.4,D001,Rain,Weekday,Completed
+R07,Riverside - Stadium,BUS-218,Standard,2025-02-14,07:15,08:41,15,39,2925.0,16.13,D026,Clear,Weekday,Completed
+R02,North Station - University,BUS-317,AC,2025-03-10,19:30,20:23,11,37,2886.0,11.08,D015,Clear,Weekday,Completed
+R02,North Station - University,BUS-187,Electric,2025-02-27,17:45,18:37,10,40,2760.0,0.88,D015,Clear,Weekday,Completed
+R07,Riverside - Stadium,BUS-338,AC,2025-03-05,13:15,14:25,23,29,2827.5,9.33,D028,Storm,Weekday,Delayed
+R04,East Suburb - Mall Plaza,BUS-228,Standard,2025-01-01,18:30,19:27,14,37,2590.0,9.22,D013,Clear,Weekday,Completed
+R08,South Terminal - Business District,BUS-225,AC,2025-03-03,22:00,22:59,25,40,5200.0,7.34,D006,Clear,Weekday,Cancelled
+R06,Old Town - Hospital,BUS-329,Mini,2025-01-15,19:45,20:40,3,20,1000.0,9.29,D011,Cloudy,Weekday,Completed
+R02,North Station - University,BUS-338,Electric,2025-03-19,13:00,13:57,2,33,2277.0,1.79,D018,Clear,Weekday,Completed
+R03,Harbor - Downtown,BUS-129,Mini,2025-02-05,15:30,16:35,3,24,1920.0,12.57,D039,Storm,Weekday,Completed
+R01,City Center - Airport,BUS-313,Standard,2025-02-09,18:15,19:35,23,37,4440.0,14.61,D037,Rain,Weekend,Delayed
+R08,South Terminal - Business District,BUS-244,Standard,2025-03-26,18:45,20:06,22,46,4600.0,10.22,D038,Cloudy,Weekday,Delayed
+R05,West Gate - Tech Park,BUS-147,Standard,2025-01-31,06:30,07:30,4,31,2790.0,11.41,D010,Clear,Weekday,Completed
+R01,City Center - Airport,BUS-247,Electric,2025-01-02,13:45,14:52,6,37,5106.0,1.39,D029,Clear,Weekday,Completed
+R01,City Center - Airport,BUS-160,AC,2025-03-26,10:00,10:56,0,28,4368.0,10.09,D002,Clear,Weekday,Completed
+R08,South Terminal - Business District,BUS-137,Standard,2025-01-12,08:30,10:00,17,36,3600.0,14.49,D004,Clear,Weekend,Completed
+R06,Old Town - Hospital,BUS-322,Mini,2025-03-03,12:45,14:04,4,19,950.0,16.36,D028,Clear,Weekday,Cancelled
+R06,Old Town - Hospital,BUS-261,Mini,2025-03-06,11:45,12:25,0,16,800.0,6.66,D024,Clear,Weekday,Completed
+R02,North Station - University,BUS-269,Standard,2025-03-08,08:30,09:52,13,35,2100.0,15.98,D006,Clear,Weekend,Completed
+R07,Riverside - Stadium,BUS-220,Standard,2025-01-15,10:30,11:25,1,38,2850.0,9.92,D029,Clear,Weekday,Completed
+R05,West Gate - Tech Park,BUS-342,Standard,2025-03-11,21:30,23:11,26,42,3780.0,10.69,D010,Rain,Weekday,Cancelled
+R06,Old Town - Hospital,BUS-291,AC,2025-04-17,18:15,19:13,18,43,2795.0,9.61,D008,Rain,Weekday,Completed
+R05,West Gate - Tech Park,BUS-211,Electric,2025-04-13,10:00,10:50,10,28,2898.0,0.33,D006,Storm,Weekend,Completed
+R04,East Suburb - Mall Plaza,BUS-353,Standard,2025-01-12,21:45,22:46,4,28,1960.0,9.36,D002,Clear,Weekend,Completed
+R07,Riverside - Stadium,BUS-132,Electric,2025-04-23,15:30,16:59,22,33,2415.0,0.85,D023,Clear,Weekday,Delayed
+R08,South Terminal - Business District,BUS-369,Standard,2025-01-08,07:00,07:48,6,45,4500.0,11.84,D029,Clear,Weekday,Completed
+R02,North Station - University,BUS-374,AC,2025-02-24,18:30,19:59,21,37,2886.0,13.88,D018,Clear,Weekday,Delayed
+R04,East Suburb - Mall Plaza,BUS-386,Electric,2025-01-31,11:00,12:25,13,27,2173.5,0.85,D028,Rain,Weekday,Cancelled
+R07,Riverside - Stadium,BUS-329,AC,2025-01-21,15:15,15:55,3,19,1852.5,6.31,D019,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-187,Electric,2025-04-10,11:00,12:28,36,31,1782.5,1.93,D003,Rain,Weekday,Cancelled
+R08,South Terminal - Business District,BUS-342,AC,2025-03-27,15:00,15:39,9,23,2990.0,7.11,D006,Rain,Weekday,Completed
+R01,City Center - Airport,BUS-367,Standard,2025-02-16,06:45,07:54,16,35,4200.0,12.68,D015,Fog,Weekend,Delayed
+R04,East Suburb - Mall Plaza,BUS-278,Standard,2025-02-08,11:30,12:52,11,21,1470.0,13.26,D019,Fog,Weekend,Delayed
+R08,South Terminal - Business District,BUS-164,Standard,2025-03-19,07:00,08:24,15,49,4900.0,13.3,D025,Cloudy,Weekday,Completed
+R08,South Terminal - Business District,BUS-150,AC,2025-03-30,08:45,10:10,13,35,4550.0,10.09,D029,Cloudy,Weekend,Completed
+R01,City Center - Airport,BUS-166,Standard,2025-02-15,13:30,14:28,4,18,2160.0,9.03,D008,Clear,Weekend,Completed
+R04,East Suburb - Mall Plaza,BUS-212,Standard,2025-04-30,22:15,22:54,9,31,2170.0,7.04,D039,Clear,Weekday,Delayed
+R05,West Gate - Tech Park,BUS-344,Mini,2025-03-10,09:30,10:47,7,13,1170.0,13.36,D018,Storm,Weekday,Completed
+R01,City Center - Airport,BUS-360,Mini,2025-02-20,20:15,21:31,12,23,2760.0,11.28,D036,Clear,Weekday,Completed
+R02,North Station - University,BUS-133,Standard,2025-02-06,17:45,18:50,7,45,2700.0,7.39,D013,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-116,AC,2025-02-11,18:00,19:26,30,44,2860.0,8.34,D002,Rain,Weekday,Delayed
+R05,West Gate - Tech Park,BUS-257,Standard,2025-03-14,06:00,06:49,11,36,3240.0,6.6,D002,Rain,Weekday,Completed
+R01,City Center - Airport,BUS-291,AC,2025-01-14,22:15,23:29,6,44,6864.0,8.88,D040,Clear,Weekday,Completed
+R07,Riverside - Stadium,BUS-310,Standard,2025-01-21,19:00,20:03,1,40,3000.0,14.1,D012,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-153,AC,2025-01-22,19:15,20:36,12,25,2275.0,12.9,D001,Clear,Weekday,Completed
+R08,South Terminal - Business District,BUS-394,Electric,2025-03-07,14:15,14:57,12,23,2645.0,1.39,D028,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-199,Standard,2025-02-28,16:15,16:58,10,33,2310.0,6.18,D035,Rain,Weekday,Delayed
+R05,West Gate - Tech Park,BUS-270,Standard,2025-04-22,19:45,20:47,1,28,2520.0,10.89,D029,Cloudy,Weekday,Delayed
+R02,North Station - University,BUS-298,Standard,2025-01-16,13:00,14:14,6,26,1560.0,14.89,D033,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-112,Standard,2025-01-15,19:45,20:17,0,41,2050.0,3.99,D026,Clear,Weekday,Completed
+R08,South Terminal - Business District,BUS-380,Standard,2025-01-14,06:00,07:11,7,30,3000.0,15.85,D033,Clear,Weekday,Cancelled
+R03,Harbor - Downtown,BUS-183,Standard,2025-02-17,08:15,09:02,9,36,2880.0,7.65,D039,Clear,Weekday,Completed
+R03,Harbor - Downtown,BUS-232,AC,2025-02-25,18:15,18:59,11,35,3640.0,6.49,D010,Clear,Weekday,Completed
+R07,Riverside - Stadium,BUS-140,Standard,2025-04-05,06:45,07:18,3,41,3075.0,8.29,D002,Cloudy,Weekend,Completed
+R04,East Suburb - Mall Plaza,BUS-307,AC,2025-01-08,08:15,09:31,3,35,3185.0,15.92,D033,Clear,Weekday,Delayed
+R07,Riverside - Stadium,BUS-288,AC,2025-02-01,08:45,10:09,9,27,2632.5,11.86,D017,Cloudy,Weekend,Cancelled
+R05,West Gate - Tech Park,BUS-314,Standard,2025-04-04,10:00,11:35,22,43,3870.0,11.29,D032,Clear,Weekday,Delayed
+R04,East Suburb - Mall Plaza,BUS-103,AC,2025-03-12,17:45,19:01,10,32,2912.0,11.32,D031,Cloudy,Weekday,Completed
+R01,City Center - Airport,BUS-120,Standard,2025-04-16,18:15,19:20,10,48,5760.0,12.64,D031,Clear,Weekday,Completed
+R07,Riverside - Stadium,BUS-190,Mini,2025-04-12,06:45,07:32,7,21,1575.0,10.82,D032,Cloudy,Weekend,Delayed
+R07,Riverside - Stadium,BUS-182,Standard,2025-03-22,20:30,21:45,13,34,2550.0,10.9,D037,Storm,Weekend,Completed
+R03,Harbor - Downtown,BUS-299,AC,2025-03-31,14:15,15:27,4,43,4472.0,16.66,D037,Storm,Weekday,Completed
+R03,Harbor - Downtown,BUS-349,Mini,2025-01-23,06:30,07:13,5,24,1920.0,9.05,D039,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-164,Electric,2025-03-11,06:30,07:12,12,20,1610.0,1.71,D036,Clear,Weekday,Completed
+R07,Riverside - Stadium,BUS-161,AC,2025-04-11,19:15,20:22,3,40,3900.0,14.68,D027,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-175,AC,2025-02-14,07:15,08:06,14,37,2405.0,9.67,D029,Rain,Weekday,Completed
+R03,Harbor - Downtown,BUS-272,Standard,2025-01-25,06:00,06:41,11,23,1840.0,7.74,D001,Fog,Weekend,Completed
+R05,West Gate - Tech Park,BUS-217,Standard,2025-04-17,08:15,09:03,8,46,4140.0,10.22,D006,Clear,Weekday,Completed
+R07,Riverside - Stadium,BUS-207,AC,2025-02-20,16:30,17:07,7,22,2145.0,8.55,Unknown,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-244,Standard,2025-02-27,18:15,19:56,30,48,2400.0,10.67,D038,Storm,Weekday,Delayed
+R08,South Terminal - Business District,BUS-303,Standard,2025-01-28,09:15,10:04,6,47,4700.0,8.68,D025,Rain,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-134,Mini,2025-03-05,17:00,18:12,17,25,1750.0,9.83,D011,Clear,Weekday,Completed
+R07,Riverside - Stadium,BUS-304,AC,2025-02-01,19:00,20:02,10,22,2145.0,7.27,D015,Fog,Weekend,Completed
+R03,Harbor - Downtown,BUS-216,AC,2025-03-01,07:30,08:41,11,29,3016.0,14.53,D026,Storm,Weekend,Completed
+R04,East Suburb - Mall Plaza,BUS-270,AC,2025-01-13,10:00,11:05,0,37,3367.0,9.09,D026,Clear,Weekday,Completed
+R05,West Gate - Tech Park,BUS-281,AC,2025-01-11,09:30,10:36,3,31,3627.0,14.5,D005,Clear,Weekend,Delayed
+R06,Old Town - Hospital,BUS-248,Mini,2025-03-27,19:00,20:16,1,13,650.0,16.28,D009,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-105,Standard,2025-03-19,09:30,10:37,10,32,1600.0,7.98,D016,Rain,Weekday,Completed
+R03,Harbor - Downtown,BUS-278,AC,2025-01-29,11:15,12:00,4,31,3224.0,9.01,D021,Clear,Weekday,Completed
+R08,South Terminal - Business District,BUS-260,Standard,2025-03-24,17:00,17:54,20,35,3500.0,8.99,D029,Fog,Weekday,Completed
+R08,South Terminal - Business District,BUS-220,Standard,2025-04-26,18:45,20:04,28,38,3800.0,10.43,D019,Storm,Weekend,Delayed
+R08,South Terminal - Business District,BUS-252,Standard,2025-03-30,18:00,19:05,28,30,3000.0,9.7,D030,Fog,Weekend,Delayed
+R04,East Suburb - Mall Plaza,BUS-210,Standard,2025-03-01,08:00,08:42,6,34,2380.0,6.23,D040,Clear,Weekend,Cancelled
+R05,West Gate - Tech Park,BUS-314,Standard,2025-01-13,07:00,07:56,15,49,4410.0,7.17,D036,Clear,Weekday,Completed
+R01,City Center - Airport,BUS-127,Standard,2025-02-13,14:00,14:36,6,29,3480.0,5.99,D009,Cloudy,Weekday,Cancelled
+R06,Old Town - Hospital,BUS-347,Standard,2025-04-07,16:30,17:35,13,36,1800.0,9.38,D038,Clear,Weekday,Completed
+R02,North Station - University,BUS-183,Electric,2025-03-18,17:00,17:57,14,38,2622.0,0.0,Unknown,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-354,AC,2025-02-08,20:15,21:29,6,33,3003.0,15.47,D007,Rain,Weekend,Completed
+R05,West Gate - Tech Park,BUS-127,Standard,2025-04-26,16:15,17:12,5,34,3060.0,11.69,D028,Rain,Weekend,Cancelled
+R05,West Gate - Tech Park,BUS-137,AC,2025-04-22,07:00,08:10,18,34,3978.0,9.15,D006,Clear,Weekday,Delayed
+R02,North Station - University,BUS-317,AC,2025-02-12,17:00,18:02,8,43,3354.0,9.42,D040,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-175,Standard,2025-04-20,21:15,22:36,20,40,2000.0,13.99,D032,Rain,Weekend,Completed
+R05,West Gate - Tech Park,BUS-196,Standard,2025-02-11,07:00,07:44,6,49,4410.0,6.59,D033,Clear,Weekday,Completed
+R02,North Station - University,BUS-214,Electric,2025-04-13,13:15,14:06,0,18,1242.0,0.36,D003,Clear,Weekend,Completed
+R05,West Gate - Tech Park,BUS-217,Mini,2025-01-31,06:00,07:06,2,13,1170.0,13.96,D030,Cloudy,Weekday,Completed
+R02,North Station - University,BUS-381,AC,2025-02-22,07:00,07:56,10,29,2262.0,9.16,D029,Clear,Weekend,Completed
+R04,East Suburb - Mall Plaza,BUS-158,AC,2025-04-28,18:45,20:07,15,37,3367.0,14.85,D025,Rain,Weekday,Completed
+R03,Harbor - Downtown,BUS-122,Standard,2025-01-30,08:30,09:53,10,42,3360.0,14.5,D040,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-384,Standard,2025-03-22,19:15,20:14,6,19,950.0,8.99,D025,Clear,Weekend,Delayed
+R06,Old Town - Hospital,BUS-393,Standard,2025-04-06,19:30,20:12,11,32,1600.0,5.08,D024,Rain,Weekend,Completed
+R02,North Station - University,BUS-214,Electric,2025-01-25,19:15,20:09,2,15,1035.0,1.34,D034,Cloudy,Weekend,Completed
+R05,West Gate - Tech Park,BUS-200,Standard,2025-01-24,20:15,21:37,25,32,2880.0,11.88,D012,Rain,Weekday,Delayed
+R03,Harbor - Downtown,BUS-194,Electric,2025-01-18,05:15,05:45,0,30,2760.0,1.98,D022,Clear,Weekend,Completed
+R02,North Station - University,BUS-171,Standard,2025-01-12,07:00,08:25,11,40,2400.0,14.9,D037,Cloudy,Weekend,Completed
+R07,Riverside - Stadium,BUS-288,AC,2025-04-27,06:15,06:47,2,17,1657.5,6.95,D039,Clear,Weekend,Completed
+R06,Old Town - Hospital,BUS-118,AC,2025-02-07,07:30,08:27,5,39,2535.0,6.93,D028,Clear,Weekday,Completed
+R05,West Gate - Tech Park,BUS-354,AC,2025-04-01,06:45,08:10,22,40,4680.0,8.89,D023,Storm,Weekday,Delayed
+R01,City Center - Airport,BUS-241,Standard,2025-04-01,12:00,12:52,4,33,5880.0,6.91,Unknown,Clear,Weekday,Cancelled
+R02,North Station - University,BUS-191,AC,2025-01-30,09:30,10:32,6,33,2106.0,10.21,D022,Rain,Weekday,Cancelled
+R03,Harbor - Downtown,BUS-124,Standard,2025-01-23,18:45,20:06,21,45,3600.0,10.37,D013,Clear,Weekday,Delayed
+R07,Riverside - Stadium,BUS-243,Standard,2025-02-20,13:45,14:36,7,37,2775.0,9.01,D009,Rain,Weekday,Completed
+R02,North Station - University,BUS-297,Standard,2025-04-30,05:45,06:28,6,43,2580.0,6.96,D005,Fog,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-138,Mini,2025-04-29,08:30,09:16,14,20,1400.0,8.75,D009,Rain,Weekday,Cancelled
+R07,Riverside - Stadium,BUS-104,Mini,2025-01-25,19:30,20:30,7,18,1350.0,12.09,D003,Clear,Weekend,Delayed
+R02,North Station - University,BUS-336,AC,2025-04-28,22:15,22:55,0,27,2106.0,8.02,D032,Clear,Weekday,Cancelled
+R01,City Center - Airport,BUS-260,Standard,2025-03-17,06:00,07:26,17,46,5520.0,11.26,D007,Cloudy,Weekday,Completed
+R01,City Center - Airport,BUS-215,Standard,2025-01-12,15:45,16:30,7,39,4680.0,9.03,D011,Clear,Weekend,Delayed
+R06,Old Town - Hospital,BUS-318,Mini,2025-03-08,06:00,06:54,8,12,600.0,7.26,Unknown,Rain,Weekend,Completed
+R05,West Gate - Tech Park,BUS-150,Mini,2025-01-22,15:00,16:24,14,23,2070.0,12.39,D021,Rain,Weekday,Completed
+R02,North Station - University,BUS-315,Standard,2025-02-06,14:45,15:48,14,21,1260.0,9.22,D022,Rain,Weekday,Completed
+R02,North Station - University,BUS-218,Standard,2025-03-08,20:00,21:04,1,34,2040.0,11.03,D018,Clear,Weekend,Completed
+R08,South Terminal - Business District,BUS-328,Mini,2025-04-24,06:00,06:41,2,16,1600.0,9.08,D002,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-258,Standard,2025-02-27,08:45,10:12,12,50,2500.0,17.64,D011,Rain,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-187,Electric,2025-03-05,13:45,14:28,12,34,2737.0,0.1,D025,Rain,Weekday,Completed
+R05,West Gate - Tech Park,BUS-364,Standard,2025-02-07,09:00,10:08,8,31,2790.0,12.93,Unknown,Clear,Weekday,Completed
+R08,South Terminal - Business District,BUS-260,Standard,2025-04-23,08:00,09:08,9,42,4200.0,11.94,D013,Clear,Weekday,Completed
+R03,Harbor - Downtown,BUS-283,Standard,2025-04-22,19:15,20:10,4,30,2400.0,12.83,D005,Clear,Weekday,Completed
+R02,North Station - University,BUS-268,Standard,2025-03-27,17:30,18:53,17,46,2760.0,13.7,D015,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-125,Standard,2025-02-05,06:00,06:48,8,43,2150.0,6.33,D006,Fog,Weekday,Completed
+R03,Harbor - Downtown,BUS-169,AC,2025-02-11,19:15,20:15,8,33,1976.0,11.4,D022,Rain,Weekday,Completed
+R05,West Gate - Tech Park,BUS-172,Standard,2025-02-09,09:30,10:19,10,27,2430.0,5.61,D018,Fog,Weekend,Completed
+R03,Harbor - Downtown,BUS-272,Electric,2025-01-02,12:00,13:08,1,22,2024.0,0.2,D033,Clear,Weekday,Completed
+R08,South Terminal - Business District,BUS-318,Standard,2025-02-21,18:30,19:45,10,43,4300.0,12.73,D018,Clear,Weekday,Cancelled
+R08,South Terminal - Business District,BUS-216,AC,2025-02-03,16:30,17:32,2,35,4550.0,10.18,D031,Clear,Weekday,Completed
+R01,City Center - Airport,BUS-280,Standard,2025-04-08,14:00,14:41,8,43,5160.0,4.21,D027,Clear,Weekday,Delayed
+R06,Old Town - Hospital,BUS-308,Electric,2025-02-08,07:15,08:36,9,29,1667.5,0.51,D037,Clear,Weekend,Completed
+R07,Riverside - Stadium,BUS-151,AC,2025-03-27,12:30,13:27,22,24,2340.0,7.92,D026,Clear,Weekday,Delayed
+R05,West Gate - Tech Park,BUS-211,Standard,2025-02-25,18:15,19:48,20,42,3780.0,13.44,D003,Clear,Weekday,Completed
+R07,Riverside - Stadium,BUS-266,Standard,2025-02-19,19:45,20:41,11,34,2550.0,10.42,D010,Rain,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-378,Standard,2025-01-04,16:00,17:24,10,30,2100.0,14.98,D030,Rain,Weekend,Completed
+R03,Harbor - Downtown,BUS-190,AC,2025-03-08,08:00,08:59,19,32,3328.0,8.29,D008,Rain,Weekend,Completed
+R06,Old Town - Hospital,BUS-121,Standard,2025-02-24,14:15,15:03,9,40,2000.0,7.77,D030,Rain,Weekday,Cancelled
+R05,West Gate - Tech Park,BUS-334,Electric,2025-01-10,19:15,20:05,4,40,4140.0,0.99,D011,Clear,Weekday,Completed
+R07,Riverside - Stadium,BUS-279,Electric,2025-03-31,08:30,09:51,22,36,3105.0,0.16,D019,Rain,Weekday,Delayed
+R08,South Terminal - Business District,BUS-318,Standard,2025-02-17,18:00,18:55,11,41,4100.0,9.4,D027,Clear,Weekday,Cancelled
+R03,Harbor - Downtown,BUS-342,Mini,2025-04-02,08:45,09:49,10,19,1520.0,11.17,D005,Clear,Weekday,Completed
+R08,South Terminal - Business District,BUS-178,Standard,2025-01-01,18:45,20:04,21,47,4700.0,10.99,D017,Clear,Weekday,Delayed
+R06,Old Town - Hospital,BUS-202,Standard,2025-01-24,07:30,08:47,18,38,1900.0,9.75,D040,Fog,Weekday,Completed
+R07,Riverside - Stadium,BUS-149,Electric,2025-01-03,11:45,13:10,20,25,2156.25,1.01,D031,Fog,Weekday,Completed
+R05,West Gate - Tech Park,BUS-335,Mini,2025-04-21,17:00,18:05,5,19,1710.0,8.51,D022,Clear,Weekday,Completed
+R08,South Terminal - Business District,BUS-350,Mini,2025-02-27,20:15,21:41,12,16,1600.0,11.93,D038,Storm,Weekday,Completed
+R06,Old Town - Hospital,BUS-345,Standard,2025-01-04,18:45,19:59,28,31,1550.0,11.03,D001,Rain,Weekend,Delayed
+R07,Riverside - Stadium,BUS-357,Electric,2025-04-11,16:45,17:40,11,27,2328.75,0.1,D013,Rain,Weekday,Delayed
+R02,North Station - University,BUS-388,Standard,2025-03-28,18:45,19:41,8,46,2760.0,8.71,D036,Clear,Weekday,Delayed
+R03,Harbor - Downtown,BUS-228,Electric,2025-01-26,10:45,11:56,6,29,2668.0,1.61,D025,Cloudy,Weekend,Cancelled
+R07,Riverside - Stadium,BUS-212,Electric,2025-04-29,14:00,15:01,0,37,3191.25,0.1,D003,Cloudy,Weekday,Completed
+R03,Harbor - Downtown,BUS-128,Electric,2025-02-17,06:30,07:20,11,33,3036.0,0.85,D010,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-385,Electric,2025-04-06,14:15,14:56,7,29,2334.5,0.35,D007,Clear,Weekend,Completed
+R01,City Center - Airport,BUS-233,Mini,2025-03-05,18:00,19:11,8,20,2400.0,15.33,D001,Clear,Weekday,Completed
+R03,Harbor - Downtown,BUS-119,Standard,2025-03-31,15:30,16:16,7,27,2160.0,10.22,D034,Rain,Weekday,Completed
+R01,City Center - Airport,BUS-382,Standard,2025-01-23,17:00,18:19,15,48,5760.0,13.01,D009,Rain,Weekday,Completed
+R06,Old Town - Hospital,BUS-376,AC,2025-04-18,08:00,09:16,9,39,2535.0,13.9,D018,Clear,Weekday,Completed
+R01,City Center - Airport,BUS-186,Standard,2025-01-25,12:15,13:31,2,19,2280.0,14.02,D009,Clear,Weekend,Delayed
+R02,North Station - University,BUS-393,Standard,2025-01-02,16:00,16:43,12,34,2040.0,6.91,D010,Clear,Weekday,Completed
+R08,South Terminal - Business District,BUS-238,AC,2025-04-20,08:00,08:51,10,31,4030.0,6.87,D020,Clear,Weekend,Completed
+R05,West Gate - Tech Park,BUS-267,Standard,2025-01-13,19:00,19:48,9,23,2070.0,9.22,D002,Clear,Weekday,Cancelled
+R07,Riverside - Stadium,BUS-212,Mini,2025-03-12,20:15,21:23,9,19,1425.0,11.75,D030,Rain,Weekday,Completed
+R05,West Gate - Tech Park,BUS-135,Electric,2025-04-21,07:15,08:07,19,35,3622.5,1.22,D008,Rain,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-152,Standard,2025-01-28,20:45,21:34,1,23,1610.0,10.31,D023,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-176,Mini,2025-04-18,05:15,06:17,7,16,800.0,8.67,D020,Rain,Weekday,Delayed
+R03,Harbor - Downtown,BUS-330,Standard,2025-01-26,11:00,11:55,2,31,2480.0,9.99,D035,Clear,Weekend,Completed
+R05,West Gate - Tech Park,BUS-204,Standard,2025-03-29,20:00,21:05,17,36,3240.0,11.3,D022,Fog,Weekend,Completed
+R01,City Center - Airport,BUS-323,AC,2025-03-29,15:45,16:24,4,16,2496.0,7.66,Unknown,Clear,Weekend,Completed
+R04,East Suburb - Mall Plaza,BUS-106,Standard,2025-03-18,17:15,18:47,20,45,3150.0,13.57,D039,Cloudy,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-206,Electric,2025-04-30,14:45,15:43,12,26,2093.0,0.14,D007,Fog,Weekday,Completed
+R07,Riverside - Stadium,BUS-272,AC,2025-03-31,17:45,19:05,25,39,3802.5,12.35,D032,Clear,Weekday,Delayed
+R07,Riverside - Stadium,BUS-321,Standard,2025-04-30,17:00,18:10,5,40,3000.0,12.58,D004,Clear,Weekday,Completed
+R08,South Terminal - Business District,BUS-337,Standard,2025-04-03,19:30,20:18,2,29,2900.0,8.6,D033,Clear,Weekday,Completed
+R02,North Station - University,BUS-189,AC,2025-04-23,16:45,17:26,11,42,3276.0,5.73,D016,Rain,Weekday,Completed
+R01,City Center - Airport,BUS-151,Standard,2025-03-05,17:30,18:21,9,44,5280.0,6.6,D028,Clear,Weekday,Completed
+R01,City Center - Airport,BUS-347,AC,2025-02-28,16:00,16:34,1,22,3432.0,10.09,D022,Cloudy,Weekday,Delayed
+R04,East Suburb - Mall Plaza,BUS-282,Standard,2025-02-09,06:00,06:59,7,38,2660.0,9.56,D012,Clear,Weekend,Completed
+R02,North Station - University,BUS-211,Electric,2025-03-03,06:00,07:07,8,34,2346.0,1.91,Unknown,Clear,Weekday,Completed
+R07,Riverside - Stadium,BUS-216,Standard,2025-01-16,21:45,23:06,10,28,2100.0,11.87,D023,Clear,Weekday,Completed
+R07,Riverside - Stadium,BUS-154,AC,2025-03-04,08:00,09:26,26,32,3120.0,8.04,D010,Cloudy,Weekday,Delayed
+R01,City Center - Airport,BUS-244,Standard,2025-02-08,16:45,17:19,1,42,5040.0,5.45,D020,Cloudy,Weekend,Completed
+R01,City Center - Airport,BUS-206,Standard,2025-04-15,08:45,10:08,13,44,5280.0,10.22,D028,Cloudy,Weekday,Completed
+R01,City Center - Airport,BUS-227,Standard,2025-03-09,11:15,11:53,4,25,3000.0,5.61,D021,Clear,Weekend,Completed
+R06,Old Town - Hospital,BUS-171,AC,2025-01-16,18:15,19:54,24,41,2665.0,15.23,D034,Cloudy,Weekday,Delayed
+R06,Old Town - Hospital,BUS-352,AC,2025-01-02,17:30,18:53,9,40,2600.0,15.13,D018,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-361,AC,2025-03-07,09:30,10:29,1,33,4004.0,9.5,D027,Clear,Weekday,Completed
+R05,West Gate - Tech Park,BUS-246,AC,2025-03-11,11:30,12:17,2,23,2691.0,7.36,D020,Cloudy,Weekday,Completed
+R08,South Terminal - Business District,BUS-247,Mini,2025-01-07,08:15,08:59,10,24,2400.0,5.6,Unknown,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-155,Mini,2025-03-20,15:15,16:46,17,12,840.0,12.76,D031,Storm,Weekday,Completed
+R01,City Center - Airport,BUS-123,Standard,2025-03-21,08:45,09:31,10,44,5280.0,7.34,D022,Cloudy,Weekday,Completed
+R06,Old Town - Hospital,BUS-135,AC,2025-04-13,19:30,20:03,3,20,1300.0,5.19,D021,Fog,Weekend,Delayed
+R02,North Station - University,BUS-331,Standard,2025-04-28,13:00,13:44,4,42,2520.0,7.94,D037,Storm,Weekday,Completed
+R03,Harbor - Downtown,BUS-286,Mini,2025-02-21,13:00,14:11,12,21,1680.0,14.14,D027,Clear,Weekday,Completed
+R03,Harbor - Downtown,BUS-185,Electric,2025-04-24,16:00,17:07,2,36,3312.0,1.52,D014,Clear,Weekday,Completed
+R08,South Terminal - Business District,BUS-207,Standard,2025-01-26,08:45,09:49,11,38,3800.0,10.51,D034,Cloudy,Weekend,Completed
+R01,City Center - Airport,BUS-217,AC,2025-03-11,06:00,07:06,8,36,5616.0,10.88,D022,Rain,Weekday,Completed
+R02,North Station - University,BUS-363,AC,2025-04-03,06:45,07:50,11,37,2886.0,12.81,Unknown,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-185,Electric,2025-01-13,20:15,20:58,6,23,1322.5,0.59,D013,Clear,Weekday,Completed
+R01,City Center - Airport,BUS-315,Mini,2025-03-17,17:15,18:10,4,25,3000.0,9.38,D020,Clear,Weekday,Cancelled
+R06,Old Town - Hospital,BUS-309,Standard,2025-01-22,08:30,09:20,8,33,2100.0,8.59,D005,Clear,Weekday,Completed
+R08,South Terminal - Business District,BUS-122,Standard,2025-02-21,10:45,11:49,26,28,2800.0,6.52,D034,Clear,Weekday,Delayed
+R03,Harbor - Downtown,BUS-381,Standard,2025-01-16,09:00,09:58,6,49,3920.0,10.82,D003,Clear,Weekday,Delayed
+R04,East Suburb - Mall Plaza,BUS-227,Electric,2025-01-29,16:15,17:18,8,31,2496.0,1.65,D017,Storm,Weekday,Delayed
+R04,East Suburb - Mall Plaza,BUS-291,Standard,2025-02-08,12:30,13:11,5,40,2800.0,10.22,D026,Clear,Weekend,Completed
+R04,East Suburb - Mall Plaza,BUS-292,Standard,2025-02-01,20:15,21:20,35,24,1680.0,6.65,D033,Clear,Weekend,Delayed
+R02,North Station - University,BUS-169,Standard,2025-02-25,18:30,19:35,11,37,2220.0,11.79,D016,Clear,Weekday,Cancelled
+R02,North Station - University,BUS-327,Standard,2025-03-26,17:30,18:27,27,41,2460.0,5.95,D024,Clear,Weekday,Delayed
+R05,West Gate - Tech Park,BUS-362,AC,2025-02-09,05:45,06:44,6,24,2808.0,12.27,D029,Rain,Weekend,Completed
+R02,North Station - University,BUS-234,Mini,2025-03-10,09:30,10:30,13,23,1380.0,11.94,D014,Clear,Weekday,Delayed
+R01,City Center - Airport,BUS-185,Electric,2025-01-08,06:30,07:54,22,33,3174.0,1.39,D035,Cloudy,Weekday,Delayed
+R03,Harbor - Downtown,BUS-394,Standard,2025-02-24,18:00,19:03,21,33,2880.0,11.18,Unknown,Clear,Weekday,Delayed
+R02,North Station - University,BUS-149,Standard,2025-01-15,07:45,08:29,7,46,2760.0,7.53,D003,Cloudy,Weekday,Cancelled
+R06,Old Town - Hospital,BUS-193,Standard,2025-01-23,19:00,19:48,6,41,2050.0,8.79,D030,Rain,Weekday,Completed
+R08,South Terminal - Business District,BUS-268,Standard,2025-03-12,07:45,08:50,11,36,3600.0,11.52,D029,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-318,Electric,2025-01-09,21:00,21:49,12,20,1150.0,0.11,D016,Rain,Weekday,Completed
+R06,Old Town - Hospital,BUS-112,Electric,2025-02-14,17:00,18:01,13,36,2070.0,0.1,D031,Rain,Weekday,Completed
+R03,Harbor - Downtown,BUS-112,Electric,2025-03-25,22:30,23:17,1,17,1564.0,1.12,D038,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-260,AC,2025-02-17,11:15,12:18,1,34,3094.0,15.0,D017,Clear,Weekday,Delayed
+R02,North Station - University,BUS-238,Standard,2025-01-01,12:45,13:29,2,48,2880.0,10.22,D020,Clear,Weekday,Completed
+R07,Riverside - Stadium,BUS-203,Standard,2025-04-17,11:45,13:00,7,38,2850.0,12.8,D033,Clear,Weekday,Delayed
+R04,East Suburb - Mall Plaza,BUS-301,Standard,2025-02-05,11:30,12:47,20,30,2100.0,12.35,D002,Rain,Weekday,Completed
+R03,Harbor - Downtown,BUS-283,AC,2025-03-17,19:00,19:54,17,40,4160.0,8.86,D034,Clear,Weekday,Delayed
+R08,South Terminal - Business District,BUS-393,AC,2025-03-07,14:00,14:59,10,30,3900.0,8.59,D038,Clear,Weekday,Completed
+R05,West Gate - Tech Park,BUS-151,AC,2025-04-05,07:30,09:02,22,36,4212.0,14.94,D017,Clear,Weekend,Delayed
+R02,North Station - University,BUS-192,Electric,2025-03-06,06:30,07:42,3,35,2415.0,1.2,D022,Clear,Weekday,Delayed
+R01,City Center - Airport,BUS-225,AC,2025-04-30,17:00,18:11,15,38,5928.0,7.62,D020,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-210,Mini,2025-02-16,17:30,18:41,16,16,1120.0,10.51,D006,Clear,Weekend,Completed
+R06,Old Town - Hospital,BUS-399,Standard,2025-02-11,12:30,13:17,2,27,1350.0,7.64,D011,Clear,Weekday,Delayed
+R07,Riverside - Stadium,BUS-389,Standard,2025-04-24,08:00,08:58,8,49,3675.0,12.15,D036,Clear,Weekday,Completed
+R03,Harbor - Downtown,BUS-151,Standard,2025-02-04,12:45,14:39,40,36,2880.0,17.97,D039,Fog,Weekday,Delayed
+R01,City Center - Airport,BUS-157,Standard,2025-04-20,18:45,19:48,11,34,4080.0,9.99,D022,Clear,Weekend,Cancelled
+R07,Riverside - Stadium,BUS-199,Standard,2025-03-22,17:45,18:44,18,36,2700.0,7.89,D003,Fog,Weekend,Cancelled
+R05,West Gate - Tech Park,BUS-279,Electric,2025-03-28,21:45,22:29,14,36,3726.0,0.48,D005,Rain,Weekday,Completed
+R01,City Center - Airport,BUS-314,Standard,2025-01-18,18:00,18:59,22,31,3720.0,10.16,D002,Rain,Weekend,Delayed
+R02,North Station - University,BUS-110,AC,2025-03-20,18:00,19:14,14,37,2886.0,13.73,D002,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-362,Standard,2025-04-18,11:30,12:42,5,25,1750.0,10.22,D023,Cloudy,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-280,Standard,2025-01-08,19:00,19:51,4,35,2450.0,11.42,D039,Clear,Weekday,Completed
+R02,North Station - University,BUS-150,Standard,2025-01-28,17:30,18:10,6,45,2700.0,6.41,D034,Clear,Weekday,Completed
+R08,South Terminal - Business District,BUS-397,Standard,2025-02-05,17:15,18:02,5,38,3800.0,9.37,D036,Clear,Weekday,Completed
+R08,South Terminal - Business District,BUS-171,Standard,2025-02-10,18:00,19:18,10,49,4900.0,10.45,D008,Rain,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-328,Mini,2025-04-06,18:00,18:47,16,19,1330.0,4.93,D003,Rain,Weekend,Completed
+R03,Harbor - Downtown,BUS-100,Standard,2025-03-28,14:30,15:30,22,23,1840.0,5.28,D010,Rain,Weekday,Delayed
+R04,East Suburb - Mall Plaza,BUS-149,AC,2025-04-29,07:00,08:27,23,45,4095.0,10.37,D015,Rain,Weekday,Delayed
+R07,Riverside - Stadium,BUS-226,Standard,2025-02-14,14:45,16:02,9,47,3525.0,12.75,D001,Fog,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-144,Mini,2025-01-04,12:45,13:51,5,11,770.0,12.58,D002,Cloudy,Weekend,Delayed
+R01,City Center - Airport,BUS-304,Electric,2025-01-06,18:45,20:07,13,39,5382.0,0.51,D017,Clear,Weekday,Completed
+R08,South Terminal - Business District,BUS-173,Electric,2025-01-31,17:15,18:10,14,36,4140.0,0.85,D008,Cloudy,Weekday,Completed
+R03,Harbor - Downtown,BUS-100,Electric,2025-03-09,18:00,19:35,27,32,2944.0,1.05,D040,Rain,Weekend,Delayed
+R02,North Station - University,BUS-305,Mini,2025-03-14,14:45,15:41,1,17,1020.0,12.68,D012,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-175,Standard,2025-01-30,17:30,18:31,9,42,2940.0,12.1,D020,Clear,Weekday,Completed
+R08,South Terminal - Business District,BUS-242,Standard,2025-03-01,08:45,09:44,11,42,4200.0,11.32,D011,Clear,Weekend,Delayed
+R05,West Gate - Tech Park,BUS-380,Mini,2025-01-15,07:45,08:57,11,23,2070.0,16.07,D037,Cloudy,Weekday,Completed
+R06,Old Town - Hospital,BUS-252,Standard,2025-01-07,07:45,08:26,11,39,1950.0,7.41,D027,Rain,Weekday,Completed
+R07,Riverside - Stadium,BUS-399,Standard,2025-01-16,08:45,09:56,15,49,3675.0,12.97,D004,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-206,AC,2025-03-17,07:45,09:05,18,33,2145.0,11.2,D004,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-313,Standard,2025-02-05,16:45,17:25,0,23,1150.0,7.63,D006,Clear,Weekday,Completed
+R07,Riverside - Stadium,BUS-391,Electric,2025-03-04,11:15,12:27,3,20,1725.0,0.44,D021,Clear,Weekday,Completed
+R08,South Terminal - Business District,BUS-137,Mini,2025-02-22,09:30,10:47,3,19,1900.0,16.45,D001,Cloudy,Weekend,Completed
+R04,East Suburb - Mall Plaza,BUS-194,Mini,2025-02-06,07:00,07:49,16,22,1540.0,6.16,D025,Cloudy,Weekday,Completed
+R06,Old Town - Hospital,BUS-267,Mini,2025-04-09,15:00,15:39,0,16,800.0,5.76,D035,Clear,Weekday,Completed
+R01,City Center - Airport,BUS-334,Standard,2025-04-24,09:45,11:14,16,20,2400.0,14.56,D017,Clear,Weekday,Cancelled
+R05,West Gate - Tech Park,BUS-327,AC,2025-04-19,16:15,17:33,4,38,4446.0,15.12,D038,Clear,Weekend,Completed
+R01,City Center - Airport,BUS-272,Standard,2025-04-28,10:00,11:21,10,46,5520.0,16.54,D020,Cloudy,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-354,Standard,2025-04-15,06:00,07:16,10,22,1540.0,9.98,D021,Cloudy,Weekday,Completed
+R07,Riverside - Stadium,BUS-353,AC,2025-01-01,07:15,08:32,9,41,3997.5,14.33,D027,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-363,AC,2025-01-08,18:30,19:30,9,37,3367.0,11.19,D031,Cloudy,Weekday,Delayed
+R06,Old Town - Hospital,BUS-164,Mini,2025-01-04,08:00,09:04,12,17,850.0,11.26,D009,Clear,Weekend,Completed
+R02,North Station - University,BUS-113,AC,2025-03-25,10:30,11:19,13,39,3042.0,6.17,D011,Rain,Weekday,Completed
+R01,City Center - Airport,BUS-368,Standard,2025-01-17,18:15,19:39,9,42,5040.0,14.39,D005,Clear,Weekday,Completed
+R08,South Terminal - Business District,BUS-288,AC,2025-02-16,06:15,07:25,2,33,3380.0,10.09,D040,Clear,Weekend,Cancelled
+R02,North Station - University,BUS-137,AC,2025-04-10,10:30,11:23,5,21,1638.0,11.22,D032,Rain,Weekday,Completed
+R03,Harbor - Downtown,BUS-359,Standard,2025-01-10,07:15,08:12,12,37,2960.0,8.79,D015,Cloudy,Weekday,Completed
+R03,Harbor - Downtown,BUS-353,Electric,2025-03-02,17:00,18:10,17,24,2208.0,0.58,D006,Clear,Weekend,Delayed
+R05,West Gate - Tech Park,BUS-349,Electric,2025-01-11,10:00,11:32,24,33,3415.5,0.27,D036,Rain,Weekend,Delayed
+R08,South Terminal - Business District,BUS-370,AC,2025-01-15,17:15,18:39,10,35,4550.0,16.7,D006,Clear,Weekday,Completed
+R05,West Gate - Tech Park,BUS-271,Standard,2025-02-16,12:15,13:09,5,32,2880.0,8.46,D010,Clear,Weekend,Completed
+R07,Riverside - Stadium,BUS-260,AC,2025-04-26,08:30,09:25,14,38,3705.0,7.37,D039,Clear,Weekend,Completed
+R05,West Gate - Tech Park,BUS-332,AC,2025-04-07,07:15,08:26,32,44,5148.0,6.94,D024,Rain,Weekday,Cancelled
+R04,East Suburb - Mall Plaza,BUS-260,Standard,2025-02-21,08:15,09:45,16,47,3290.0,10.93,D018,Cloudy,Weekday,Delayed
+R05,West Gate - Tech Park,BUS-363,Electric,2025-01-31,17:00,17:53,15,37,3829.5,0.07,D007,Cloudy,Weekday,Completed
+R01,City Center - Airport,BUS-359,Standard,2025-04-04,08:00,09:02,17,41,4920.0,7.67,D008,Fog,Weekday,Completed
+R01,City Center - Airport,BUS-313,Standard,2025-01-15,20:30,21:13,9,43,5160.0,9.49,D033,Rain,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-145,Standard,2025-04-09,10:15,11:31,3,23,1610.0,13.09,D003,Clear,Weekday,Completed
+R05,West Gate - Tech Park,BUS-242,Standard,2025-01-21,06:00,06:42,2,41,3690.0,10.22,D031,Clear,Weekday,Completed
+R05,West Gate - Tech Park,BUS-218,Electric,2025-01-16,05:30,06:47,4,23,2380.5,1.97,D006,Clear,Weekday,Completed
+R07,Riverside - Stadium,BUS-133,Standard,2025-01-03,16:00,17:33,23,33,2775.0,18.1,D015,Clear,Weekday,Delayed
+R04,East Suburb - Mall Plaza,BUS-245,AC,2025-03-01,06:45,07:45,10,22,2002.0,9.89,D015,Clear,Weekend,Completed
+R07,Riverside - Stadium,BUS-392,Standard,2025-03-08,06:15,07:11,4,22,1650.0,7.4,D019,Clear,Weekend,Delayed
+R03,Harbor - Downtown,BUS-209,Electric,2025-03-03,20:30,22:09,24,30,2760.0,0.95,D003,Rain,Weekday,Delayed
+R01,City Center - Airport,BUS-195,Standard,2025-04-16,20:00,20:50,6,36,4320.0,10.22,Unknown,Clear,Weekday,Completed
+R02,North Station - University,BUS-234,Mini,2025-01-18,20:15,21:28,4,12,720.0,13.02,D005,Clear,Weekend,Completed
+R05,West Gate - Tech Park,BUS-395,Standard,2025-04-29,08:15,09:17,23,41,3690.0,10.19,D032,Clear,Weekday,Delayed
+R06,Old Town - Hospital,BUS-215,AC,2025-03-08,14:00,14:32,0,24,1560.0,7.99,D008,Clear,Weekend,Completed
+R02,North Station - University,BUS-314,Standard,2025-03-16,12:15,13:01,15,33,1980.0,6.64,D017,Rain,Weekend,Completed
+R07,Riverside - Stadium,BUS-310,Electric,2025-03-31,06:15,06:54,1,37,3191.25,1.37,D025,Cloudy,Weekday,Completed
+R07,Riverside - Stadium,BUS-236,Mini,2025-02-26,07:45,09:15,17,25,1875.0,10.0,D039,Fog,Weekday,Delayed
+R04,East Suburb - Mall Plaza,BUS-207,Mini,2025-02-22,07:15,07:55,6,18,1260.0,6.68,D028,Clear,Weekend,Delayed
+R04,East Suburb - Mall Plaza,BUS-220,Mini,2025-03-20,08:45,09:30,9,21,1470.0,5.27,D021,Clear,Weekday,Completed
+R08,South Terminal - Business District,BUS-155,Electric,2025-02-01,11:00,12:09,4,24,2760.0,0.33,D001,Clear,Weekend,Completed
+R03,Harbor - Downtown,BUS-141,AC,2025-04-17,15:45,16:51,1,23,2392.0,14.13,D002,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-137,Standard,2025-01-10,15:15,16:35,7,23,1150.0,9.78,D035,Clear,Weekday,Completed
+R03,Harbor - Downtown,BUS-267,AC,2025-03-04,16:30,17:29,8,28,2912.0,9.7,D009,Clear,Weekday,Completed
+R08,South Terminal - Business District,BUS-274,Standard,2025-01-30,14:45,15:59,1,24,2400.0,17.08,D017,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-177,Mini,2025-01-09,19:45,21:02,8,21,1470.0,11.26,D016,Rain,Weekday,Completed
+R05,West Gate - Tech Park,BUS-127,Standard,2025-01-12,14:15,14:49,2,42,3780.0,6.75,D035,Clear,Weekend,Completed
+R03,Harbor - Downtown,BUS-230,Standard,2025-04-03,09:15,09:59,9,45,3600.0,6.88,D012,Fog,Weekday,Completed
+R05,West Gate - Tech Park,BUS-142,Standard,2025-02-13,18:30,19:38,9,41,3690.0,8.37,D040,Clear,Weekday,Completed
+R05,West Gate - Tech Park,BUS-320,Electric,2025-04-26,07:45,08:48,11,31,3208.5,1.59,D009,Clear,Weekend,Delayed
+R07,Riverside - Stadium,BUS-375,Standard,2025-04-07,19:45,20:47,8,43,3225.0,8.78,D017,Clear,Weekday,Completed
+R01,City Center - Airport,BUS-216,Standard,2025-04-23,13:15,14:20,10,43,5160.0,10.98,Unknown,Rain,Weekday,Delayed
+R06,Old Town - Hospital,BUS-373,Standard,2025-04-14,17:15,18:04,10,44,2200.0,6.89,D039,Clear,Weekday,Completed
+R02,North Station - University,BUS-372,Electric,2025-02-04,15:00,16:04,4,31,2139.0,0.82,D032,Clear,Weekday,Completed
+R03,Harbor - Downtown,BUS-316,Electric,2025-04-15,07:15,08:13,11,29,2668.0,0.87,D004,Cloudy,Weekday,Completed
+R06,Old Town - Hospital,BUS-359,AC,2025-03-16,06:00,06:50,11,19,1235.0,6.6,D028,Fog,Weekend,Completed
+R03,Harbor - Downtown,BUS-395,Standard,2025-04-12,21:30,22:36,2,19,1520.0,10.51,D013,Cloudy,Weekend,Completed
+R04,East Suburb - Mall Plaza,BUS-374,Electric,2025-03-08,18:15,19:25,14,26,2093.0,0.07,D025,Clear,Weekend,Completed
+R05,West Gate - Tech Park,BUS-210,AC,2025-03-24,07:00,08:12,15,33,3861.0,10.09,D002,Rain,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-134,Standard,2025-03-10,19:00,19:45,7,35,2450.0,7.45,D039,Rain,Weekday,Completed
+R08,South Terminal - Business District,BUS-240,AC,2025-02-12,06:15,07:32,8,33,2730.0,11.33,D010,Cloudy,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-116,AC,2025-03-31,15:45,16:28,5,36,3276.0,8.69,D026,Clear,Weekday,Completed
+R07,Riverside - Stadium,BUS-157,Electric,2025-02-06,19:45,20:32,1,33,2846.25,1.96,D034,Clear,Weekday,Completed
+R01,City Center - Airport,BUS-169,Standard,2025-01-13,22:15,23:33,26,27,3240.0,8.57,D009,Cloudy,Weekday,Delayed
+R03,Harbor - Downtown,BUS-119,Electric,2025-02-04,08:00,09:01,10,37,3404.0,0.85,D009,Cloudy,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-322,Standard,2025-02-05,20:00,20:57,8,34,2380.0,11.2,D016,Clear,Weekday,Completed
+R03,Harbor - Downtown,BUS-358,AC,2025-02-20,18:00,18:56,21,41,4264.0,7.15,D033,Storm,Weekday,Delayed
+R04,East Suburb - Mall Plaza,BUS-255,Standard,2025-02-10,06:00,07:13,12,33,2310.0,9.07,Unknown,Clear,Weekday,Completed
+R07,Riverside - Stadium,BUS-243,AC,2025-01-11,07:45,09:14,27,35,3412.5,13.26,D004,Clear,Weekend,Delayed
+R04,East Suburb - Mall Plaza,BUS-320,AC,2025-03-18,15:30,16:57,10,37,3367.0,17.02,D024,Rain,Weekday,Completed
+R08,South Terminal - Business District,BUS-263,Electric,2025-02-05,07:00,07:59,14,36,4140.0,0.39,D004,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-242,Standard,2025-01-07,15:45,16:49,12,30,1500.0,10.83,D008,Fog,Weekday,Completed
+R01,City Center - Airport,BUS-374,Electric,2025-01-11,09:45,10:31,10,25,3450.0,0.56,D017,Rain,Weekend,Completed
+R04,East Suburb - Mall Plaza,BUS-175,Standard,2025-01-04,07:45,09:14,30,32,2240.0,10.72,D002,Cloudy,Weekend,Delayed
+R03,Harbor - Downtown,BUS-245,Standard,2025-03-05,08:45,10:13,19,47,3760.0,11.52,D020,Clear,Weekday,Completed
+R07,Riverside - Stadium,BUS-146,AC,2025-03-14,07:45,08:46,8,44,4290.0,9.35,D031,Cloudy,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-184,Standard,2025-04-05,14:00,14:55,6,22,1540.0,10.88,D031,Cloudy,Weekend,Completed
+R08,South Terminal - Business District,BUS-214,AC,2025-01-31,11:15,12:02,0,37,4810.0,9.36,D003,Clear,Weekday,Completed
+R05,West Gate - Tech Park,BUS-337,AC,2025-03-26,17:45,19:00,10,34,3978.0,13.43,D039,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-153,Standard,2025-03-27,17:15,18:22,5,47,3290.0,11.25,D024,Clear,Weekday,Completed
+R08,South Terminal - Business District,BUS-317,Standard,2025-03-06,14:45,15:19,3,42,4200.0,6.68,D036,Clear,Weekday,Completed
+R01,City Center - Airport,BUS-253,Standard,2025-02-03,17:45,18:49,24,41,4920.0,9.71,D037,Fog,Weekday,Delayed
+R08,South Terminal - Business District,BUS-254,Electric,2025-01-27,10:15,11:25,12,28,3220.0,0.26,D013,Rain,Weekday,Completed
+R03,Harbor - Downtown,BUS-161,Standard,2025-03-19,11:30,12:11,8,40,3200.0,6.32,D009,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-127,AC,2025-02-06,18:00,19:28,18,36,2340.0,13.04,D002,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-193,AC,2025-03-05,06:15,07:36,18,25,1625.0,12.36,D027,Clear,Weekday,Completed
+R02,North Station - University,BUS-331,AC,2025-02-21,11:15,12:19,9,29,2262.0,10.09,D033,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-276,Standard,2025-03-18,16:45,17:58,6,38,2660.0,14.0,D008,Clear,Weekday,Completed
+R02,North Station - University,BUS-185,Electric,2025-03-31,19:15,20:17,5,27,1863.0,0.14,D029,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-106,Standard,2025-04-22,18:30,19:28,10,40,2000.0,9.77,D014,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-171,Standard,2025-04-03,14:30,15:21,12,29,1450.0,6.21,D005,Rain,Weekday,Completed
+R08,South Terminal - Business District,BUS-153,Electric,2025-04-08,08:15,09:21,16,35,4025.0,0.01,D012,Fog,Weekday,Completed
+R07,Riverside - Stadium,BUS-170,AC,2025-04-09,16:30,17:13,8,21,2047.5,7.18,D012,Cloudy,Weekday,Cancelled
+R05,West Gate - Tech Park,BUS-300,Electric,2025-04-04,21:30,22:39,7,24,2484.0,1.37,D020,Clear,Weekday,Completed
+R05,West Gate - Tech Park,BUS-130,Standard,2025-03-11,10:45,11:19,1,44,3960.0,6.67,D040,Cloudy,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-398,Standard,2025-01-09,18:30,19:51,24,43,3010.0,7.17,D007,Rain,Weekday,Delayed
+R06,Old Town - Hospital,BUS-231,Standard,2025-04-30,18:45,19:44,20,45,2250.0,6.96,D009,Clear,Weekday,Completed
+R03,Harbor - Downtown,BUS-201,AC,2025-02-15,13:00,14:20,29,36,3744.0,11.65,D009,Fog,Weekend,Delayed
+R01,City Center - Airport,BUS-149,Standard,2025-02-24,08:15,09:40,11,39,4680.0,10.2,D025,Clear,Weekday,Completed
+R05,West Gate - Tech Park,BUS-235,AC,2025-01-09,07:00,08:32,19,34,3978.0,17.07,D003,Rain,Weekday,Delayed
+R06,Old Town - Hospital,BUS-279,Mini,2025-02-25,16:30,17:24,15,14,700.0,7.91,D039,Clear,Weekday,Completed
+R03,Harbor - Downtown,BUS-329,Electric,2025-02-16,11:00,11:49,6,20,1840.0,1.62,D006,Clear,Weekend,Completed
+R04,East Suburb - Mall Plaza,BUS-141,Standard,2025-04-26,11:45,13:05,16,36,2520.0,15.73,D038,Clear,Weekend,Completed
+R04,East Suburb - Mall Plaza,BUS-358,Standard,2025-03-25,08:15,09:07,4,37,2590.0,11.88,D019,Clear,Weekday,Completed
+R02,North Station - University,BUS-239,Mini,2025-04-09,20:30,22:03,22,15,900.0,12.33,D023,Rain,Weekday,Delayed
+R03,Harbor - Downtown,BUS-305,Electric,2025-02-09,07:00,07:47,5,24,2208.0,1.72,D003,Clear,Weekend,Delayed
+R07,Riverside - Stadium,BUS-213,AC,2025-01-15,19:45,20:39,10,39,3802.5,9.7,D040,Clear,Weekday,Delayed
+R01,City Center - Airport,BUS-105,Mini,2025-04-15,17:15,18:44,14,18,2160.0,12.43,D031,Clear,Weekday,Completed
+R02,North Station - University,BUS-326,Standard,2025-03-09,21:45,22:44,9,21,1260.0,8.87,D016,Clear,Weekend,Completed
+R07,Riverside - Stadium,BUS-216,AC,2025-04-26,12:30,13:57,14,17,1657.5,10.13,D032,Fog,Weekend,Completed
+R04,East Suburb - Mall Plaza,BUS-397,AC,2025-01-24,16:00,17:22,27,28,2548.0,9.19,D001,Cloudy,Weekday,Delayed
+R01,City Center - Airport,BUS-335,Standard,2025-04-17,15:45,17:06,18,33,3480.0,10.15,D040,Rain,Weekday,Completed
+R03,Harbor - Downtown,BUS-189,Standard,2025-04-17,08:15,09:18,17,45,3600.0,10.51,D004,Rain,Weekday,Completed
+R06,Old Town - Hospital,BUS-242,Standard,2025-01-17,17:00,18:15,14,46,2300.0,9.54,D009,Clear,Weekday,Completed
+R07,Riverside - Stadium,BUS-157,Standard,2025-04-07,08:45,10:12,23,47,3525.0,10.3,D012,Rain,Weekday,Delayed
+R08,South Terminal - Business District,BUS-217,AC,2025-01-08,19:30,20:21,11,37,4810.0,10.38,D040,Rain,Weekday,Completed
+R05,West Gate - Tech Park,BUS-316,AC,2025-04-01,06:45,07:39,2,39,4563.0,8.67,D040,Clear,Weekday,Completed
+R01,City Center - Airport,BUS-251,Standard,2025-03-03,05:00,06:11,1,36,4320.0,13.87,D015,Clear,Weekday,Completed
+R01,City Center - Airport,BUS-270,Standard,2025-01-16,10:15,11:04,2,25,3000.0,11.33,D021,Clear,Weekday,Completed
+R05,West Gate - Tech Park,BUS-274,Standard,2025-03-13,16:45,17:23,5,41,3690.0,6.27,Unknown,Clear,Weekday,Completed
+R03,Harbor - Downtown,BUS-186,Standard,2025-02-25,08:00,09:19,4,35,2800.0,14.98,D012,Clear,Weekday,Delayed
+R06,Old Town - Hospital,BUS-389,Standard,2025-04-13,12:45,13:48,17,19,950.0,7.51,D020,Cloudy,Weekend,Completed
+R07,Riverside - Stadium,BUS-164,Electric,2025-02-11,10:00,10:36,4,29,2501.25,1.91,D006,Cloudy,Weekday,Delayed
+R01,City Center - Airport,BUS-119,AC,2025-02-11,13:15,14:14,3,41,6396.0,13.2,D016,Clear,Weekday,Completed
+R08,South Terminal - Business District,BUS-229,Mini,2025-03-14,21:45,22:17,1,25,1900.0,6.83,D012,Clear,Weekday,Completed
+R03,Harbor - Downtown,BUS-348,Standard,2025-03-11,16:30,17:54,14,30,2400.0,15.14,D008,Cloudy,Weekday,Completed
+R02,North Station - University,BUS-386,Standard,2025-02-09,15:45,16:26,4,22,1320.0,5.77,D024,Cloudy,Weekend,Completed
+R03,Harbor - Downtown,BUS-229,Electric,2025-03-12,17:45,18:58,15,31,2852.0,0.03,D023,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-176,AC,2025-01-07,20:15,21:05,6,39,2535.0,8.51,D040,Rain,Weekday,Completed
+R05,West Gate - Tech Park,BUS-336,Mini,2025-04-28,06:30,07:12,9,25,1620.0,6.6,D023,Clear,Weekday,Completed
+R01,City Center - Airport,BUS-271,Standard,2025-04-10,19:15,20:25,12,42,5040.0,8.25,D039,Rain,Weekday,Completed
+R01,City Center - Airport,BUS-179,Standard,2025-01-22,07:30,08:50,17,40,4800.0,13.43,D004,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-277,AC,2025-02-26,07:15,08:13,10,43,2795.0,10.08,D015,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-363,AC,2025-01-16,18:45,19:54,17,35,3185.0,7.75,D029,Rain,Weekday,Completed
+R06,Old Town - Hospital,BUS-312,AC,2025-01-22,09:45,10:56,1,29,1885.0,11.2,D031,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-173,AC,2025-04-01,17:15,18:37,13,33,2145.0,12.95,D032,Clear,Weekday,Completed
+R07,Riverside - Stadium,BUS-265,AC,2025-03-27,08:00,09:07,28,33,3217.5,8.97,D039,Fog,Weekday,Delayed
+R04,East Suburb - Mall Plaza,BUS-381,AC,2025-03-25,17:30,18:29,4,36,3276.0,10.1,D039,Clear,Weekday,Completed
+R08,South Terminal - Business District,BUS-220,Mini,2025-02-26,08:45,09:48,12,21,2100.0,9.81,D014,Clear,Weekday,Completed
+R01,City Center - Airport,BUS-268,Standard,2025-01-15,07:15,08:37,32,45,5400.0,8.88,D024,Storm,Weekday,Delayed
+R02,North Station - University,BUS-329,AC,2025-04-06,16:15,16:57,3,21,1638.0,6.46,D022,Clear,Weekend,Completed
+R01,City Center - Airport,BUS-217,Mini,2025-03-23,18:30,19:13,11,16,1920.0,8.47,D039,Clear,Weekend,Completed
+R01,City Center - Airport,BUS-275,AC,2025-04-30,09:15,10:41,19,28,4368.0,14.97,D012,Rain,Weekday,Completed
+R02,North Station - University,BUS-157,AC,2025-04-12,18:30,19:16,9,37,2886.0,9.76,D031,Clear,Weekend,Completed
+R02,North Station - University,BUS-367,Mini,2025-01-30,19:45,20:46,0,25,1500.0,12.37,D018,Clear,Weekday,Cancelled
+R02,North Station - University,BUS-116,Standard,2025-02-17,19:00,19:49,8,24,1440.0,5.53,D007,Clear,Weekday,Completed
+R02,North Station - University,BUS-391,Standard,2025-03-12,08:00,08:49,8,36,2160.0,7.91,D001,Clear,Weekday,Completed
+R02,North Station - University,BUS-226,Electric,2025-01-10,16:30,17:36,1,23,1587.0,0.33,D019,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-249,AC,2025-04-22,17:45,18:46,6,38,3458.0,12.67,D017,Clear,Weekday,Completed
+R07,Riverside - Stadium,BUS-184,AC,2025-03-30,11:30,12:19,1,20,1950.0,7.28,D008,Clear,Weekend,Completed
+R07,Riverside - Stadium,BUS-379,AC,2025-03-23,16:15,17:18,16,24,2340.0,6.53,D008,Cloudy,Weekend,Completed
+R03,Harbor - Downtown,BUS-259,Mini,2025-02-05,15:15,16:57,27,14,1120.0,11.52,D031,Cloudy,Weekday,Delayed
+R07,Riverside - Stadium,BUS-212,AC,2025-02-24,07:15,07:57,9,40,3900.0,7.97,D017,Cloudy,Weekday,Delayed
+R06,Old Town - Hospital,BUS-276,AC,2025-01-03,08:45,10:16,28,41,2665.0,14.0,D036,Storm,Weekday,Delayed
+R02,North Station - University,BUS-194,Mini,2025-01-25,15:45,17:03,10,10,600.0,11.74,D013,Rain,Weekend,Completed
+R01,City Center - Airport,BUS-323,Standard,2025-03-26,12:45,14:01,2,39,4680.0,12.6,D005,Clear,Weekday,Completed
+R01,City Center - Airport,BUS-150,AC,2025-02-17,17:45,18:35,13,36,5616.0,6.15,D008,Cloudy,Weekday,Delayed
+R06,Old Town - Hospital,BUS-197,AC,2025-04-24,16:30,17:38,30,38,2470.0,5.77,D038,Cloudy,Weekday,Delayed
+R07,Riverside - Stadium,BUS-135,Standard,2025-02-11,12:30,13:40,9,47,3525.0,10.22,D013,Rain,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-124,Electric,2025-01-24,17:15,18:59,45,32,2576.0,0.03,D037,Clear,Weekday,Delayed
+R01,City Center - Airport,BUS-354,Standard,2025-02-20,07:15,08:42,22,36,4320.0,10.22,D009,Storm,Weekday,Delayed
+R03,Harbor - Downtown,BUS-134,Mini,2025-02-19,15:00,15:35,1,17,1360.0,8.16,D017,Clear,Weekday,Completed
+R01,City Center - Airport,BUS-128,Mini,2025-02-06,06:15,08:00,32,11,1320.0,15.69,D003,Rain,Weekday,Delayed
+R04,East Suburb - Mall Plaza,BUS-261,AC,2025-02-22,18:15,19:28,15,29,2639.0,9.37,D022,Clear,Weekend,Completed
+R02,North Station - University,BUS-363,AC,2025-04-24,18:15,19:42,14,44,3432.0,10.76,D008,Clear,Weekday,Completed
+R07,Riverside - Stadium,BUS-188,AC,2025-04-15,08:45,10:10,17,34,3315.0,12.94,D003,Clear,Weekday,Cancelled
+R05,West Gate - Tech Park,BUS-115,AC,2025-04-02,08:45,09:42,17,42,4914.0,8.78,D012,Fog,Weekday,Completed
+R05,West Gate - Tech Park,BUS-181,Standard,2025-03-10,18:15,19:29,19,38,3420.0,12.2,D031,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-189,AC,2025-02-12,11:30,12:31,3,21,1911.0,12.14,D011,Rain,Weekday,Completed
+R05,West Gate - Tech Park,BUS-231,Electric,2025-03-07,08:15,09:22,12,35,3622.5,0.85,D038,Rain,Weekday,Delayed
+R07,Riverside - Stadium,BUS-358,Electric,2025-01-10,07:45,08:59,7,39,3363.75,0.75,D015,Clear,Weekday,Completed
+R05,West Gate - Tech Park,BUS-112,Standard,2025-04-11,14:30,15:31,4,23,2070.0,12.77,D018,Cloudy,Weekday,Completed
+R03,Harbor - Downtown,BUS-139,Standard,2025-01-14,10:00,11:10,14,21,1680.0,8.88,D025,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-226,AC,2025-03-06,18:30,19:44,19,39,3549.0,11.53,D021,Rain,Weekday,Completed
+R01,City Center - Airport,BUS-295,AC,2025-01-21,08:30,09:33,11,40,6240.0,8.4,D007,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-203,AC,2025-02-28,07:15,08:28,20,35,2275.0,10.44,D013,Rain,Weekday,Completed
+R08,South Terminal - Business District,BUS-328,Standard,2025-04-05,18:15,19:09,13,31,3100.0,8.83,D033,Clear,Weekend,Completed
+R05,West Gate - Tech Park,BUS-397,AC,2025-04-07,18:45,20:02,8,37,4329.0,9.56,D034,Cloudy,Weekday,Completed
+R07,Riverside - Stadium,BUS-277,AC,2025-03-24,07:30,08:57,12,38,3705.0,12.36,D020,Clear,Weekday,Completed
+R08,South Terminal - Business District,BUS-233,AC,2025-04-24,16:15,17:28,1,19,2470.0,11.37,D008,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-167,Standard,2025-03-04,21:45,22:21,5,32,2240.0,5.92,D018,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-255,AC,2025-03-25,07:45,08:48,5,44,4004.0,13.71,D003,Cloudy,Weekday,Completed
+R06,Old Town - Hospital,BUS-208,Standard,2025-01-29,18:30,19:41,14,35,1750.0,11.02,D037,Clear,Weekday,Cancelled
+R07,Riverside - Stadium,BUS-298,Electric,2025-02-18,07:45,08:39,11,29,2501.25,1.49,D007,Clear,Weekday,Completed
+R01,City Center - Airport,BUS-365,AC,2025-02-03,05:00,05:52,1,37,5772.0,9.85,D040,Clear,Weekday,Delayed
+R03,Harbor - Downtown,BUS-261,Standard,2025-01-13,08:45,10:01,34,36,2880.0,6.84,D027,Fog,Weekday,Delayed
+R06,Old Town - Hospital,BUS-369,Standard,2025-02-19,16:15,16:55,5,21,1050.0,8.5,D031,Clear,Weekday,Completed
+R01,City Center - Airport,BUS-236,AC,2025-02-12,06:00,07:23,9,24,3744.0,16.35,D004,Rain,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-387,Standard,2025-03-06,09:45,10:16,1,47,3290.0,6.44,D004,Clear,Weekday,Completed
+R08,South Terminal - Business District,BUS-211,Standard,2025-04-15,17:45,18:59,6,49,4900.0,14.9,D002,Cloudy,Weekday,Completed
+R06,Old Town - Hospital,BUS-198,Standard,2025-03-28,07:30,08:57,16,42,2100.0,16.89,D014,Rain,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-222,AC,2025-04-30,08:45,09:40,15,45,4095.0,8.9,D001,Clear,Weekday,Cancelled
+R03,Harbor - Downtown,BUS-230,AC,2025-03-01,14:30,15:29,26,22,2288.0,6.96,D034,Storm,Weekend,Delayed
+R01,City Center - Airport,BUS-158,Standard,2025-01-22,07:45,08:37,16,48,5760.0,4.99,D015,Rain,Weekday,Completed
+R03,Harbor - Downtown,BUS-177,AC,2025-02-20,14:30,15:15,4,44,4576.0,8.14,D018,Clear,Weekday,Completed
+R01,City Center - Airport,BUS-215,Electric,2025-04-23,07:30,08:25,13,34,4692.0,0.23,D011,Clear,Weekday,Completed
+R08,South Terminal - Business District,BUS-382,Electric,2025-02-02,21:00,21:46,13,24,2760.0,1.08,D016,Rain,Weekend,Completed
+R04,East Suburb - Mall Plaza,BUS-318,Electric,2025-03-11,06:00,06:37,4,19,1529.5,1.61,D017,Clear,Weekday,Completed
+R07,Riverside - Stadium,BUS-142,AC,2025-03-27,13:30,14:17,12,23,2242.0,6.25,D021,Clear,Weekday,Completed
+R01,City Center - Airport,BUS-168,AC,2025-03-19,16:45,18:17,21,31,4836.0,13.93,D006,Rain,Weekday,Delayed
+R05,West Gate - Tech Park,BUS-282,Standard,2025-01-10,12:45,13:58,9,43,3870.0,12.65,D013,Storm,Weekday,Cancelled
+R08,South Terminal - Business District,BUS-295,Mini,2025-01-03,12:15,13:26,0,24,2400.0,12.89,D014,Clear,Weekday,Delayed
+R07,Riverside - Stadium,BUS-285,AC,2025-01-05,22:00,23:18,13,21,2047.5,14.98,D012,Clear,Weekend,Cancelled
+R02,North Station - University,BUS-259,Standard,2025-01-17,19:45,20:46,10,37,2220.0,9.95,D015,Rain,Weekday,Completed
+R02,North Station - University,BUS-178,AC,2025-02-05,07:45,08:50,9,45,3510.0,11.18,D003,Cloudy,Weekday,Completed
+R08,South Terminal - Business District,BUS-356,Mini,2025-02-07,15:00,15:38,5,22,2200.0,7.95,D008,Rain,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-195,AC,2025-01-07,11:00,12:27,15,35,3185.0,13.44,D017,Fog,Weekday,Cancelled
+R05,West Gate - Tech Park,BUS-358,Standard,2025-04-05,07:45,08:47,12,30,2700.0,7.78,D028,Clear,Weekend,Completed
+R02,North Station - University,BUS-206,Standard,2025-01-05,11:00,11:59,15,38,2280.0,11.31,D016,Rain,Weekend,Completed
+R05,West Gate - Tech Park,BUS-294,Standard,2025-01-04,18:45,19:40,11,30,2700.0,9.17,D024,Rain,Weekend,Completed
+R02,North Station - University,BUS-294,Mini,2025-03-21,19:45,20:48,2,10,600.0,13.95,D014,Clear,Weekday,Completed
+R01,City Center - Airport,BUS-177,AC,2025-01-25,17:15,18:17,22,35,5460.0,7.91,D004,Clear,Weekend,Delayed
+R07,Riverside - Stadium,BUS-253,Standard,2025-02-28,18:15,19:02,6,36,2700.0,8.94,D018,Clear,Weekday,Completed
+R07,Riverside - Stadium,BUS-338,Standard,2025-02-27,16:15,17:27,4,41,3075.0,11.6,D009,Fog,Weekday,Completed
+R07,Riverside - Stadium,BUS-322,Electric,2025-02-18,17:30,18:20,8,39,3364.0,0.66,D040,Cloudy,Weekday,Delayed
+R08,South Terminal - Business District,BUS-140,Standard,2025-02-21,05:45,06:39,17,26,2600.0,5.93,D005,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-249,AC,2025-04-02,17:00,18:04,16,40,3640.0,9.99,D016,Rain,Weekday,Completed
+R06,Old Town - Hospital,BUS-149,Electric,2025-04-28,09:00,10:03,9,29,1667.5,0.58,D009,Rain,Weekday,Cancelled
+R02,North Station - University,BUS-192,Standard,2025-01-19,09:45,10:25,5,33,1080.0,10.22,D010,Storm,Weekend,Completed
+R07,Riverside - Stadium,BUS-367,Standard,2025-01-01,07:45,08:41,16,49,3675.0,10.15,D034,Clear,Weekday,Cancelled
+R03,Harbor - Downtown,BUS-207,Mini,2025-02-26,07:45,08:58,16,24,1920.0,13.19,D020,Clear,Weekday,Cancelled
+R05,West Gate - Tech Park,BUS-390,Standard,2025-03-05,19:45,20:32,13,32,2880.0,10.22,D001,Rain,Weekday,Completed
+R01,City Center - Airport,BUS-342,Standard,2025-01-05,17:45,18:52,21,33,3960.0,9.88,D009,Clear,Weekend,Delayed
+R07,Riverside - Stadium,BUS-123,Standard,2025-03-13,08:45,10:12,15,41,3075.0,13.11,D025,Clear,Weekday,Completed
+R08,South Terminal - Business District,BUS-397,Standard,2025-04-30,21:45,22:28,8,33,3300.0,4.78,D027,Rain,Weekday,Cancelled
+R06,Old Town - Hospital,BUS-142,Standard,2025-02-21,07:00,07:56,15,43,2150.0,9.23,D035,Rain,Weekday,Completed
+R07,Riverside - Stadium,BUS-253,Mini,2025-02-09,10:30,11:37,10,19,1425.0,13.84,D026,Clear,Weekend,Completed
+R05,West Gate - Tech Park,BUS-257,AC,2025-04-26,18:15,19:05,7,35,4095.0,8.53,D039,Clear,Weekend,Completed
+R04,East Suburb - Mall Plaza,BUS-205,Standard,2025-03-26,19:15,20:44,18,28,1960.0,12.12,D008,Clear,Weekday,Completed
+R02,North Station - University,BUS-177,Mini,2025-03-17,10:15,11:19,5,12,720.0,13.95,D026,Clear,Weekday,Completed
+R02,North Station - University,BUS-244,AC,2025-04-12,06:00,07:19,10,32,2496.0,9.1,D007,Clear,Weekend,Delayed
+R03,Harbor - Downtown,BUS-205,AC,2025-04-16,12:00,12:50,2,34,3536.0,10.31,D034,Cloudy,Weekday,Completed
+R08,South Terminal - Business District,BUS-330,AC,2025-04-25,07:15,08:41,15,34,4420.0,16.48,D033,Cloudy,Weekday,Cancelled
+R07,Riverside - Stadium,BUS-272,Standard,2025-03-07,19:15,20:15,8,41,3075.0,8.61,D008,Fog,Weekday,Completed
+R02,North Station - University,BUS-119,Standard,2025-03-02,12:30,13:25,9,25,1500.0,9.24,D009,Fog,Weekend,Completed
+R08,South Terminal - Business District,BUS-104,Mini,2025-04-24,18:30,19:22,5,20,2000.0,7.77,D028,Clear,Weekday,Delayed
+R03,Harbor - Downtown,BUS-318,Standard,2025-03-24,07:15,08:29,22,43,3440.0,11.62,D025,Cloudy,Weekday,Delayed
+R02,North Station - University,BUS-238,Standard,2025-01-10,09:00,09:46,4,29,1740.0,10.02,D028,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-320,Standard,2025-02-05,19:45,20:58,11,33,1890.0,10.04,D006,Clear,Weekday,Completed
+R03,Harbor - Downtown,BUS-334,Standard,2025-03-21,18:30,19:46,19,36,2880.0,7.59,D029,Clear,Weekday,Completed
+R01,City Center - Airport,BUS-245,AC,2025-03-22,08:45,09:32,16,33,5148.0,5.07,D021,Rain,Weekend,Completed
+R07,Riverside - Stadium,BUS-343,Standard,2025-03-30,15:15,16:11,6,19,1425.0,6.95,D018,Clear,Weekend,Completed
+R04,East Suburb - Mall Plaza,BUS-120,Standard,2025-01-13,18:30,19:42,14,39,2730.0,12.93,D016,Rain,Weekday,Completed
+R01,City Center - Airport,BUS-380,Standard,2025-04-25,17:15,18:42,22,42,5040.0,13.29,D011,Clear,Weekday,Delayed
+R06,Old Town - Hospital,BUS-286,AC,2025-04-12,06:30,07:23,4,31,2015.0,12.04,D039,Clear,Weekend,Completed
+R03,Harbor - Downtown,BUS-172,AC,2025-02-07,16:30,17:43,1,22,2288.0,15.86,D023,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-269,Standard,2025-02-06,18:00,19:02,8,43,2150.0,10.07,D011,Clear,Weekday,Completed
+R02,North Station - University,BUS-179,Standard,2025-04-06,17:15,17:57,12,38,2280.0,4.4,D008,Clear,Weekend,Completed
+R01,City Center - Airport,BUS-234,Standard,2025-01-06,12:45,13:49,10,31,3720.0,7.39,D036,Fog,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-171,AC,2025-04-05,07:45,09:00,16,32,2912.0,8.63,D027,Rain,Weekend,Completed
+R01,City Center - Airport,BUS-352,AC,2025-01-06,07:30,08:29,19,39,6084.0,8.01,D014,Clear,Weekday,Completed
+R01,City Center - Airport,BUS-192,AC,2025-04-04,15:45,17:05,28,35,5460.0,8.81,D012,Clear,Weekday,Delayed
+R03,Harbor - Downtown,BUS-217,Standard,2025-01-03,15:00,16:16,4,42,3360.0,15.01,D007,Rain,Weekday,Cancelled
+R04,East Suburb - Mall Plaza,BUS-224,AC,2025-01-07,18:45,20:35,36,35,3185.0,10.09,D008,Clear,Weekday,Delayed
+R02,North Station - University,BUS-115,Electric,2025-04-25,11:15,11:48,1,33,2277.0,1.71,D031,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-396,Standard,2025-04-01,17:00,17:40,6,44,2200.0,7.4,D014,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-176,Standard,2025-03-02,15:15,16:14,0,17,850.0,10.0,D025,Clear,Weekend,Completed
+R06,Old Town - Hospital,BUS-163,Standard,2025-02-18,10:45,11:37,2,46,2300.0,13.31,D040,Cloudy,Weekday,Delayed
+R07,Riverside - Stadium,BUS-239,Standard,2025-01-24,12:00,12:38,5,33,2475.0,5.69,D021,Clear,Weekday,Completed
+R01,City Center - Airport,BUS-345,AC,2025-01-22,08:30,09:49,17,37,5772.0,13.28,D039,Clear,Weekday,Completed
+R02,North Station - University,BUS-117,AC,2025-02-28,07:15,08:13,15,41,3198.0,7.57,D031,Clear,Weekday,Completed
+R08,South Terminal - Business District,BUS-283,Standard,2025-03-01,17:45,19:01,13,35,3500.0,11.09,D021,Clear,Weekend,Completed
+R08,South Terminal - Business District,BUS-155,Standard,2025-02-10,17:15,17:57,5,47,4700.0,6.73,D023,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-131,Mini,2025-04-01,07:00,07:37,6,19,950.0,5.26,D001,Clear,Weekday,Completed
+R02,North Station - University,BUS-365,Standard,2025-04-07,17:30,18:52,10,41,2460.0,13.03,D036,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-221,Electric,2025-03-30,18:30,19:55,14,32,2576.0,1.29,D003,Clear,Weekend,Completed
+R08,South Terminal - Business District,BUS-325,AC,2025-02-26,19:00,20:16,1,18,2340.0,15.07,D015,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-247,AC,2025-03-21,05:15,06:28,2,33,2145.0,11.77,D008,Clear,Weekday,Cancelled
+R08,South Terminal - Business District,BUS-327,AC,2025-02-23,17:30,18:31,15,38,4940.0,10.09,D019,Rain,Weekend,Completed
+R07,Riverside - Stadium,BUS-196,Mini,2025-02-01,17:00,17:43,6,15,1125.0,7.22,D028,Clear,Weekend,Completed
+R03,Harbor - Downtown,BUS-340,Standard,2025-03-31,06:15,06:57,10,39,3120.0,6.09,D035,Cloudy,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-273,Mini,2025-03-12,15:00,16:22,9,25,1750.0,15.33,D024,Fog,Weekday,Completed
+R02,North Station - University,BUS-285,Standard,2025-02-24,12:45,13:52,12,35,2100.0,13.89,D014,Fog,Weekday,Completed
+R08,South Terminal - Business District,BUS-293,Mini,2025-02-07,06:00,06:57,2,13,1300.0,13.58,D002,Clear,Weekday,Cancelled
+R07,Riverside - Stadium,BUS-329,Standard,2025-01-31,08:00,09:07,13,44,3300.0,13.51,D031,Fog,Weekday,Completed
+R01,City Center - Airport,BUS-221,AC,2025-04-05,14:00,15:15,2,38,5928.0,13.1,D017,Clear,Weekend,Completed
+R01,City Center - Airport,BUS-156,Electric,2025-02-09,07:15,08:20,11,29,4002.0,1.39,D019,Cloudy,Weekend,Completed
+R01,City Center - Airport,BUS-171,Standard,2025-01-13,17:00,17:59,21,36,4320.0,7.33,D003,Fog,Weekday,Delayed
+R03,Harbor - Downtown,BUS-383,AC,2025-03-27,08:30,09:52,17,45,4680.0,10.85,D001,Storm,Weekday,Completed
+R06,Old Town - Hospital,BUS-151,Standard,2025-04-12,20:30,21:29,1,42,2100.0,9.51,D034,Clear,Weekend,Cancelled
+R05,West Gate - Tech Park,BUS-350,AC,2025-01-13,06:00,06:54,1,24,2808.0,8.42,D026,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-175,Standard,2025-01-19,06:15,07:19,10,38,2660.0,10.26,D003,Rain,Weekend,Completed
+R02,North Station - University,BUS-319,AC,2025-03-13,20:45,21:46,13,26,2028.0,10.79,D014,Cloudy,Weekday,Completed
+R01,City Center - Airport,BUS-324,AC,2025-01-23,13:15,14:23,9,30,4680.0,14.07,D025,Clear,Weekday,Completed
+R01,City Center - Airport,BUS-287,Mini,2025-03-13,18:00,18:40,6,22,2640.0,7.54,D030,Clear,Weekday,Completed
+R07,Riverside - Stadium,BUS-149,AC,2025-03-02,10:00,10:59,6,22,2145.0,8.3,D036,Clear,Weekend,Completed
+R01,City Center - Airport,BUS-181,AC,2025-03-27,18:15,19:22,4,44,6864.0,10.63,D027,Clear,Weekday,Completed
+R05,West Gate - Tech Park,BUS-209,Standard,2025-01-10,06:15,06:49,4,29,2610.0,8.41,D033,Clear,Weekday,Delayed
+R05,West Gate - Tech Park,BUS-270,Standard,2025-04-10,07:15,08:18,8,46,4140.0,10.43,D031,Clear,Weekday,Completed
+R01,City Center - Airport,BUS-388,AC,2025-03-26,14:45,15:57,5,36,5616.0,13.29,D036,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-259,AC,2025-03-08,06:30,08:00,37,35,3185.0,12.48,D001,Rain,Weekend,Delayed
+R03,Harbor - Downtown,BUS-168,AC,2025-04-24,08:15,09:05,13,44,4576.0,9.48,D026,Cloudy,Weekday,Cancelled
+R01,City Center - Airport,BUS-181,Standard,2025-04-19,14:30,15:42,11,42,5040.0,13.39,D008,Rain,Weekend,Completed
+R05,West Gate - Tech Park,BUS-328,AC,2025-01-23,19:15,20:34,5,42,4914.0,16.23,D022,Clear,Weekday,Completed
+R01,City Center - Airport,BUS-330,Standard,2025-02-02,19:30,20:20,12,27,3240.0,7.75,D023,Rain,Weekend,Completed
+R01,City Center - Airport,BUS-394,Standard,2025-02-04,21:30,22:30,11,41,4920.0,7.75,D035,Rain,Weekday,Completed
+R03,Harbor - Downtown,BUS-386,AC,2025-04-03,06:30,07:29,1,31,3224.0,10.09,D021,Clear,Weekday,Completed
+R02,North Station - University,BUS-322,Standard,2025-02-01,06:45,07:47,19,33,1260.0,8.41,D037,Clear,Weekend,Completed
+R08,South Terminal - Business District,BUS-112,Standard,2025-03-12,09:45,10:47,18,38,3800.0,8.51,D014,Rain,Weekday,Completed
+R06,Old Town - Hospital,BUS-357,Standard,2025-04-28,16:45,17:53,14,45,2250.0,10.89,D016,Rain,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-322,Standard,2025-03-18,22:00,22:48,5,21,1470.0,9.83,D009,Rain,Weekday,Completed
+R07,Riverside - Stadium,BUS-105,Standard,2025-03-10,12:45,13:25,7,45,3375.0,7.51,D039,Clear,Weekday,Completed
+R03,Harbor - Downtown,BUS-387,AC,2025-04-03,10:45,11:51,1,33,3640.0,15.86,D004,Clear,Weekday,Completed
+R01,City Center - Airport,BUS-166,AC,2025-01-15,15:00,16:07,5,20,3120.0,10.49,D007,Clear,Weekday,Completed
+R03,Harbor - Downtown,BUS-178,Standard,2025-03-04,14:45,15:26,5,43,3440.0,7.09,D022,Cloudy,Weekday,Completed
+R07,Riverside - Stadium,BUS-230,Standard,2025-01-12,16:00,16:58,9,33,1350.0,12.13,D036,Clear,Weekend,Completed
+R06,Old Town - Hospital,BUS-150,AC,2025-01-04,07:15,08:18,29,28,1820.0,7.57,D006,Clear,Weekend,Delayed
+R05,West Gate - Tech Park,BUS-151,AC,2025-03-08,18:45,19:40,7,33,3861.0,9.4,D024,Clear,Weekend,Completed
+R06,Old Town - Hospital,BUS-197,AC,2025-03-22,21:00,22:08,5,33,2145.0,12.86,D001,Clear,Weekend,Completed
+R03,Harbor - Downtown,BUS-387,Mini,2025-04-19,07:30,08:55,16,19,1520.0,9.69,D033,Clear,Weekend,Completed
+R05,West Gate - Tech Park,BUS-398,Standard,2025-03-27,09:30,10:45,1,24,2160.0,16.33,D013,Cloudy,Weekday,Completed
+R08,South Terminal - Business District,BUS-396,Electric,2025-03-19,05:30,06:51,21,38,4370.0,1.47,D009,Fog,Weekday,Delayed
+R08,South Terminal - Business District,BUS-139,AC,2025-04-06,09:15,10:40,12,24,3120.0,16.43,D039,Rain,Weekend,Completed
+R03,Harbor - Downtown,BUS-282,Mini,2025-04-11,14:45,15:49,1,22,1760.0,14.93,D008,Clear,Weekday,Completed
+R03,Harbor - Downtown,BUS-116,Standard,2025-03-31,14:30,15:40,6,38,3040.0,10.8,D012,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-192,Standard,2025-02-04,19:00,20:09,2,21,1470.0,11.78,D007,Clear,Weekday,Completed
+R07,Riverside - Stadium,BUS-205,AC,2025-02-15,18:00,19:16,9,37,3607.5,13.95,D034,Fog,Weekend,Completed
+R08,South Terminal - Business District,BUS-332,Standard,2025-01-27,20:15,21:28,9,48,4800.0,13.28,D034,Rain,Weekday,Completed
+R01,City Center - Airport,BUS-393,AC,2025-01-12,09:00,10:28,14,34,5304.0,11.88,D028,Clear,Weekend,Cancelled
+R03,Harbor - Downtown,BUS-357,AC,2025-04-22,08:15,09:42,17,38,3952.0,13.8,D019,Clear,Weekday,Completed
+R05,West Gate - Tech Park,BUS-147,AC,2025-03-02,06:15,07:25,16,19,2223.0,10.5,D025,Rain,Weekend,Cancelled
+R08,South Terminal - Business District,BUS-144,Electric,2025-02-09,08:30,09:51,11,33,3565.0,0.38,D031,Clear,Weekend,Delayed
+R03,Harbor - Downtown,BUS-154,Standard,2025-04-30,08:30,09:51,14,39,3120.0,14.08,D021,Clear,Weekday,Completed
+R02,North Station - University,BUS-166,Standard,2025-04-25,08:00,09:20,14,43,2580.0,10.49,Unknown,Clear,Weekday,Completed
+R05,West Gate - Tech Park,BUS-385,Standard,2025-03-09,07:00,08:07,5,35,3150.0,14.35,D020,Clear,Weekend,Delayed
+R06,Old Town - Hospital,BUS-319,Mini,2025-02-03,11:15,12:27,5,21,1050.0,10.67,D030,Clear,Weekday,Completed
+R08,South Terminal - Business District,BUS-146,AC,2025-02-05,07:30,08:28,10,43,5590.0,7.85,D030,Rain,Weekday,Completed
+R01,City Center - Airport,BUS-146,Standard,2025-01-14,18:15,19:41,27,39,4680.0,9.24,D030,Clear,Weekday,Delayed
+R07,Riverside - Stadium,BUS-119,Standard,2025-01-10,14:30,15:29,14,24,1800.0,8.6,D027,Rain,Weekday,Delayed
+R08,South Terminal - Business District,BUS-113,Standard,2025-03-25,14:00,15:07,9,24,2400.0,12.42,D005,Fog,Weekday,Completed
+R03,Harbor - Downtown,BUS-337,Electric,2025-01-22,14:45,15:44,9,25,2300.0,0.38,D020,Fog,Weekday,Completed
+R02,North Station - University,BUS-325,Standard,2025-02-05,21:45,22:51,3,46,2760.0,11.54,D014,Cloudy,Weekday,Completed
+R06,Old Town - Hospital,BUS-109,Mini,2025-03-12,10:15,11:21,11,25,850.0,10.88,D001,Clear,Weekday,Cancelled
+R03,Harbor - Downtown,BUS-314,Electric,2025-03-31,09:30,10:29,25,23,2116.0,0.59,D007,Clear,Weekday,Delayed
+R02,North Station - University,BUS-293,Standard,2025-01-04,14:15,15:29,20,41,2460.0,10.22,D032,Rain,Weekend,Completed
+R04,East Suburb - Mall Plaza,BUS-200,Mini,2025-04-06,16:00,16:40,8,21,1470.0,7.59,D031,Cloudy,Weekend,Completed
+R07,Riverside - Stadium,BUS-220,AC,2025-02-24,06:45,08:06,11,45,4387.5,16.19,D010,Storm,Weekday,Cancelled
+R04,East Suburb - Mall Plaza,BUS-182,Standard,2025-01-31,06:30,07:33,0,50,3500.0,10.01,D009,Clear,Weekday,Delayed
+R07,Riverside - Stadium,BUS-193,Standard,2025-03-31,13:45,14:51,18,42,3150.0,10.76,D005,Clear,Weekday,Cancelled
+R05,West Gate - Tech Park,BUS-316,Electric,2025-03-31,10:30,11:47,7,24,2484.0,1.87,D021,Clear,Weekday,Completed
+R08,South Terminal - Business District,BUS-347,AC,2025-03-15,05:15,06:20,1,34,4420.0,15.64,D028,Cloudy,Weekend,Completed
+R04,East Suburb - Mall Plaza,BUS-197,Electric,2025-02-25,06:30,07:11,0,17,1368.0,0.59,D019,Clear,Weekday,Delayed
+R06,Old Town - Hospital,BUS-212,Mini,2025-03-10,18:15,19:03,14,24,1200.0,6.7,D005,Clear,Weekday,Completed
+R02,North Station - University,BUS-141,Mini,2025-03-23,07:45,08:41,13,16,960.0,8.6,D031,Clear,Weekend,Completed
+R02,North Station - University,BUS-310,Standard,2025-04-21,19:30,20:26,1,30,1800.0,12.95,D018,Clear,Weekday,Completed
+R02,North Station - University,BUS-201,Electric,2025-01-15,10:45,12:39,42,33,2346.0,1.23,D034,Clear,Weekday,Delayed
+R05,West Gate - Tech Park,BUS-381,Standard,2025-03-24,14:15,15:35,14,24,2160.0,12.56,D018,Fog,Weekday,Completed
+R05,West Gate - Tech Park,BUS-334,AC,2025-02-07,10:00,11:13,4,41,4797.0,12.71,D011,Clear,Weekday,Delayed
+R05,West Gate - Tech Park,BUS-254,Standard,2025-03-14,19:00,20:04,4,37,3330.0,10.84,Unknown,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-229,Standard,2025-02-11,06:30,07:48,16,41,2050.0,10.33,D030,Fog,Weekday,Completed
+R02,North Station - University,BUS-216,Electric,2025-04-03,20:15,21:42,13,17,1173.0,0.46,D011,Fog,Weekday,Delayed
+R07,Riverside - Stadium,BUS-328,AC,2025-03-27,15:45,16:55,1,26,2535.0,12.72,D033,Clear,Weekday,Completed
+R05,West Gate - Tech Park,BUS-248,Standard,2025-04-29,17:45,18:58,8,46,4140.0,12.73,D016,Cloudy,Weekday,Completed
+R07,Riverside - Stadium,BUS-203,Standard,2025-01-15,20:00,21:08,11,23,1725.0,10.77,D030,Fog,Weekday,Delayed
+R06,Old Town - Hospital,BUS-226,Standard,2025-01-07,08:45,09:32,12,46,2300.0,8.68,D025,Clear,Weekday,Completed
+R02,North Station - University,BUS-361,AC,2025-04-08,16:30,17:48,11,21,1638.0,9.59,D037,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-149,Standard,2025-04-10,06:30,07:07,4,32,1600.0,6.66,D023,Cloudy,Weekday,Completed
+R05,West Gate - Tech Park,BUS-241,Electric,2025-04-09,17:30,18:52,12,32,3312.0,1.99,D016,Clear,Weekday,Cancelled
+R08,South Terminal - Business District,BUS-318,Mini,2025-01-24,08:15,09:36,11,18,1800.0,13.44,D012,Storm,Weekday,Completed
+R02,North Station - University,BUS-214,Electric,2025-02-14,08:45,10:21,24,39,2691.0,0.85,Unknown,Storm,Weekday,Delayed
+R02,North Station - University,BUS-255,Standard,2025-04-30,16:15,17:31,7,25,1500.0,12.49,D040,Cloudy,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-246,Electric,2025-04-21,15:00,16:05,1,36,2898.0,0.88,D038,Clear,Weekday,Cancelled
+R08,South Terminal - Business District,BUS-295,AC,2025-03-18,18:45,19:43,13,33,4290.0,10.72,D031,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-286,AC,2025-04-19,20:45,21:50,6,37,3367.0,8.51,D035,Clear,Weekend,Completed
+R05,West Gate - Tech Park,BUS-223,Standard,2025-02-15,13:15,13:51,5,32,2880.0,6.95,D020,Clear,Weekend,Completed
+R01,City Center - Airport,BUS-320,Standard,2025-01-08,13:30,14:31,4,44,5280.0,10.47,D009,Clear,Weekday,Completed
+R08,South Terminal - Business District,BUS-255,AC,2025-01-19,19:15,20:35,14,34,4420.0,11.12,D028,Rain,Weekend,Completed
+R08,South Terminal - Business District,BUS-136,Standard,2025-01-29,07:00,07:48,5,50,5000.0,9.55,D026,Clear,Weekday,Completed
+R03,Harbor - Downtown,BUS-344,Standard,2025-01-09,10:15,11:15,2,38,3040.0,11.8,D022,Clear,Weekday,Cancelled
+R02,North Station - University,BUS-151,Standard,2025-04-18,07:30,08:32,12,36,2160.0,10.91,D014,Cloudy,Weekday,Delayed
+R01,City Center - Airport,BUS-211,Mini,2025-03-23,09:30,11:29,63,14,1680.0,13.86,D020,Fog,Weekend,Delayed
+R04,East Suburb - Mall Plaza,BUS-376,AC,2025-02-14,07:45,09:11,13,32,2912.0,9.32,D040,Rain,Weekday,Delayed
+R02,North Station - University,BUS-192,Standard,2025-03-31,15:00,16:10,7,22,1320.0,11.21,D028,Cloudy,Weekday,Completed
+R06,Old Town - Hospital,BUS-130,AC,2025-02-28,13:45,14:42,5,33,1560.0,12.48,D005,Clear,Weekday,Delayed
+R08,South Terminal - Business District,BUS-231,Electric,2025-04-19,10:15,11:08,6,24,2760.0,1.73,D034,Clear,Weekend,Delayed
+R07,Riverside - Stadium,BUS-328,Standard,2025-01-29,10:45,11:44,20,35,2625.0,8.78,D002,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-153,AC,2025-01-28,21:45,22:47,12,20,1820.0,8.22,D010,Rain,Weekday,Cancelled
+R04,East Suburb - Mall Plaza,BUS-121,Electric,2025-03-16,19:45,20:51,5,27,2173.5,0.39,D019,Clear,Weekend,Completed
+R02,North Station - University,BUS-187,AC,2025-02-02,20:45,21:48,6,16,1248.0,13.72,D018,Clear,Weekend,Completed
+R07,Riverside - Stadium,BUS-357,Electric,2025-01-15,17:00,17:54,4,35,3018.75,1.42,D024,Clear,Weekday,Completed
+R01,City Center - Airport,BUS-150,Mini,2025-01-10,13:00,13:39,6,12,1440.0,8.15,D036,Cloudy,Weekday,Completed
+R06,Old Town - Hospital,BUS-240,Standard,2025-01-28,15:30,16:11,3,36,1800.0,9.31,D001,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-378,AC,2025-01-21,09:30,10:19,5,41,2665.0,9.65,D002,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-342,Standard,2025-02-21,19:30,20:25,14,29,2030.0,9.37,D002,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-270,Mini,2025-01-10,15:15,16:09,5,20,1000.0,9.97,D026,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-142,Standard,2025-02-04,18:00,19:31,17,42,2940.0,15.64,D029,Rain,Weekday,Completed
+R02,North Station - University,BUS-312,Standard,2025-02-26,16:15,17:08,2,28,1680.0,10.24,D021,Cloudy,Weekday,Completed
+R01,City Center - Airport,BUS-137,Standard,2025-04-25,10:00,11:08,18,28,3360.0,11.09,D037,Storm,Weekday,Completed
+R01,City Center - Airport,BUS-141,AC,2025-03-01,05:45,06:52,0,26,4056.0,15.33,D037,Clear,Weekend,Completed
+R06,Old Town - Hospital,BUS-189,AC,2025-03-07,07:45,08:41,16,37,2405.0,8.79,D019,Fog,Weekday,Completed
+R03,Harbor - Downtown,BUS-295,Standard,2025-03-05,07:30,08:43,15,46,3680.0,13.4,D022,Clear,Weekday,Completed
+R05,West Gate - Tech Park,BUS-381,Standard,2025-04-02,10:15,11:15,10,47,4230.0,7.63,D022,Rain,Weekday,Completed
+R06,Old Town - Hospital,BUS-385,AC,2025-01-11,09:30,10:20,2,19,1235.0,10.08,D040,Clear,Weekend,Completed
+R02,North Station - University,BUS-348,AC,2025-04-05,14:00,15:06,3,24,1872.0,13.26,D002,Cloudy,Weekend,Completed
+R06,Old Town - Hospital,BUS-325,Standard,2025-03-20,06:30,07:32,0,40,2000.0,13.75,D040,Clear,Weekday,Cancelled
+R05,West Gate - Tech Park,BUS-232,AC,2025-03-15,15:15,15:58,1,28,3276.0,8.76,D032,Clear,Weekend,Delayed
+R06,Old Town - Hospital,BUS-325,Standard,2025-04-24,14:45,15:43,7,25,1250.0,12.92,D011,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-331,AC,2025-02-02,07:45,09:02,18,32,2080.0,12.4,D013,Storm,Weekend,Delayed
+R02,North Station - University,BUS-170,Standard,2025-01-07,16:45,18:03,6,21,1260.0,10.12,D012,Clear,Weekday,Cancelled
+R04,East Suburb - Mall Plaza,BUS-218,Electric,2025-03-02,06:00,06:51,1,28,2254.0,1.83,Unknown,Clear,Weekend,Completed
+R02,North Station - University,BUS-314,Standard,2025-02-09,13:15,14:17,5,37,2220.0,10.91,D033,Clear,Weekend,Completed
+R04,East Suburb - Mall Plaza,BUS-382,Standard,2025-02-16,08:15,09:07,16,42,2940.0,9.29,D002,Clear,Weekend,Completed
+R01,City Center - Airport,BUS-136,AC,2025-04-14,08:45,09:44,6,37,5772.0,11.99,D029,Cloudy,Weekday,Completed
+R03,Harbor - Downtown,BUS-216,Standard,2025-03-21,17:30,18:21,8,43,3440.0,6.86,D006,Cloudy,Weekday,Completed
+R07,Riverside - Stadium,BUS-393,Standard,2025-01-06,18:15,19:01,12,36,2700.0,10.25,D015,Clear,Weekday,Completed
+R02,North Station - University,BUS-378,Electric,2025-01-13,09:15,10:16,12,28,1932.0,1.49,D004,Rain,Weekday,Completed
+R08,South Terminal - Business District,BUS-127,AC,2025-03-06,07:15,08:20,10,43,5590.0,8.93,D017,Cloudy,Weekday,Completed
+R08,South Terminal - Business District,BUS-258,Electric,2025-02-23,17:15,18:29,11,28,3220.0,0.22,D039,Clear,Weekend,Completed
+R01,City Center - Airport,BUS-160,AC,2025-04-06,05:15,06:32,2,31,4836.0,13.17,D030,Cloudy,Weekend,Completed
+R02,North Station - University,BUS-381,Standard,2025-03-25,08:45,09:50,32,43,2580.0,7.05,D021,Fog,Weekday,Delayed
+R03,Harbor - Downtown,BUS-319,Standard,2025-01-21,14:45,15:55,8,28,2240.0,9.53,D030,Clear,Weekday,Completed
+R01,City Center - Airport,BUS-204,Standard,2025-04-24,16:00,16:50,2,36,4320.0,9.21,D008,Clear,Weekday,Completed
+R05,West Gate - Tech Park,BUS-147,AC,2025-04-15,11:45,13:00,30,31,3627.0,10.27,D034,Rain,Weekday,Delayed
+R08,South Terminal - Business District,BUS-340,AC,2025-02-20,08:30,09:41,7,37,4810.0,15.28,D010,Clear,Weekday,Delayed
+R01,City Center - Airport,BUS-286,Standard,2025-02-20,09:00,10:14,13,48,5760.0,10.22,D003,Fog,Weekday,Completed
+R07,Riverside - Stadium,BUS-241,Standard,2025-02-20,21:00,21:33,3,23,1725.0,7.22,D036,Clear,Weekday,Completed
+R03,Harbor - Downtown,BUS-180,AC,2025-03-21,07:00,08:26,25,37,3848.0,14.28,D038,Clear,Weekday,Delayed
+R07,Riverside - Stadium,BUS-168,Electric,2025-03-07,06:00,06:45,5,31,2673.75,1.82,D038,Cloudy,Weekday,Completed
+R06,Old Town - Hospital,BUS-235,AC,2025-02-05,20:00,21:07,7,29,1885.0,12.13,D020,Fog,Weekday,Completed
+R06,Old Town - Hospital,BUS-366,AC,2025-04-15,07:00,08:02,18,39,2535.0,9.4,D012,Rain,Weekday,Cancelled
+R07,Riverside - Stadium,BUS-124,Standard,2025-04-09,18:00,19:26,12,40,3000.0,14.05,D039,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-126,Standard,2025-01-03,17:15,18:28,12,35,2450.0,13.81,D012,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-223,Standard,2025-04-14,07:00,08:22,21,49,3430.0,9.81,D025,Fog,Weekday,Delayed
+R02,North Station - University,BUS-399,Standard,2025-01-21,08:30,09:37,10,50,3000.0,11.19,D017,Cloudy,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-188,Standard,2025-02-13,07:00,08:05,6,47,3290.0,8.57,D028,Clear,Weekday,Cancelled
+R06,Old Town - Hospital,BUS-343,AC,2025-03-09,07:30,08:43,8,33,2145.0,12.48,D021,Clear,Weekend,Completed
+R01,City Center - Airport,BUS-370,Standard,2025-03-11,16:30,17:30,4,25,3000.0,12.9,D008,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-319,Standard,2025-04-05,07:45,09:19,26,33,1650.0,11.96,D019,Clear,Weekend,Delayed
+R04,East Suburb - Mall Plaza,BUS-378,AC,2025-04-08,17:45,18:59,17,39,3549.0,10.09,D027,Clear,Weekday,Completed
+R01,City Center - Airport,BUS-260,Standard,2025-02-07,17:15,18:46,27,40,4800.0,12.13,D004,Clear,Weekday,Delayed
+R02,North Station - University,BUS-181,Standard,2025-01-27,17:15,18:25,16,40,2400.0,10.7,D023,Fog,Weekday,Completed
+R03,Harbor - Downtown,BUS-122,Standard,2025-02-06,15:30,16:41,2,38,3040.0,8.91,D007,Clear,Weekday,Completed
+R05,West Gate - Tech Park,BUS-320,AC,2025-04-25,12:00,12:53,4,40,4680.0,9.54,D025,Clear,Weekday,Completed
+R02,North Station - University,BUS-214,Standard,2025-03-26,16:45,18:08,8,30,1800.0,12.16,D020,Rain,Weekday,Delayed
+R08,South Terminal - Business District,BUS-267,Standard,2025-03-21,07:30,08:50,21,35,3500.0,10.22,D033,Clear,Weekday,Cancelled
+R01,City Center - Airport,BUS-319,AC,2025-02-05,11:30,12:29,11,42,6552.0,7.77,D020,Fog,Weekday,Completed
+R08,South Terminal - Business District,BUS-257,Electric,2025-01-25,07:00,07:44,9,30,3450.0,0.43,D032,Clear,Weekend,Completed
+R01,City Center - Airport,BUS-329,Standard,2025-03-18,06:45,07:48,0,40,4800.0,14.69,D023,Clear,Weekday,Completed
+R08,South Terminal - Business District,BUS-348,Standard,2025-01-15,08:30,09:26,10,41,4100.0,10.44,D009,Cloudy,Weekday,Completed
+R03,Harbor - Downtown,BUS-357,Electric,2025-03-22,19:15,20:35,8,32,2944.0,1.33,D038,Rain,Weekend,Completed
+R04,East Suburb - Mall Plaza,BUS-374,Mini,2025-02-26,17:15,18:26,16,21,1470.0,12.6,D006,Rain,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-257,AC,2025-03-01,00:09,22:45,11,18,1638.0,12.81,Unknown,Fog,Weekend,Completed
+R02,North Station - University,BUS-141,Standard,2025-03-01,07:15,08:17,11,37,2220.0,11.1,D013,Clear,Weekend,Delayed
+R04,East Suburb - Mall Plaza,BUS-164,AC,2025-01-03,07:15,08:45,20,45,4095.0,14.29,D011,Rain,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-302,Mini,2025-04-05,07:30,08:35,8,19,1330.0,10.27,D003,Clear,Weekend,Cancelled
+R02,North Station - University,BUS-244,AC,2025-01-11,10:00,11:16,10,32,2496.0,10.5,D022,Rain,Weekend,Completed
+R08,South Terminal - Business District,BUS-238,Standard,2025-04-17,17:00,18:08,28,49,4900.0,10.91,D037,Fog,Weekday,Delayed
+R03,Harbor - Downtown,BUS-280,Electric,2025-03-01,11:00,11:51,2,18,1656.0,0.26,D030,Clear,Weekend,Cancelled
+R02,North Station - University,BUS-395,Standard,2025-02-19,05:15,05:51,6,34,2040.0,4.91,D017,Rain,Weekday,Completed
+R05,West Gate - Tech Park,BUS-350,Standard,2025-02-21,18:15,19:37,12,42,3780.0,14.52,D024,Clear,Weekday,Completed
+R03,Harbor - Downtown,BUS-229,Standard,2025-04-06,15:45,16:30,4,25,2000.0,6.2,D028,Clear,Weekend,Completed
+R05,West Gate - Tech Park,BUS-148,Standard,2025-02-22,12:30,13:16,0,32,2880.0,10.69,D023,Clear,Weekend,Completed
+R06,Old Town - Hospital,BUS-303,AC,2025-01-19,18:00,18:50,6,37,2405.0,6.38,D040,Clear,Weekend,Cancelled
+R03,Harbor - Downtown,BUS-366,Standard,2025-04-07,16:30,18:08,26,41,3280.0,15.21,D004,Rain,Weekday,Delayed
+R04,East Suburb - Mall Plaza,BUS-137,Mini,2025-03-06,09:45,10:57,7,11,770.0,12.2,D035,Cloudy,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-166,Standard,2025-04-07,07:45,08:27,8,41,2870.0,6.96,D013,Cloudy,Weekday,Completed
+R02,North Station - University,BUS-337,AC,2025-03-20,19:45,20:51,1,41,3198.0,10.45,D040,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-325,Standard,2025-01-22,07:15,09:06,39,41,2050.0,9.63,D020,Clear,Weekday,Delayed
+R07,Riverside - Stadium,BUS-249,Standard,2025-01-09,12:15,12:50,5,40,3000.0,6.61,D018,Cloudy,Weekday,Completed
+R02,North Station - University,BUS-362,Standard,2025-02-19,16:30,17:41,10,27,1620.0,14.29,D004,Fog,Weekday,Completed
+R03,Harbor - Downtown,BUS-297,Standard,2025-04-07,13:15,14:31,1,43,3440.0,18.76,D026,Clear,Weekday,Completed
+R03,Harbor - Downtown,BUS-340,AC,2025-01-19,16:00,16:37,6,31,3224.0,7.78,D010,Fog,Weekend,Completed
+R02,North Station - University,BUS-297,AC,2025-04-20,11:15,12:32,5,35,2730.0,13.85,D020,Clear,Weekend,Completed
+R06,Old Town - Hospital,BUS-203,Electric,2025-04-21,19:00,19:37,0,22,1265.0,1.45,D035,Clear,Weekday,Delayed
+R06,Old Town - Hospital,BUS-229,Electric,2025-04-04,12:00,13:01,10,32,1840.0,0.84,D004,Clear,Weekday,Completed
+R03,Harbor - Downtown,BUS-167,Mini,2025-04-08,14:00,15:11,1,10,800.0,14.36,D028,Cloudy,Weekday,Delayed
+R07,Riverside - Stadium,BUS-145,Standard,2025-02-01,10:15,11:33,10,38,2850.0,11.63,D027,Clear,Weekend,Completed
+R01,City Center - Airport,BUS-272,AC,2025-03-25,17:00,18:19,17,42,6552.0,14.35,D013,Rain,Weekday,Completed
+R01,City Center - Airport,BUS-275,Mini,2025-01-19,06:45,07:37,5,14,1680.0,9.13,D012,Rain,Weekend,Completed
+R07,Riverside - Stadium,BUS-386,Standard,2025-02-28,08:45,10:31,37,47,3525.0,16.16,D002,Fog,Weekday,Delayed
+R05,West Gate - Tech Park,BUS-174,AC,2025-03-25,17:00,18:44,31,35,4095.0,16.97,D022,Fog,Weekday,Delayed
+R06,Old Town - Hospital,BUS-294,AC,2025-02-24,12:00,12:39,2,30,1950.0,9.21,D037,Cloudy,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-131,Standard,2025-01-20,20:45,21:43,9,20,1400.0,8.56,D009,Rain,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-269,AC,2025-04-06,00:01,22:45,1,23,2093.0,14.26,D004,Clear,Weekend,Completed
+R05,West Gate - Tech Park,BUS-151,Mini,2025-04-17,07:00,08:22,25,25,2250.0,10.86,D027,Rain,Weekday,Delayed
+R03,Harbor - Downtown,BUS-168,Mini,2025-01-16,13:00,13:36,0,19,1520.0,6.02,D009,Clear,Weekday,Delayed
+R03,Harbor - Downtown,BUS-124,AC,2025-03-13,09:00,10:00,19,36,3744.0,5.78,D018,Storm,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-251,Electric,2025-01-24,11:45,13:13,13,37,2978.5,0.25,D031,Storm,Weekday,Cancelled
+R05,West Gate - Tech Park,BUS-129,AC,2025-02-09,08:15,09:10,5,38,4446.0,9.11,D037,Clear,Weekend,Completed
+R08,South Terminal - Business District,BUS-372,Standard,2025-04-16,20:15,20:56,9,50,5000.0,5.84,D040,Clear,Weekday,Cancelled
+R03,Harbor - Downtown,BUS-243,Mini,2025-02-26,19:45,20:29,10,24,1920.0,9.65,D013,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-102,Standard,2025-02-10,17:45,19:10,17,48,3360.0,10.9,D022,Rain,Weekday,Completed
+R06,Old Town - Hospital,BUS-332,Mini,2025-03-31,10:15,10:51,3,21,1050.0,6.96,D019,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-148,Electric,2025-02-14,15:30,16:35,0,18,1035.0,1.58,D006,Clear,Weekday,Delayed
+R08,South Terminal - Business District,BUS-279,Electric,2025-04-10,12:30,13:37,4,28,3220.0,0.36,D030,Cloudy,Weekday,Completed
+R03,Harbor - Downtown,BUS-115,Mini,2025-03-03,19:15,19:54,1,14,1120.0,10.76,D029,Clear,Weekday,Completed
+R03,Harbor - Downtown,BUS-260,Electric,2025-04-07,08:30,09:20,14,33,3036.0,0.52,D023,Rain,Weekday,Cancelled
+R01,City Center - Airport,BUS-150,Standard,2025-01-29,17:30,18:17,16,49,5880.0,6.36,D021,Fog,Weekday,Completed
+R03,Harbor - Downtown,BUS-325,Standard,2025-04-22,17:15,17:56,11,36,2880.0,7.54,D017,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-326,Electric,2025-01-27,20:45,21:45,3,27,2173.5,1.82,D006,Fog,Weekday,Completed
+R02,North Station - University,BUS-393,Standard,2025-04-24,21:30,22:55,22,37,2220.0,10.73,D020,Clear,Weekday,Delayed
+R03,Harbor - Downtown,BUS-340,Standard,2025-01-21,20:30,21:28,12,48,3840.0,7.6,D018,Clear,Weekday,Completed
+R07,Riverside - Stadium,BUS-313,AC,2025-04-17,19:00,19:56,10,38,3705.0,7.0,D014,Clear,Weekday,Completed
+R05,West Gate - Tech Park,BUS-395,Standard,2025-01-27,10:15,11:21,13,32,2880.0,11.27,D021,Rain,Weekday,Completed
+R05,West Gate - Tech Park,BUS-260,Standard,2025-01-06,11:00,12:09,3,49,4410.0,16.84,D003,Cloudy,Weekday,Completed
+R07,Riverside - Stadium,BUS-124,Standard,2025-03-25,22:30,23:34,20,37,2775.0,11.7,D015,Cloudy,Weekday,Delayed
+R01,City Center - Airport,BUS-152,AC,2025-02-23,15:30,16:17,1,17,2652.0,8.73,D009,Clear,Weekend,Completed
+R04,East Suburb - Mall Plaza,BUS-395,AC,2025-02-04,07:45,08:41,14,40,3640.0,6.7,D025,Storm,Weekday,Completed
+R01,City Center - Airport,BUS-127,AC,2025-01-24,17:30,18:40,16,39,6084.0,10.75,D014,Fog,Weekday,Completed
+R03,Harbor - Downtown,BUS-328,AC,2025-03-18,17:30,18:27,16,37,3848.0,7.63,D006,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-192,Mini,2025-01-19,18:15,19:12,15,15,750.0,7.5,D025,Fog,Weekend,Completed
+R07,Riverside - Stadium,BUS-368,Standard,2025-03-27,07:00,07:59,9,36,2700.0,7.21,D003,Clear,Weekday,Delayed
+R08,South Terminal - Business District,BUS-242,Electric,2025-02-17,15:15,16:26,12,23,2645.0,1.85,D033,Rain,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-289,Mini,2025-01-02,07:00,08:12,10,22,1540.0,9.18,D003,Clear,Weekday,Completed
+R01,City Center - Airport,BUS-172,Mini,2025-03-29,07:30,08:45,14,20,2400.0,9.51,D013,Clear,Weekend,Completed
+R03,Harbor - Downtown,BUS-223,Standard,2025-01-28,09:30,10:13,7,50,4000.0,9.1,D038,Rain,Weekday,Completed
+R08,South Terminal - Business District,BUS-343,Mini,2025-01-18,18:15,19:33,5,16,1600.0,17.98,D022,Clear,Weekend,Completed
+R08,South Terminal - Business District,BUS-314,AC,2025-01-18,10:00,10:59,1,33,3380.0,13.4,D011,Clear,Weekend,Completed
+R03,Harbor - Downtown,BUS-222,AC,2025-01-09,05:15,06:25,9,33,2704.0,14.06,D003,Cloudy,Weekday,Completed
+R03,Harbor - Downtown,BUS-100,AC,2025-03-17,08:15,09:33,16,45,4680.0,13.09,D035,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-126,AC,2025-03-12,06:30,07:21,0,24,1560.0,9.5,D009,Cloudy,Weekday,Completed
+R05,West Gate - Tech Park,BUS-167,Standard,2025-03-07,13:45,15:09,12,43,3870.0,11.92,D016,Clear,Weekday,Completed
+R01,City Center - Airport,BUS-335,AC,2025-02-14,05:00,05:40,1,38,5928.0,7.59,D030,Clear,Weekday,Completed
+R03,Harbor - Downtown,BUS-125,Standard,2025-04-15,09:45,10:27,4,33,2800.0,8.09,D009,Clear,Weekday,Completed
+R02,North Station - University,BUS-217,Standard,2025-02-03,19:45,20:39,14,45,2700.0,8.87,D006,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-287,Standard,2025-03-23,10:00,11:03,10,33,2310.0,7.01,D031,Rain,Weekend,Completed
+R01,City Center - Airport,BUS-186,AC,2025-01-28,08:15,08:58,13,35,5460.0,7.34,D014,Fog,Weekday,Completed
+R05,West Gate - Tech Park,BUS-351,Standard,2025-03-29,16:30,17:12,2,36,3240.0,10.33,Unknown,Cloudy,Weekend,Completed
+R01,City Center - Airport,BUS-362,AC,2025-01-14,11:30,12:11,4,41,6396.0,5.91,D007,Cloudy,Weekday,Cancelled
+R06,Old Town - Hospital,BUS-279,Standard,2025-01-18,11:00,11:51,0,24,1200.0,9.17,D037,Clear,Weekend,Completed
+R05,West Gate - Tech Park,BUS-238,Electric,2025-04-25,09:45,10:21,1,18,1863.0,0.86,D036,Cloudy,Weekday,Cancelled
+R06,Old Town - Hospital,BUS-102,AC,2025-03-10,20:15,20:54,8,37,2405.0,8.1,D015,Rain,Weekday,Completed
+R02,North Station - University,BUS-355,AC,2025-04-24,16:00,16:54,10,26,2028.0,7.3,D007,Clear,Weekday,Completed
+R08,South Terminal - Business District,BUS-248,AC,2025-04-27,18:00,19:37,27,35,4550.0,16.9,D010,Rain,Weekend,Delayed
+R01,City Center - Airport,BUS-150,Standard,2025-04-18,15:30,16:25,10,20,2400.0,10.83,D011,Storm,Weekday,Completed
+R05,West Gate - Tech Park,BUS-170,Mini,2025-01-21,06:30,07:17,11,18,1620.0,10.34,D039,Clear,Weekday,Completed
+R06,Old Town - Hospital,BUS-226,AC,2025-03-03,12:00,13:08,3,42,2730.0,14.62,D016,Clear,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-266,Mini,2025-02-08,17:00,18:04,11,25,1400.0,9.96,D023,Clear,Weekend,Completed
+R04,East Suburb - Mall Plaza,BUS-376,Standard,2025-02-13,11:15,11:59,4,50,3500.0,8.51,D008,Cloudy,Weekday,Completed
+R08,South Terminal - Business District,BUS-147,Standard,2025-02-16,18:00,18:46,8,34,3400.0,6.28,D036,Clear,Weekend,Completed
+R08,South Terminal - Business District,BUS-365,Mini,2025-04-05,18:45,19:53,14,15,1500.0,13.1,D021,Clear,Weekend,Delayed
+R02,North Station - University,BUS-324,Standard,2025-04-09,14:45,16:04,22,27,1620.0,11.61,D026,Clear,Weekday,Delayed
+R08,South Terminal - Business District,BUS-192,Electric,2025-04-20,08:30,09:44,6,27,3105.0,1.16,D004,Clear,Weekend,Completed
+R05,West Gate - Tech Park,BUS-155,Standard,2025-02-04,18:45,19:56,14,39,3510.0,14.27,D031,Storm,Weekday,Completed
+R04,East Suburb - Mall Plaza,BUS-114,AC,2025-04-13,18:00,19:27,27,27,2457.0,13.54,D017,Fog,Weekend,Delayed
+R05,West Gate - Tech Park,BUS-194,Standard,2025-01-04,17:30,18:38,25,40,3600.0,9.56,D017,Rain,Weekend,Delayed
+R07,Riverside - Stadium,BUS-295,Standard,2025-03-06,19:30,20:37,19,33,3075.0,10.8,D005,Clear,Weekday,Completed
+R07,Riverside - Stadium,BUS-182,Standard,2025-01-04,07:15,08:33,24,41,3075.0,11.2,D039,Rain,Weekend,Delayed
+R02,North Station - University,BUS-357,Electric,2025-04-28,16:30,17:08,0,21,1449.0,1.13,D039,Cloudy,Weekday,Completed
+R05,West Gate - Tech Park,BUS-133,Electric,2025-04-16,07:00,07:41,8,38,3933.0,1.24,D002,Clear,Weekday,Completed
+R01,City Center - Airport,BUS-350,AC,2025-03-28,07:30,08:33,7,42,6552.0,13.42,D017,Clear,Weekday,Completed
