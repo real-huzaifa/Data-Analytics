@@ -157,3 +157,11 @@ Python · pandas · NumPy · scikit-learn · Streamlit · joblib · Matplotlib �
 ## Author
 
 Built as part of the Teyzix Core Data Analytics Internship (June Batch), Task DA-INT-1.
+
+---
+
+## Live App URL
+
+https://data-analytics-customer-churn-prediction-dashboard.streamlit.app/
+
+---
