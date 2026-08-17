@@ -162,6 +162,6 @@ Built as part of the Teyzix Core Data Analytics Internship (June Batch), Task DA
 
 ## Live App URL
 
-https://data-analytics-customer-churn-prediction-dashboard.streamlit.app/
+https://customer-churns-prediction-dashboard.streamlit.app/
 
 ---
